@@ -140,11 +140,16 @@ Adapted from the CMU model: students pitched self-directed projects in place of 
 ---
 
 ## 10. Known issues in source files
+*All items below verified against the slide XML. Full slide-by-slide detail in `NewLectures/decks-remaining-02-03-04-06-07-08.md`.*
 
-- Speaker notes are dictation transcripts: Lumière → "loom", aperture → "preacher", Eisenstein → "Einstein", The Two Towers → "Twin Towers".
-- Placeholder text `Sdg sdf adsf awer q4j` on title slides of decks 04, 06, 07.
-- Duplicate slides: 03 (30–31, 46–48), 04 (3–5), 06 (27–28).
-- Verify the McCay/vaudeville bet attribution in Deck 02.
+- Speaker notes are dictation transcripts: Lumière → "loom" (02, notes 4), aperture → "preacher" (06, notes 27–28 **and slide 28's visible text**), Eisenstein → "eisenstein ablnd" / "Einstein's" (08, notes 44 **and slide 44's visible text**), The Two Towers → "Twin Towers" (06, notes 16).
+- Placeholder text `Sdg sdf adsf awer q4j` on title-slide **notes** of decks 04, 06, 07. Deck 08's title notes hold a bare `_`.
+- **⚠️ Deck 07's speaker notes desynchronize from slide 25 onward** — each notes page belongs to the slide three positions later, confirmed by the residual slide numbers left in the notes text. Roughly 15 pages to re-match. Slides 40–42 have no notes at all. This is the largest single defect in the set and the reason 07 is first in the work order.
+- Slides with identical text: 03 (30–31, 47–48), 04 (3–5, 7–8), 06 (13–14, 27–28, 35–37), 07 (4–5, 30–31), 08 (12–13, 26–27), 02 (43–47). **Most are progressive builds, not duplicates** — only 03's 30–31 and 47–48 have identical *notes* and are safe to delete outright. See the caution table in the spec file.
+- **Deck 03 mislabels:** slides 47–48 are titled "Steadycam® Shot" but teach the zolly. Slide 43 says a dolly "zooms in," contradicting slide 45. Twelve slides titled `CAMERA ANGLES` and ten titled `CAMERA MOVEMENT TYPES` bury the real shot name in a corner text box.
+- **Deck 04 depends on the textbook** — notes on slides 17 and 22 say "As discussed in Chapter 3 of your book." Violates §1; rewrite to cite Deck 03.
+- **Deck 02's McCay bet attribution is wrong.** It credits **Ed McMahon**, born 1923; *Gertie the Dinosaur* is 1914. Conventionally attributed to cartoonist **George McManus**. Correct it or drop the name. *(Resolves the open item previously listed here.)*
+- Deck 02 also misspells CinemaScope as "Cinescope" (slides 30, 45) and duplicates Muybridge onto slide 2, where it doesn't belong.
 
 ---
 
@@ -164,10 +169,11 @@ Adapted from the CMU model: students pitched self-directed projects in place of 
 | 09 Staging & Acting | ⬜ Build from scratch — outline + Hooks source ready |
 | 10 Boarding for Games | ⬜ Build from scratch — outline ready |
 | 11 The Pitch | ⬜ Build from scratch — outline ready |
-| Handouts H1–H6 | ⬜ Ready to produce |
-| Rubrics (6) | ⬜ Ready to produce |
-| Assignment briefs (5) | ⬜ Ready to produce |
-| Syllabus language | ⬜ Ready to produce |
+| Handouts H1–H6 | ✅ `handouts/` — H1 Notation · H2 Shot Vocabulary · H3 Composition · H4 Continuity · H5 Timing · H6 Acting |
+| Rubrics (6) | ✅ `rubrics/` — 600 pts + 16 exit tickets = 616, mapped to CO1–CO5 |
+| Assignment briefs (5) | ✅ `assignments/` — Final carries `[ASSIGNED SCRIPT — TBD]` |
+| Syllabus language | ✅ `syllabus-language.md` |
+| Spec for the six remaining decks | ✅ `NewLectures/decks-remaining-02-03-04-06-07-08.md` |
 
 ---
 ---
@@ -176,27 +182,25 @@ Adapted from the CMU model: students pitched self-directed projects in place of 
 
 ## What I need from you
 
-**Only one thing: six .pptx files.**
+**The six .pptx files are here.** All of `02_AspectRatios` · `03_Fundamentals_of_Shot` · `04_Script_to_StoryBoard` · `06_perspective` · `07_Storytelling_through_Lighting` · `08_Continuity` are in the parent `Storyboarding/` folder, read, and specced. Nothing is blocked on an upload any more.
 
-`02_AspectRatios` · `03_Fundamentals_of_Shot` · `04_Script_to_StoryBoard` · `06_perspective` · `07_Storytelling_through_Lighting` · `08_Continuity`
+**Still outstanding — one item:** your assigned script for the final, if one exists. The Final brief currently reads `[ASSIGNED SCRIPT — TBD]` and should reference the real thing.
 
-Send them a few at a time — the 20MB limit means roughly two or three per message. Everything else on the list I can produce without anything further from you.
-
-Optional but useful: your assigned script for the final, if one exists, so the briefs reference the real thing.
+**One decision to make** before deck 02 is built: decks 02 and 03 carry the "Organic" theme with Century Gothic, while 04/05/06/07/08/12 carry "Game Design Theme" with Garamond. Deck 01 was rebuilt *without* converting its theme, so precedent says leave them. Worth confirming.
 
 ## Order of work
 
-**Phase 1 — paper (no uploads needed, can start immediately)**
-All six handouts, all rubrics with CO mapping, five assignment briefs, syllabus language for exit tickets / milestone caps / AI policy. Self-contained and immediately usable.
+**Phase 1 — paper** ✅ **complete**
+Six handouts, six rubrics with CO mapping, five assignment briefs, syllabus language for exit tickets / milestone caps / AI policy. Plus the slide-level spec for the six remaining decks, which was the missing prerequisite for Phase 3.
 
-**Phase 2 — new decks (no uploads needed)**
-09 Staging & Acting, 10 Boarding for Games, 11 The Pitch. Built on the same theme as 01/05/12, with vector diagrams.
+**Phase 2 — new decks (nothing blocking)**
+09 Staging & Acting, 10 Boarding for Games, 11 The Pitch. Built on the same theme as 05/12, with vector diagrams. Spec: `NewLectures/decks-new-09-10-11.md`.
 
-**Phase 3 — remaining rebuilds (needs the six files)**
-In value order: **07** (cleanest cut) → **02** → **08 split** → **04** → **03** → **06**.
+**Phase 3 — remaining rebuilds (nothing blocking)**
+In value order: **07** (cleanest cut, and the most broken — see below) → **02** → **08 split** → **04** → **03** → **06**. Spec: `NewLectures/decks-remaining-02-03-04-06-07-08.md`.
+
+Method for Phase 3 is in that file: **edit the original `.pptx` in place and save to `NewLectures/` as `NN_Name_REVISED.pptx`**, which is how 05 and 12 were made. Theme, media, and layouts survive; slides are deleted, merged, or inserted around them. Do not regenerate decks from scratch — the media is instructor-sourced film stills.
 
 ## Realistic expectation
 
-Phases 1 and 2 are the larger share of what's left and neither is blocked. If you send nothing further, you'd still have a complete paper apparatus and three new decks. The six uploads finish the deck set.
-
-Say the word and I'll start Phase 1 now.
+Both remaining phases are unblocked. Phase 3 is roughly **37 speaker-notes pages needing rewrites**, the majority of them in Deck 07 alone, which is why 07 is first.

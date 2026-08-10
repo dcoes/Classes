@@ -1,0 +1,131 @@
+# Syllabus Language — CA 140 Storyboarding
+*Drop-in paragraphs. Copy into the syllabus as-is, or edit to taste. Written in the voice you'd actually use in front of the class.*
+
+---
+
+## Grading summary
+
+| Assignment | Points |
+|---|--:|
+| A1 — Template Build | 50 |
+| City Park Sequence | 100 |
+| Midterm — Reverse Analysis | 100 |
+| Animatic | 100 |
+| Final — Script to Animatic | 200 |
+| The Pitch | 50 |
+| Exit tickets (16 sessions × 1) | 16 |
+| **Total** | **616** |
+
+---
+
+## What this course grades
+
+**This course grades clarity and judgment, not rendering.**
+
+The question asked of every submission is never "is this well drawn." It is: *does this communicate, and did you decide it on purpose.* Drawing here is treated as **notation** — a way of writing down a decision so that someone else can build it.
+
+That is not a lowered standard. It is a different one, and it is the standard the job actually uses. A production board is crude because panels are disposable thinking. You will see real, shipped, professional boards in Session 1 that are worse-drawn than anything you will hand in, and they were made by people at the top of this field.
+
+**The recurring standard is silhouette readability.** Fill a figure in solid black; if a stranger can't name the action, the pose failed — regardless of how well it's drawn. It is introduced in Session 1, referenced in composition, staging, and every critique, and it is deliberately independent of skill level. That is what makes it fair.
+
+**If you have never drawn before, you can do well in this course.** If you draw beautifully and won't make decisions, you will not.
+
+---
+
+## Exit tickets — 16 points
+
+**Every session ends with a posted exit ticket.** One point each, sixteen sessions, sixteen points.
+
+Exit tickets are **graded on existing, not on quality.** They are ten to ninety seconds of work — ten quick poses, three silhouettes, a checklist run on one panel, a beat sheet line. Post it before you leave.
+
+They exist for two reasons, and it's worth being straightforward about both:
+
+1. **They make the lecture land on a decision.** Every concept in this course ends in something you have to actually choose, and the exit ticket is where you choose it while the lecture is still in the room with you.
+2. **Attendance decays during work sessions, and this is the honest counterweight.** A session you weren't in is a point you don't get. Sixteen points won't change a letter grade on its own, but they change several borderline ones, and they are the easiest points on the syllabus.
+
+There are no make-ups for exit tickets. Being there is the assignment.
+
+---
+
+## Milestone grading and the milestone cap
+
+Most assignments in this course are graded in stages: **beat sheet → thumbnails → rough → final.** Each stage is worth points on its own.
+
+> **Each milestone gates the next. A stage submitted without the preceding stage is capped at 50% of that stage's available points.**
+
+The cap **cascades.** On the final project, a student who skips thumbnails and roughs to arrive with finished boards loses 60 points outright and has their 45-point final boards capped at 22.5 — an 82.5-point penalty on a 200-point assignment.
+
+The arithmetic is deliberate. It is designed to make skipping process **irrational**, not merely discouraged.
+
+Three honest reasons for it:
+
+1. **The process is the objective.** Tabulating a sequence into beats and mapping beats to panels is, almost literally, one of this course's stated learning outcomes. The beat sheet isn't administrative overhead standing in front of the real assignment. It *is* part of the real assignment.
+2. **Problems found early are cheap.** Fail faster. A staging problem caught at the thumbnail stage costs you ten minutes. The same problem caught at final boards costs you a weekend. This is the single most transferable professional habit in the course.
+3. **It is the structural answer to work you didn't do yourself.** See below.
+
+---
+
+## AI and generative tools
+
+**The policy is simple: process is what's assessed, and process is what you have to show.**
+
+This course grades a chain of dated, staged work — beat sheet, thumbnails, roughs, finals, animatic — and each stage has to follow from the one before it. Final boards that don't descend from your own thumbnails are not final boards, whatever produced them, and the milestone cap handles that arithmetically without anyone having to run an investigation.
+
+Some specifics:
+
+- **Reference is not cheating.** It never was. Every professional uses reference; the ones who don't have simply memorized more of it. Photo reference, video reference, acting it out, shooting it on your phone — all encouraged, all professional practice.
+- **Generative tools for ideation** — mood, lighting, environment exploration — are permitted, and should be **disclosed** in your submission. Say what you used and where.
+- **Generated panels submitted as your boards are not the assignment**, because the assignment is the decision, not the image. A generated panel has no line of action you chose, no shot you selected, no relationship to the panel before it that you designed. It cannot be critiqued, because there is no reasoning behind it to interrogate.
+- **You will not be accused of anything based on how something looks.** Nobody's grade here rests on a judgment about whether a drawing "looks AI." It rests on whether the chain of work exists.
+
+**The straight version:** the part of this job that is "make a picture of a thing" is under real pressure, and I'm not going to pretend otherwise. The part that is "decide what the picture should be, and know why" is what you're being trained in, and it's the part that's still yours. That's not reassurance — it's the reason this course is built the way it is.
+
+---
+
+## Critique
+
+**Critique participation is graded.** Giving notes is assessed evidence for a course objective — *explain the creative work of self and peers* — and it is an objective you cannot meet by submitting work alone.
+
+Two rules, stated once and enforced all term:
+
+**The note is data, not a verdict.** Notes happen on excellent work too. Always. Notes are not a judgment on you; they are the job.
+
+**Don't defend.** While notes are being given, the artist does not respond except to ask a clarifying question. You may respond after all the notes are in. This is hard, it feels unnatural, and it is non-negotiable — because if you have to explain what you meant, the boards didn't say it, and *that is the note.*
+
+You are allowed to disagree. You are not allowed to be precious. "Let me try both" is a professional answer. So is "can I show you why I went the other way." Then let the work argue.
+
+---
+
+## Late work
+
+Milestones cannot be submitted late, because a milestone submitted after the stage it gates is not a milestone — it's a reconstruction. Missing one triggers the cap.
+
+Final submissions are accepted late at the standard program penalty.
+
+If something serious is going on in your life, tell me before the deadline rather than after. I can do a great deal in advance and very little in retrospect.
+
+---
+
+## Materials
+
+**No textbook is required.** Tuminello's *Exploring Storyboarding* is recommended if you want a reference on your shelf, but **everything required in this course is in the lectures and handouts.** Do not buy a book on my account.
+
+**Software:** Photoshop, or **Photopea** — which is free, runs in a browser, and opens and saves `.psd` files. For the animatic: After Effects, DaVinci Resolve (free), or Premiere. Any NLE is acceptable.
+
+**The Photoshop prerequisite is not reliably enforced, and I know that.** If you have never opened it, say so early. You will not be the only one, and there is a demo in Session 2. I would much rather spend ten minutes on file formats than have you lose an assignment to one.
+
+**Physical:** paper and a pencil. That's genuinely it.
+
+---
+
+## A note on where this field is going
+
+Two things are worth saying out loud in a craft course, and I'd rather say them in week one than have you find out later.
+
+**Technological change.** Entry-level 2D board roles have contracted. Generative tools produce panels quickly and studios are testing them widely. What is holding its value: judgment, taste, art direction, and the ability to sit in a room and defend a choice. Viable paths run through 2D/3D hybridity, previs, games, strong generalism, and fluency in adjacent industries. I'm not going to tell you the field is fine. I'm going to tell you which half of the job is durable, and then train you in it.
+
+**Societal change.** What artists make shapes what audiences believe is normal, and that is a legitimate thing to raise in a craft course. You will make choices this term about who is centered in a frame, who is looked at, who is looking. Those are craft decisions and they are also not *only* craft decisions. It's worth knowing that while you make them.
+
+A machine can generate a panel. It cannot stand in a room, understand what a director is actually worried about, and propose the fix.
+
+That's the job. It always was. The drawing was only ever how you delivered it.
