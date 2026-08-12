@@ -160,7 +160,7 @@ Adapted from the CMU model: students pitched self-directed projects in place of 
 | 01 Intro | ✅ Rebuilt — 71→46 slides, diagrams |
 | 05 Composition | ✅ Rebuilt — 29→52 slides, 16 diagrams |
 | 12 Animatics | ✅ Rebuilt — 40→41 slides |
-| 02 Aspect Ratios | ⬜ **Need .pptx** |
+| 02 Aspect Ratios | ✅ Rebuilt — 47→35 slides, storyboard history 19→7, 3 new slides on current ratios, worked arithmetic table |
 | 03 Fundamentals of the Shot | ⬜ **Need .pptx** |
 | 04 Script to Storyboard | ⬜ **Need .pptx** |
 | 06 Perspective | ⬜ **Need .pptx** |
