@@ -160,12 +160,12 @@ Adapted from the CMU model: students pitched self-directed projects in place of 
 | 01 Intro | ✅ Rebuilt — 71→46 slides, diagrams |
 | 05 Composition | ✅ Rebuilt — 29→52 slides, 16 diagrams |
 | 12 Animatics | ✅ Rebuilt — 40→41 slides |
-| 02 Aspect Ratios | ⬜ **Need .pptx** |
-| 03 Fundamentals of the Shot | ⬜ **Need .pptx** |
-| 04 Script to Storyboard | ⬜ **Need .pptx** |
-| 06 Perspective | ⬜ **Need .pptx** |
-| 07 Lighting | ⬜ **Need .pptx** |
-| 08 Continuity → 08a / 08b | ⬜ **Need .pptx** |
+| 02 Aspect Ratios | ✅ Rebuilt — 47→35 slides, storyboard history 19→7, 3 new slides on current ratios, worked arithmetic table |
+| 03 Fundamentals of the Shot | ✅ Rebuilt — 53→46 slides, 22 buried shot labels promoted to real titles |
+| 04 Script to Storyboard | ✅ Rebuilt — 36 slides, gains the screenplay-format section from Deck 01 |
+| 06 Perspective | ✅ Rebuilt — 37→30 slides, reordered to lead with the five free depth cues |
+| 07 Lighting | ⬜ Skipped at instructor request — handled elsewhere. Notes desync from slide 25 remains unaddressed here. |
+| 08 Continuity → 08a / 08b | ✅ Split — 08a The Rules (24, before City Park) · 08b The Cut (22, near the animatic) |
 | 09 Staging & Acting | ⬜ Build from scratch — outline + Hooks source ready |
 | 10 Boarding for Games | ⬜ Build from scratch — outline ready |
 | 11 The Pitch | ⬜ Build from scratch — outline ready |
