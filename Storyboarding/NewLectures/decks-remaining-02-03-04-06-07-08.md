@@ -52,7 +52,15 @@ Content left a rebuilt deck and currently lands nowhere. These are not optional.
 ---
 
 # DECK 07 — STORYTELLING THROUGH LIGHTING
-**42 slides → target ~26 · first in the work order, cleanest cut**
+**42 slides → target ~30 · Session 11 · Paired with EX6**
+
+> **⚠️ Revised.** This deck was previously skipped and is now back in scope. Beyond the repairs below, it must carry the framing that the redesigned **EX6 Lighting Study** depends on. Three additions are load-bearing and are marked **[EX6]** in the outline:
+>
+> 1. **Identification before production.** EX6 Part 1 is eight stills read for five attributes, worth 12 points, with no making at all — that's how a student who can't draw earns marks on the actual objective. The lecture has to mirror that ordering: teach reading a lit frame *before* teaching making one.
+> 2. **The three-value reduction, demoed live on three media.** Posterizing a photograph, a render and a drawing side by side is what makes EX6 gradeable across media, and seeing it is far more convincing than being told it.
+> 3. **The medium list said out loud.** Drawing, phone photo with a desk lamp, 3D render, value study — all equal credit. This must be offered before anyone asks, not granted when they do.
+>
+> Also strengthen the **two dials** material (slide 11): high key vs. low contrast is the single most costly confusion in the assignment.
 
 ## What changed
 - **Color: 13 slides → 4.** The entire color-theory block (30–42: color wheel, complementary, analogous, triadic, split-complementary, tetradic, square, warm, cool, meanings-of-color) is general design theory, not lighting, and not shot lighting. Four slides survive.
@@ -83,6 +91,22 @@ Content left a rebuilt deck and currently lands nowhere. These are not optional.
 
 ---
 
+### PART 1B — READ IT BEFORE YOU MAKE IT (4a–4c) ← **new [EX6]**
+> Placed first on purpose. The assignment is ordered this way and the lecture has to match, or the ordering reads as an afterthought instead of an argument.
+
+**4a · Five questions describe any lit frame ever made**
+Key direction · high key or low key · contrast · hard or soft · motivated or stylized.
+*Say: there is no sixth question. Answer these five and you've described the lighting of any shot in any film. Naming is the whole skill — the making is proving the naming was real.*
+
+**4b · Run them live on four stills**
+Four frames on screen, class answers all five attributes out loud, wrong answers welcome.
+*[LIVE: let them argue about hard vs. soft — that's the one with a genuine grey zone.]*
+
+**4c · You cannot direct light you can't name** ← the thesis slide
+*Say: most student panels are flat because the value structure was never decided, and it was never decided because there was no vocabulary to decide it in. That's what today fixes, and it's why the first twelve points of your assignment involve no drawing at all.*
+
+---
+
 ### PART 2 — THE THREE-POINT SETUP (5–9)
 *(Source 6–10, essentially intact. This section is good.)*
 
@@ -107,9 +131,20 @@ A simple overhead diagram — subject, camera, and three light positions on the 
 *(Source 11–13 compressed from three slides to one.)* High key: overall brightness, minimal shadow, comedy and sitcom and daylight. Low key: uneven, shadow-dominant, noir and thriller and horror.
 *Say: this is a mood dial and it costs you nothing to turn. Decide it once for the sequence, before you draw a panel.*
 
-**11 · Contrast is a separate dial**
+**11 · Contrast is a separate dial** ← **strengthened [EX6]**
 *(Source 14–16 compressed.)* High contrast: extremes, drama, thriller. Low contrast: all grays, flat, the viewer takes in the whole.
 *Say: high key and high contrast are not the same thing, and students mix them up constantly. Brightness is one dial. The distance between your lightest and darkest is another.*
+
+**11b · The 2×2** ← **new, vector [EX6]**
+A four-cell table on the theme palette:
+
+| | Low contrast | High contrast |
+|---|---|---|
+| **High level** | **High key** — sitcom, comedy, most animation | Noon desert. Interrogation. |
+| **Low level** | Fog, dusk, rain — **low contrast, nowhere near high key** | **Low key** — noir, horror, thriller |
+
+*Say: high key does not mean bright and low key does not mean dark. Both describe how much shadow there is. That's why your assignment asks for high key AND low contrast as separate items — if your two look the same, you're working one dial when there are two, and it costs you both.*
+*[LIVE: put four frames up unlabelled and have the room place each one in a cell.]*
 
 **12 · Light quality: hard vs. soft**
 *(Source 17–19 compressed.)* Sunny day = directional = hard edges. Overcast = omnidirectional = soft, diffuse.
@@ -125,6 +160,19 @@ Black, mid-gray, white. That's enough to describe any lighting setup on a board.
 **15 · The squint test on a lit panel** ← **new**
 Same test, applied to light: squint at your panel. Is the lit thing the thing that matters?
 *Say: if the brightest shape in your frame isn't the subject, you've lit the wrong thing, and no amount of rendering will save it.*
+
+**15b · The three-value reduction, live, on three media** ← **new [EX6] · the demo that carries the assignment**
+Posterize a **photograph**, a **3D render** and a **pencil drawing** to black / mid-grey / white, side by side on one slide.
+*[LIVE: do this in front of them. Pre-load the three originals; posterize each one on screen.]*
+*Say: look at what just happened. Three completely different things to make, and once you reduce them they're the same class of object — three shapes on a page. Which means the question "is the lit shape the subject, and is the light coming from where you said" doesn't care what made the image.*
+
+**15c · So the medium is yours** ← **new [EX6] · say this before anyone raises a hand**
+Draw it · photograph one object with a desk lamp · render it in 3D · value-study from your own photos. **All equal credit.**
+*Say: this assignment assesses whether you can identify and control light. That is not the same skill as drawing, and grading it as though it were would be measuring the wrong thing. So pick whatever you can actually control a light source in. A phone and a desk lamp is a complete kit.*
+
+**15d · The naming test** ← **new [EX6]**
+Cover the labels. Hand the six reductions to a stranger. Can they sort them to the six setup names?
+*Say: this is the silhouette test from week one, pointed at light instead of shape. Same test, same logic, same reason it's fair — it's independent of how well you draw. You can run it on yourself before you submit, and you should.*
 
 ---
 
@@ -178,11 +226,28 @@ Warm (red/orange/yellow): energy, passion, day, safety, fire. Cool (blue/green/p
 
 ---
 
-### PART 7 — APPLY IT (27)
+### PART 7 — APPLY IT (27–28)
 
 **27 · Exit exercise: light one panel three ways**
 One panel, three lighting directions — side, back, under. Nothing else changes.
 *Say: same drawing, three different scenes. Post them before you leave.*
+
+**28 · The three tools you just used were one tool** ← **new [EX6]**
+The **light plan** is Deck 04's floor plan with lamps on it. The **three-value reduction** is H3's composition discipline. The **naming test** is Session 1's silhouette test.
+*Say: I keep telling you this course is six tools wearing different hats, and this is the session where you can see all three at once. When the floor plan turns up again in the games session, that'll be its fifth appearance. Noticing that is most of what I'm actually trying to teach you.*
+
+---
+
+## Assignment pairing
+
+**EX6 — Lighting Study**, 40 pts, assigned this session, due Session 13. Brief and rubric written.
+
+- **Part 1 · The Read (12)** — eight stills, five attributes each. No making. Directly mirrors slides 4a–4c.
+- **Part 2 · Six Setups (28)** — three-point, side, high key, low key, underlight, low contrast, **in any medium**, with a light plan and a three-value reduction each.
+
+**Handout: H7 — Lighting Reference Card.** Written. Open-book for Part 1, the way H2 is for the midterm. Carries the five questions, the 2×2, the six setups, direction, hard/soft, motivated/stylized, and the naming test.
+
+**Eight stills needed before this session runs.** They're the answer key for 12 of the 40 points, so pick unambiguous cases. Listed in `INSTRUCTOR.md`'s pre-term checklist.
 
 ---
 ---

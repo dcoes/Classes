@@ -197,15 +197,16 @@ Adapted from the CMU model: students pitched self-directed projects in place of 
 | 09 Staging & Acting | ⬜ Build from scratch — outline + Hooks source ready · **now Session 9** |
 | 10 Boarding for Games | ⬜ Build from scratch — outline ready |
 | 11 The Pitch | ⬜ Build from scratch — outline ready |
-| 13 After Effects for Boards | ⬜ **New.** No deck, no spec yet. Session 12 |
+| 13 After Effects for Boards | ⬜ **New.** Spec ready — `NewLectures/deck-new-13-after-effects.md`. Session 12. Cheapest build in the set |
 | Handouts | ✅ H1–H8 in `handouts/` — H7 Lighting and H8 After Effects added |
 | Rubrics (12) | ✅ `rubrics/` — 770 pts + 16 exit tickets = 786, two-band, mapped to CO1–CO5 |
 | Assignment briefs (12) | ✅ `assignments/` — 1:1 with rubrics. PR4 carries `[ASSIGNED SCRIPT — TBD]` |
 | Syllabus language | ✅ `syllabus-language.md` — two-band table, medium-choice policy |
 | Session map | ✅ `SESSION_MAP.md` — 16 sessions, decks, handouts, milestones |
 | Working principles | ✅ Root `CLAUDE.md` |
-| Instructor notes | ⬜ `INSTRUCTOR.md` — one section per session |
-| Swap-in module specs | ⬜ `modules/` — New Media · AI · Previs · VR |
+| Instructor notes | ✅ `INSTRUCTOR.md` — pre-term checklist + one section per session + standing notes |
+| Swap-in module specs | ✅ `modules/` — New Media (16) · AI (12, insert only) · Previs (16) · VR (14). Specs only; no `.pptx` yet |
+| Deck 07 spec | ✅ Revised for the EX6 redesign — identification-first, the live three-media posterize, the medium list, the 2×2 |
 | Spec for the six remaining decks | ✅ `NewLectures/decks-remaining-02-03-04-06-07-08.md` |
 
 ---
