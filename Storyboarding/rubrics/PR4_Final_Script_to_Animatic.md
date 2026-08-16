@@ -1,5 +1,6 @@
-# Rubric — Final: Script to Animatic
-**200 points · Assessed against CO1, CO2, CO3, CO4, CO5**
+# Rubric — PR4: Final, Script to Animatic
+**200 points · Band PR · Assessed against CO1, CO2, CO3, CO4, CO5**
+**Brief:** [`assignments/PR4_Final_Script_to_Animatic.md`](../assignments/PR4_Final_Script_to_Animatic.md)
 
 > Everything, end to end. A script becomes a beat sheet becomes thumbnails becomes boards becomes a timed animatic with sound.
 >
@@ -9,29 +10,32 @@
 
 ## Milestone chain
 
-| Stage | Pts | CO |
-|---|--:|---|
-| **1 · Beat sheet** | 20 | CO3 |
-| **2 · Shot list + floor plans** | 20 | CO2, CO3 |
-| **3 · Thumbnails** | 25 | CO1 |
-| **4 · Rough boards** | 35 | CO1, CO4 |
-| **5 · Final boards** | 45 | CO1, CO4 |
-| **6 · Animatic** | 45 | CO3, CO4 |
-| **7 · Critique participation** | 10 | CO5 |
+| Stage | Pts | Due | CO |
+|---|--:|---|---|
+| **1 · Script markup + beat sheet** | 25 | S10 | CO2, CO3 |
+| **2 · Shot list + floor plans** | 20 | S11 | CO2, CO3 |
+| **3 · Thumbnails** | 25 | S12 | CO1 |
+| **4 · Rough boards** | 30 | S14 | CO1, CO4 |
+| **5 · Final boards** | 45 | S16 | CO1, CO4 |
+| **6 · Animatic** | 45 | S16 | CO3, CO4 |
+| **7 · Critique participation** | 10 | S16 | CO5 |
 
 > **Each milestone gates the next. A stage submitted without the preceding stage is capped at 50% of that stage's available points.**
 >
-> Across seven stages the cascade is severe by design. A student who skips thumbnails and roughs to arrive with finished boards loses 60 points outright and has their 45-point final boards capped at 22.5 — a 82.5-point penalty on a 200-point assignment. **Skipping process is not a shortcut here; it is a failing grade.**
+> Across seven stages the cascade is severe by design. A student who skips thumbnails and roughs to arrive with finished boards loses 55 points outright and has their 45-point final boards capped at 22.5 — a 77.5-point penalty on a 200-point assignment. **Skipping process is not a shortcut here; it is a failing grade.**
 
 ---
 
-## 1 · Beat sheet — 20 pts · CO3
+## 1 · Script markup + beat sheet — 25 pts · CO2, CO3
 
 | | Pts | Full credit |
 |---|--:|---|
-| Events tabulated in order | 10 | Every beat, one line each. |
-| Beat → panel mapping | 6 | Intended panel count per beat. |
-| Structure identified | 4 | The sequence's shape is named — where it turns, what the hook is, what the sequence is *about*. |
+| **Script markup** | 10 | The script is highlighted by shot size, one colour per size, with margin annotations for angle, framing and camera move. Terminology correct *(CO2)*. |
+| Events tabulated in order | 8 | Every beat, one line each. |
+| Beat → panel mapping | 4 | Intended panel count per beat. |
+| Structure identified | 3 | The sequence's shape is named — where it turns, what the hook is, what the sequence is *about*. |
+
+*The markup is the cheapest diagnostic in the whole chain, for the student and for the grader. **A long unbroken run of one colour is coverage that never varies. A colour change on every line is cutting for its own sake.** Both are visible at a glance, on a page, before a single panel exists.*
 
 ## 2 · Shot list + floor plans — 20 pts · CO2, CO3
 
@@ -46,17 +50,24 @@
 
 | | Pts | Full credit |
 |---|--:|---|
-| Full coverage | 10 | The whole sequence, not the fun parts. |
-| Alternatives explored | 10 | At least three beats staged two ways, with the choice indicated and briefly justified. |
-| Disposability | 5 | Fast and loose. Rendered thumbnails are marked down. |
+| **Coverage — the sprint sheet** | 8 | The in-class Session 12 sprint sheet, every beat present, photographed and posted the same session. Nothing rendered. |
+| **Divergence** | 9 | Five designated beats, three ways each. **A variant counts only if it changes shot size, camera angle, blocking, or which character the frame is on.** |
+| **The rejected one** | 6 | Choice marked per beat, plus one line on what the rejected version did better. |
+| **Format discipline** | 2 | Delivered on the EX2 working sheet. Oversize panels score zero for that beat. |
 
-## 4 · Rough boards — 35 pts · CO1, CO4
+> **A final panel that is a scan, trace, or upscale of a thumbnail scores as a missing panel** on stage 5.
+
+*This stage grades exploration, not drawings. Every line is countable — a sheet, a count of variants, a count of marked choices, a page measurement — which is what makes it possible to grade brainstorming without grading taste.*
+
+*The sprint sheet is made in class on purpose. Ninety seconds a beat is too fast to render, the work is demonstrably the student's own, and it puts the first pass in a room the instructor is standing in. That single mechanism addresses grading brainstorming, provenance, and work-session attendance at once.*
+
+## 4 · Rough boards — 30 pts · CO1, CO4
 
 | | Pts | Full credit |
 |---|--:|---|
-| Action and dialogue blocked | 12 | Legible in every panel. |
-| Continuity established | 13 | Line held, screen direction consistent, eyelines matched, action matched across cuts. |
-| Silhouette readability | 10 | Poses read filled solid black. |
+| Action and dialogue blocked | 10 | Legible in every panel. |
+| Continuity established | 11 | Line held, screen direction consistent, eyelines matched, action matched across cuts. |
+| Silhouette readability | 9 | Poses read filled solid black. |
 
 ## 5 · Final boards — 45 pts · CO1, CO2, CO4
 

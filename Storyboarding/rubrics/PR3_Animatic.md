@@ -1,5 +1,6 @@
-# Rubric — Animatic
-**100 points · Assessed against CO1, CO3, CO4**
+# Rubric — PR3: Animatic
+**100 points · Band PR · Assessed against CO1, CO3, CO4**
+**Brief:** [`assignments/PR3_Animatic.md`](../assignments/PR3_Animatic.md)
 
 > Boards handle blocking, camera, and action. They cannot tell you **how long.** This assignment assesses the one dimension a board can't carry.
 >

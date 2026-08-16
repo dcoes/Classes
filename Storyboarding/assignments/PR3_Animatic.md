@@ -1,6 +1,6 @@
-# Animatic
-**100 points**
-**Rubric:** [`rubrics/Animatic.md`](../rubrics/Animatic.md)
+# PR3 — Animatic
+**100 points · Assigned Session 13 · Due Session 15**
+**Rubric:** [`rubrics/PR3_Animatic.md`](../rubrics/PR3_Animatic.md)
 **Handout:** H5 (Timing & Hold-Length Reference)
 
 ---
@@ -15,7 +15,9 @@ You answered this for the boards. Answer it again for the timing, because they a
 
 ## The assignment
 
-Take your boards. Cut them to time. Put sound under them.
+**Take your City Park boards — the ones you finished in Session 8 — and turn them into an animatic.** Cut them to time. Put sound under them.
+
+You are not drawing a new sequence. You already have one, it has already been critiqued, and you already know what's wrong with it. Fixing panels in light of those notes is not only allowed, it's expected.
 
 Boards handle blocking, camera, and action. They cannot tell you **how long.** This assignment assesses the one dimension a board can't carry — and it's where most student projects fall apart.
 
@@ -95,6 +97,18 @@ The industry pulls temp tracks from released films and replaces them later. You 
 Timing that reads across the whole piece. Panels legible at speed. Camera moves that actually work because the artwork supports them. Delivered at the correct ratio and frame rate, playing cleanly without anyone intervening.
 
 **Three timing passes minimum**, and you have to be able to show them — versioned files, or a written note on what changed between passes and why. Your first timing pass will be wrong. Everyone's is.
+
+---
+
+## The floor, and why it isn't the ceiling
+
+You have heard me say the minimum is "a moving PowerPoint." That is true, and it will pass.
+
+It is also the least interesting thing you could hand in, and here is the honest reason: **a slideshow of your panels proves nothing that the panels didn't already prove.** You submitted those in Session 8 and they were graded then. The only thing this assignment can assess is what the boards *couldn't* carry — how long each moment lasts, where the rhythm changes, and whether the sequence feels like anything.
+
+So the bar is not "did the images appear in order." It's **does it play.** Does a held beat feel held. Does a fast cut feel fast. Does someone watching it, who has never seen your boards, follow the story and feel the shape of it.
+
+That is reachable with cuts and durations alone. It does not require animation, and it does not require After Effects.
 
 ---
 

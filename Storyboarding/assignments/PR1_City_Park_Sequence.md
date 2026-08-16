@@ -1,6 +1,6 @@
-# City Park Sequence
+# PR1 — City Park Sequence
 **100 points · Assigned Session 4 · Final boards due Session 8**
-**Rubric:** [`rubrics/City_Park_Sequence.md`](../rubrics/City_Park_Sequence.md)
+**Rubric:** [`rubrics/PR1_City_Park_Sequence.md`](../rubrics/PR1_City_Park_Sequence.md)
 **Handouts:** H1 (Notation) · H3 (Composition Checklist) · H4 (Continuity Rules)
 
 ---
@@ -50,11 +50,17 @@ The constraint is the assignment. Take it seriously and it is genuinely difficul
 
 **1 · Beat sheet.** Every event in the sequence, in order, one line each, with how many panels you intend to give it. This is a list, not prose. It is also the direct assessment of a course objective, so do not treat it as a formality.
 
-**2 · Thumbnails.** The whole sequence, small and fast. At least one beat staged two different ways with your choice marked. **Rendered thumbnails are marked down** — the point of a thumbnail is that you can throw it away.
+**2 · Thumbnails.** The whole sequence, small and fast, on your **EX2 working sheet** — the small-panel one, many to a page.
+
+At least two beats staged **two different ways.** A second version only counts if it changes one of: **shot size · camera angle · blocking · which character the frame is on.** Redrawing the same idea more neatly is not a second version.
+
+For each of those beats, submit both, mark your choice, and write **one line on what the rejected version did better.** That line is worth points, and you cannot write it honestly without having actually considered both.
+
+What's graded here is the exploration, not the drawings. Nothing on the rubric rewards a polished thumbnail — and a thumbnail drawn at final-panel size is out of spec, because the point of a thumbnail is that you can throw it away.
 
 **3 · Rough boards.** First full-size pass. Block the action. Establish the line, hold your screen direction, match your eyelines. Poses must read in silhouette.
 
-**4 · Final boards.** The full sequence on your A1 template, notated per H1, with the H3 and H4 checklists actually run.
+**4 · Final boards.** The full sequence on your EX2 presentation sheet, notated per H1, with the H3 and H4 checklists actually run.
 
 ---
 

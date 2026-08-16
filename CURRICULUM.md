@@ -26,6 +26,8 @@ The table below is the enforcement mechanism. It says what each course **owns**,
 | **Iteration & prototyping** | Game Design — 2_Design_Process | Storyboarding | Game Design owns the production methodology (agile, backlog, playtest protocol). Storyboarding borrows only the *disposability principle* — see transfers below. |
 | **Systems design** (space, states, actions, rules, probability) | Game Design — 07_Mechanics | — | Out of scope for Storyboarding entirely. Do not import. |
 | **Critique & receiving notes** | Shared, deliberately | All | This is the one concept that *should* repeat across courses. Repetition is the pedagogy. Keep the framing consistent: the note is data, not a verdict; don't defend. |
+| **After Effects** | Motion Graphics | Storyboarding — Deck 13 | **Split, and the split is narrow.** Motion Graphics owns AE *as a craft* — effects, expressions, motion design, compositing. Storyboarding owns AE *as an animatic tool*, and only five operations: import a layered `.psd`, move an anchor point, parent, mask, export a timed cut. Deck 13 teaches those five and stops. It must never grow into a motion-design unit. **See the note below.** |
+| **Delivery formats, aspect ratio & vertical** | Storyboarding — Deck 02 + the New Media module | All | Ratio arithmetic, safe areas, protect-and-deliver, and 9:16 staging belong here, because *frame shape determines staging* is this course's founding argument and its first assignment. Other courses may deliver to those formats freely; none should re-teach why they exist. |
 
 ---
 
@@ -50,6 +52,22 @@ You already teach pitching in Game Design, with a working lecture and an assignm
 **The distinction to state out loud in class:** a business pitch sells the *idea*. A story pitch makes the room *see the film*. Students who take both courses should get the second one as a specialization of a skill they already have a foundation in — and you can say that explicitly, which makes the department look coordinated rather than repetitive.
 
 **One line worth stealing verbatim** from the Game Design deck into Deck 11, because it's the best sentence in either: *"Because as the designer, no one knows more about the project than you do."* Same is true of the board artist, and it's the right answer to student nerves.
+
+---
+
+## The After Effects split — new, and worth watching
+
+CA 140 has been running an After Effects exercise every term with no deck, no brief and no rubric. It now has all three (EX7, Deck 13), which makes a previously invisible overlap with Motion Graphics visible for the first time.
+
+**Why Storyboarding should keep it anyway:**
+
+- The animatic is an assessed deliverable in two projects here (PR3, PR4). A course cannot require a timed cut with sound and teach none of the means to produce one.
+- For a meaningful number of these students it is the only structured AE exposure they get before they need it.
+- The five operations taught are genuinely the animatic subset. None of them is motion design.
+
+**The line that keeps this from drifting.** Deck 13 closes on a design question — *what would you have had to plan in the drawing to make this move possible?* — not on a technique. The moment the deck starts teaching effects, easing, or expressions, it has crossed into Motion Graphics' territory and should be cut back.
+
+**Worth confirming with that instructor-of-record**, since this is the one row in the table where two courses touch the same software rather than the same idea.
 
 ---
 

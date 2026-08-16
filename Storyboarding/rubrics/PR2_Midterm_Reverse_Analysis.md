@@ -1,5 +1,6 @@
-# Rubric — Midterm: Reverse Analysis
-**100 points · Assessed against CO2, CO3, CO5**
+# Rubric — PR2: Midterm, Reverse Analysis
+**100 points · Band PR · Assessed against CO2, CO3, CO5**
+**Brief:** [`assignments/PR2_Midterm_Reverse_Analysis.md`](../assignments/PR2_Midterm_Reverse_Analysis.md)
 
 > You are given a finished sequence. You board it backwards — from the screen to the page — and then explain what the director did and why.
 >

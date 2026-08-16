@@ -5,16 +5,34 @@
 
 ## Grading summary
 
-| Assignment | Points |
-|---|--:|
-| A1 — Template Build | 50 |
-| City Park Sequence | 100 |
-| Midterm — Reverse Analysis | 100 |
-| Animatic | 100 |
-| Final — Script to Animatic | 200 |
-| The Pitch | 50 |
-| Exit tickets (16 sessions × 1) | 16 |
-| **Total** | **616** |
+Work in this course comes in two kinds, and they are graded differently on purpose.
+
+**Skill exercises** are short, single-stage, and each one isolates a single thing — a measurement, a shot type, a lighting setup. They are cheap to do and cheap to fail, and they exist so that you find out what you can't do yet while it's still worth almost nothing.
+
+**Projects** are graded in stages, and the stages gate each other. That's where the weight is.
+
+| | Assignment | Points |
+|---|---|--:|
+| EX1 | Diagnostic Boards *(pass/revise)* | 10 |
+| EX2 | Template Build | 50 |
+| EX3 | Twelve Shots | 30 |
+| EX4 | Perspective Study | 30 |
+| EX5 | Continuity Strips | 40 |
+| EX6 | Lighting Study | 40 |
+| EX7 | After Effects — Rig & Move | 20 |
+| | **Skill exercises** | **220** |
+| PR1 | City Park Sequence | 100 |
+| PR2 | Midterm — Reverse Analysis | 100 |
+| PR3 | Animatic | 100 |
+| PR4 | Final — Script to Animatic | 200 |
+| PR5 | The Pitch | 50 |
+| | **Projects** | **550** |
+| | Exit tickets (16 sessions × 1) | 16 |
+| | **Total** | **786** |
+
+Roughly 28% exercises, 70% projects, 2% exit tickets.
+
+**The exercises are not warm-ups for the grade — they are warm-ups for the projects.** Every one of them is the small version of something a project asks for later: the twelve shots rehearse the midterm, the City Park boards become the animatic, the After Effects exercise is the software you'll need one session afterward. Losing points on an exercise is information, and it arrives while it's still cheap.
 
 ---
 
@@ -49,11 +67,13 @@ There are no make-ups for exit tickets. Being there is the assignment.
 
 ## Milestone grading and the milestone cap
 
-Most assignments in this course are graded in stages: **beat sheet → thumbnails → rough → final.** Each stage is worth points on its own.
+The **projects** in this course are graded in stages: **beat sheet → thumbnails → rough → final.** Each stage is worth points on its own.
 
 > **Each milestone gates the next. A stage submitted without the preceding stage is capped at 50% of that stage's available points.**
 
-The cap **cascades.** On the final project, a student who skips thumbnails and roughs to arrive with finished boards loses 60 points outright and has their 45-point final boards capped at 22.5 — an 82.5-point penalty on a 200-point assignment.
+The cap **cascades.** On the final project, a student who skips thumbnails and roughs to arrive with finished boards loses 55 points outright and has their 45-point final boards capped at 22.5 — a 77.5-point penalty on a 200-point assignment.
+
+**This applies to projects only.** The skill exercises are single-stage and carry no cap.
 
 The arithmetic is deliberate. It is designed to make skipping process **irrational**, not merely discouraged.
 
@@ -115,6 +135,20 @@ If something serious is going on in your life, tell me before the deadline rathe
 **The Photoshop prerequisite is not reliably enforced, and I know that.** If you have never opened it, say so early. You will not be the only one, and there is a demo in Session 2. I would much rather spend ten minutes on file formats than have you lose an assignment to one.
 
 **Physical:** paper and a pencil. That's genuinely it.
+
+---
+
+## On medium, and the question you were going to ask
+
+**Some assignments let you choose the medium, and the choice costs you nothing.**
+
+The lighting study can be drawn, photographed with a phone and a desk lamp, or rendered in 3D — the rubric is identical for all three. The perspective study offers a photo-first route at equal credit.
+
+This is not an accommodation for people who can't draw, and it isn't a lowered bar. Those assignments assess whether you can **identify and control** something — light, depth, the grammar of a shot — and drawing ability is a different skill. Grading one as though it were the other would be measuring the wrong thing, which is a design flaw, not a standard.
+
+Where an assignment *is* about drawing, it says so and there's no menu. Most of them aren't.
+
+The general rule: **if you think there's a better way to demonstrate the thing being assessed, ask before the deadline.** The answer is often yes, and it is always yes in advance and rarely yes afterward.
 
 ---
 

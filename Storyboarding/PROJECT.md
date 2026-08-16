@@ -198,10 +198,10 @@ Adapted from the CMU model: students pitched self-directed projects in place of 
 | 10 Boarding for Games | ⬜ Build from scratch — outline ready |
 | 11 The Pitch | ⬜ Build from scratch — outline ready |
 | 13 After Effects for Boards | ⬜ **New.** No deck, no spec yet. Session 12 |
-| Handouts | ✅ H1–H6 in `handouts/` · ⬜ H7 Lighting and H8 After Effects still to write |
-| Rubrics | 🔄 Six exist (616 model); rebuilding to thirteen against the 786 two-band model |
-| Assignment briefs | 🔄 Five exist; six new EX briefs + the missing PR5 brief still to write. Final carries `[ASSIGNED SCRIPT — TBD]` |
-| Syllabus language | 🔄 `syllabus-language.md` — grading table needs the two-band rebuild |
+| Handouts | ✅ H1–H8 in `handouts/` — H7 Lighting and H8 After Effects added |
+| Rubrics (12) | ✅ `rubrics/` — 770 pts + 16 exit tickets = 786, two-band, mapped to CO1–CO5 |
+| Assignment briefs (12) | ✅ `assignments/` — 1:1 with rubrics. PR4 carries `[ASSIGNED SCRIPT — TBD]` |
+| Syllabus language | ✅ `syllabus-language.md` — two-band table, medium-choice policy |
 | Session map | ✅ `SESSION_MAP.md` — 16 sessions, decks, handouts, milestones |
 | Working principles | ✅ Root `CLAUDE.md` |
 | Instructor notes | ⬜ `INSTRUCTOR.md` — one section per session |

@@ -1,5 +1,6 @@
-# Rubric — City Park Sequence
-**100 points · Assessed against CO1, CO2, CO3, CO4, CO5**
+# Rubric — PR1: City Park Sequence
+**100 points · Band PR · Assessed against CO1, CO2, CO3, CO4, CO5**
+**Brief:** [`assignments/PR1_City_Park_Sequence.md`](../assignments/PR1_City_Park_Sequence.md)
 
 > Simple by design. This assignment assesses **continuity and staging under constraint** — one location, few characters, nothing exotic. What's being tested is whether you can keep a space coherent across a cut, not whether you can invent a world.
 
@@ -33,9 +34,14 @@
 
 | | Pts | Full credit |
 |---|--:|---|
-| Coverage | 8 | The whole sequence is thumbnailed, not the interesting parts of it. |
-| Alternatives explored | 7 | At least one beat is staged two different ways, with the choice indicated. |
-| Speed and looseness | 5 | These are thumbnails. Rendered thumbnails are marked down — the point is disposability. |
+| Coverage | 7 | The whole sequence is thumbnailed, not the interesting parts of it. |
+| Divergence | 7 | At least two beats staged two ways. **A variant counts only if it changes shot size, camera angle, blocking, or which character the frame is on.** Redrawing the same idea more neatly counts as one version, not two. |
+| The rejected one | 4 | For each of those beats: both versions submitted, the choice marked, and **one line on what the rejected version did better.** |
+| Format discipline | 2 | Delivered on the EX2 **working sheet** — small panels, many to a page. Panels at final-board size are out of spec. |
+
+*The exploration is what's graded, not the drawings. Coverage, divergence and the marked choice are all countable, which is what makes it possible to grade brainstorming at all.*
+
+*The rejected-option line is the cheapest and most useful requirement on this rubric. A student cannot write it without having genuinely considered both, and it moves the graded object from the drawing to the reasoning.*
 
 ## 3 · Rough boards — 25 pts · CO1, CO4
 
@@ -53,7 +59,9 @@
 | **Composition** | 10 | Figure/ground separation; one dominant element per panel; correct headroom/lookroom/leadroom; consecutive panels contrast. |
 | **Notation and terminology** | 8 | Shot sizes and angles named correctly. Camera arrows distinguished from motion arrows. Panels numbered by the H1 convention. *(CO2)* |
 | **Silhouette readability** | 6 | The standing standard, applied to the finished set. |
-| **Document completeness** | 4 | Correct ratio, panel and shot numbers, action described beneath each panel. |
+| **Document completeness** | 4 | Correct ratio, panel and shot numbers, action described beneath each panel. Delivered on the EX2 **presentation sheet**. |
+
+> **A final panel that is a scan, trace, or upscale of a thumbnail is not a final panel. It scores as a missing panel.** The thumbnail's job is to be thrown away. If you are protecting one, it has stopped doing its job.
 
 ## Critique participation — folded into the above · CO5
 
