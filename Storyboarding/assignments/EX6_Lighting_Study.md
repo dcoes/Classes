@@ -1,5 +1,5 @@
 # EX6 Lighting Study
-**40 points · Assigned Session 11 · Due Session 13**
+**5% of the course grade · Assigned Class 7 · Due Class 9**
 **Rubric:** [`rubrics/EX6_Lighting_Study.md`](../rubrics/EX6_Lighting_Study.md)
 **Handouts:** H7 (Lighting Reference) · H3 (Composition Checklist)
 
@@ -22,7 +22,7 @@ Nobody has to ask permission, nobody is being accommodated, and nothing on the r
 
 Two parts.
 
-### Part 1 · The Read: 12 pts
+### Part 1 · The Read: 30% of this assignment
 
 Eight film stills are posted. For each one, name:
 
@@ -36,7 +36,7 @@ Eight film stills are posted. For each one, name:
 
 No drawing. No making. These have right answers, **H7 is open-book**, and this is the section that assesses the objective most directly.
 
-### Part 2 · The Six Setups: 28 pts
+### Part 2 · The Six Setups: 70% of this assignment
 
 Six images demonstrating:
 
@@ -61,7 +61,7 @@ This is the whole experimental design. Six different subjects would let you cher
 
 ### 2 · A light plan for every setup
 
-A small overhead diagram: the subject, the camera, and every light with an arrow showing direction. Use the **floor-plan key from Session 4**: the same notation you use for camera positions, because it is the same problem. You are placing something in a space and recording where you put it.
+A small overhead diagram: the subject, the camera, and every light with an arrow showing direction. Use the **floor-plan key from Class 4**: the same notation you use for camera positions, because it is the same problem. You are placing something in a space and recording where you put it.
 
 **The diagram has to match the image.** If your plan says the key is camera-left and the shadow falls to the left, one of them is wrong.
 
@@ -73,7 +73,7 @@ Submit each image **twice**: as you made it, and reduced to **three values only*
 
 This is the trick that makes the assignment fair, and it's worth understanding rather than just complying with. A posterized photograph, a posterized render and a posterized pencil drawing are *the same class of object*: three shapes on a page. Asking "is the lit shape the subject, and is the light coming from where the plan says" is a question that does not care what made the image.
 
-You already own this discipline. It is the three-value section of **H3**, which you have been running on your own panels since Session 5.
+You already own this discipline. It is the three-value section of **H3**, which you have been running on your own panels since Class 5.
 
 ---
 

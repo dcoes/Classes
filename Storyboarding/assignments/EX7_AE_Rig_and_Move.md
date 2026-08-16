@@ -1,5 +1,5 @@
 # EX7 AE Rig & Move
-**20 points · Assigned Session 12 · Due Session 14**
+**3% of the course grade · Assigned Class 11 · Due Class 12**
 **Rubric:** [`rubrics/EX7_AE_Rig_and_Move.md`](../rubrics/EX7_AE_Rig_and_Move.md)
 **Handout:** H8 (After Effects & File Discipline)
 
@@ -17,7 +17,7 @@ Make a short shot in After Effects:
 
 Five to eight seconds. That's it.
 
-**We build this together in Session 12.** You do not need to know After Effects. You need to be in the room, and then you need to do it again yourself.
+**We build this together in Class 11.** You do not need to know After Effects. You need to be in the room, and then you need to do it again yourself.
 
 ---
 
@@ -72,7 +72,7 @@ The answer is real and it will change how you prepare panels for **PR3** and **P
 
 After Effects. This is one of the few times in this program you'll be walked through it, and a fair number of you will need it later: for **PR3**, for **PR4**, and for work after this course.
 
-If your machine can't run it, tell me before Session 12 rather than after Session 14.
+If your machine can't run it, tell me before Class 11 rather than after Class 12.
 
 ---
 

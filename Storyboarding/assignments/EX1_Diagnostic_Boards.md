@@ -1,5 +1,5 @@
 # EX1 Diagnostic Boards
-**10 points · Pass / revise · Assigned Session 1 · Due Session 2**
+**2% of the course grade · Pass / revise · Assigned Class 1 · Due Class 2**
 **Rubric:** [`rubrics/EX1_Diagnostic_Boards.md`](../rubrics/EX1_Diagnostic_Boards.md)
 **Handout:** H1 (Notation)
 
@@ -36,7 +36,7 @@ Don't over-think it. Do notice that panels 1 through 3 get progressively closer 
 
 A short prose passage will be posted. **Illustrate it in a single panel.**
 
-You are not illustrating the whole thing. You are picking **the one moment** that carries it, and drawing that. Which moment you choose is the interesting part, and we will talk about the range of answers in Session 2: there will be a range, and that's the point.
+You are not illustrating the whole thing. You are picking **the one moment** that carries it, and drawing that. Which moment you choose is the interesting part, and we will talk about the range of answers in Class 2: there will be a range, and that's the point.
 
 *(You do not need the textbook. The passage is posted.)*
 
@@ -62,7 +62,7 @@ Stick figures pass. Stick figures with clearly staged action pass comfortably. T
 
 Two reasons, and both are worth saying plainly.
 
-**I need a baseline.** In a mixed room (animation, film, game production, and a reliable number of people who have not drawn since childhood) I have no idea what I'm looking at until I've seen everyone draw once. That changes how the next fifteen sessions get taught. It doesn't change anyone's grade.
+**I need a baseline.** In a mixed room (animation, film, game production, and a reliable number of people who have not drawn since childhood) I have no idea what I'm looking at until I've seen everyone draw once. That changes how the rest of the term gets taught. It doesn't change anyone's grade.
 
 **Waiting makes it worse.** The longer you go without drawing in a drawing-adjacent course, the more the first attempt costs you. So the first attempt happens now, for ten points, on a subject you already know by heart, with the explicit promise that badly is fine.
 

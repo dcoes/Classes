@@ -62,32 +62,39 @@ This is the traceability layer. Not required for a non-capstone course, but it m
 
 Two bands. **EX: skill exercises** are single-stage, no milestone cap, graded against a short checklist with objectively checkable criteria. **PR: projects** are milestone-graded with the 50% cascading cap (§5).
 
-| Assignment | Pts | CO1 | CO2 | CO3 | CO4 | CO5 | Evidence |
-|---|---|:--:|:--:|:--:|:--:|:--:|---|
-| **EX1: Diagnostic boards** *(pass/fail)* | 10 | ● | | | | | 4-panel sequence + Jake the Bully |
-| **EX2: Template build** | 50 | ● | | | | |.PSD + export at three correct ratios |
-| **EX3: Twelve shots** | 30 | ● | ● | | | | Twelve panels, one subject, purpose captions |
-| **EX4: Perspective study** | 30 | ● | | | ● | | 1/2/3-point + free-depth-cue panel, construction visible |
-| **EX5: Continuity strips** | 40 | ● | ● | ● | | | Six devices in strip form + floor plans |
-| **EX6: Lighting study** | 40 | | ● | | ● | ● | Eight stills read + six setups + three-value reductions |
-| **EX7: AE rig & move** | 20 | ● | | | | | Parented rig, masked exit, rendered move |
-| **PR1: City Park sequence** | 100 | ● | ● | ● | ● | ● | Beat sheet, thumbnails, boards, critique |
-| **PR2: Midterm, reverse analysis** | 100 | | ● | ● | | ● | Boards from observed sequence + written analysis |
-| **PR3: Animatic** | 100 | ● | | ● | ● | | Timed sequence with audio |
-| **PR4: Final, script to animatic** | 200 | ● | ● | ● | ● | ● | Full milestone chain |
-| **PR5: The Pitch** | 50 | | | | | ● | Live pitch + notes received + revision line |
-| **Exit tickets** | 16 | ● | | | | | Posted per session |
-| **Total** | **786** | 596 | 510 | 540 | 470 | 490 | *(points assessing each CO)* |
+**Every rubric totals 100% of its own assignment.** The weights below are how those grades roll up into the course grade, and they follow the section syllabus: assignments 45%, midterm 25%, final 30%.
 
-Band EX 220 (28%) · Band PR 550 (70%) · exit tickets 16 (2%). Milestone-graded work stays the dominant structural force, which is what keeps the cap meaningful.
+| Assignment | Weight | CO1 | CO2 | CO3 | CO4 | CO5 | Evidence |
+|---|--:|:--:|:--:|:--:|:--:|:--:|---|
+| **EX1: Diagnostic boards** *(pass/revise)* | 2% | ● | | | | | 4-panel sequence + the posted passage |
+| **EX2: Template build** | 4% | ● | | | | | .PSD + export at three correct ratios, both layouts |
+| **EX3: Twelve shots** | 4% | ● | ● | | | | Twelve panels, one subject, purpose captions |
+| **EX4: Perspective study** | 4% | ● | | | ● | | 1/2/3-point + free-depth-cue panel, construction visible |
+| **EX5: Continuity strips** | 4% | ● | ● | ● | | | Six devices in strip form + floor plans |
+| **EX6: Lighting study** | 5% | | ● | | ● | ● | Eight stills read + six setups + three-value reductions |
+| **EX7: AE rig & move** | 3% | ● | | | | | Parented rig, masked exit, rendered move |
+| **PR1: City Park sequence** | 8% | ● | ● | ● | ● | ● | Beat sheet, thumbnails, boards, critique |
+| **PR3: Animatic** | 6% | ● | | ● | ● | | Timed sequence with audio |
+| **PR5: The Pitch** | 5% | | | | | ● | Live pitch + notes received + revision line |
+| ***Assignments bucket*** | ***45%*** | | | | | | |
+| **PR2: Midterm, reverse analysis** | 25% | | ● | ● | | ● | Boards from an observed sequence + written analysis |
+| **PR4: Final, script to animatic** | 30% | ● | ● | ● | ● | ● | Full seven-stage milestone chain |
+| **Total** | **100%** | 62% | 68% | 73% | 48% | 45% | *(share of the grade assessing each CO)* |
 
-**No round total, deliberately.** Canvas computes percentages. Inventing fourteen points that correspond to no work is exactly the kind of thing this section exists to prevent.
+The midterm and final together are 55% of the grade, and both are milestone-graded or single-submission summative work, which keeps the cap meaningful and keeps the weight where the real assessment happens.
+
+**Exit tickets are not in this table.** They are attendance and engagement rather than assessed work, and folding them into the syllabus percentages would misrepresent what they measure. Run them as participation, or fold them into the assignments bucket at the instructor's discretion.
 
 **Note on CO5.** *Explain the creative work of self and peers* was the least-assessed objective in the course, because critique participation was informal and ungraded. Three things now carry it: the pitch (which exists largely for this reason), the midterm's written analysis, and EX6's closing paragraph, which also means CO5 is now assessed *before* the midterm rather than only after it.
 
 **Note on CO3.** *Tabulate storyboards based on certain events* is, almost literally, the beat sheet → panel mapping. The milestone structure isn't an administrative convenience; it's the direct assessment of CO3.
 
-**Note on EX7.** Its CO claim is deliberately thin: CO1 only, and weakly. It is a tool-fluency exercise, which is why it's twenty points and near-free if attempted. Better to say that here than to manufacture a mapping that doesn't survive scrutiny.
+**Note on EX7.** Its CO claim is deliberately thin: CO1 only, and weakly. It is a tool-fluency exercise, which is why it's 3% and near-free if attempted. Better to say that here than to manufacture a mapping that doesn't survive scrutiny.
+
+**Two open questions, from the section syllabus.** Both need an instructor decision and neither is resolved here.
+
+1. **Course objectives.** The catalog copy in the section syllabus lists **three** objectives (visual storytelling through storyboards, basic film terminology, images using camera angles/movement/composition). This file lists **five**, taken from the course of record. Both cannot be current. Everything in `rubrics/` maps to CO1 through CO5 and would need remapping if the three-objective version is the live one.
+2. **The chapter quizzes and the textbook.** The section syllabus lists Tuminello as **Required** with an ISBN, and schedules **seven chapter quizzes** (chapters 2, 4, 5, 6, 7, 8, 12). §1 of this file says students do not buy the book and that all required content must live in these files. If the quizzes are still running, they need a slice of the assignments bucket and a source that isn't the textbook.
 
 **Note on CO3.** *Tabulate storyboards based on certain events* is, almost literally, the beat sheet → panel mapping. The milestone structure isn't an administrative convenience; it's the direct assessment of CO3.
 

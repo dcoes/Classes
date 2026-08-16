@@ -1,5 +1,5 @@
 # EX4 Perspective Study
-**30 points · Assigned Session 6 · Due Session 7**
+**4% of the course grade · Assigned Class 6 · Due Class 7**
 **Rubric:** [`rubrics/EX4_Perspective_Study.md`](../rubrics/EX4_Perspective_Study.md)
 
 ---
@@ -33,7 +33,7 @@ Each of the first three panels carries a written note: **where the camera is.**
 
 Here is why this line is on the assignment. The horizon line in your drawing **is** the camera height. Not a related idea, not a metaphor: the same thing. Put the horizon low and you are kneeling. Put it high and you are on a balcony. Put it off the top of the panel and you are on the roof.
 
-Which means perspective and camera angle are not two subjects. **They are one subject with two names**, and you have already met the other name: in Session 3, where you drew a low angle and a high angle and where the most common failure was drawing a tilted head instead of a moved camera. That failure and this assignment are the same problem.
+Which means perspective and camera angle are not two subjects. **They are one subject with two names**, and you have already met the other name: in Class 3, where you drew a low angle and a high angle and where the most common failure was drawing a tilted head instead of a moved camera. That failure and this assignment are the same problem.
 
 If you lost points on EX3 for an unmoved horizon, this is the fix.
 

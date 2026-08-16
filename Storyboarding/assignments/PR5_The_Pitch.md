@@ -1,5 +1,5 @@
 # PR5 The Pitch
-**50 points · Assigned Session 9 · Pitches run Sessions 14–15**
+**5% of the course grade · Assigned Class 9 · Pitches run Class 13**
 **Rubric:** [`rubrics/PR5_The_Pitch.md`](../rubrics/PR5_The_Pitch.md)
 
 ---
@@ -28,7 +28,7 @@ And it isn't a modern add-on to the discipline. Disney pinned the *Snow White* b
 
 Your final sequence, **in whatever state it is in.**
 
-Incomplete is expected and fine. Pitch what exists and describe what's coming. Session 14 is deliberately before your final is finished, so that the notes you get still have time to change something.
+Incomplete is expected and fine. Pitch what exists and describe what's coming. Class 13 is deliberately before your final is finished, so that the notes you get still have time to change something.
 
 **If you want to replace the assigned script with your own premise, this is where you ask.** See the gate in [`PR4`](PR4_Final_Script_to_Animatic.md).
 

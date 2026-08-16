@@ -1,5 +1,5 @@
 # H1: Storyboard Notation
-**CA 140 Storyboarding · Issued Session 1**
+**CA 140 Storyboarding · Issued Class 1**
 
 > This is the professional shorthand. Learn it now and you'll never write a paragraph where an arrow would do.
 

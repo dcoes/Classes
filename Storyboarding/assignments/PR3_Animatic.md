@@ -1,5 +1,5 @@
 # PR3 Animatic
-**100 points · Assigned Session 13 · Due Session 15**
+**6% of the course grade · Assigned Class 11 · Due Class 13**
 **Rubric:** [`rubrics/PR3_Animatic.md`](../rubrics/PR3_Animatic.md)
 **Handout:** H5 (Timing & Hold-Length Reference)
 
@@ -15,7 +15,7 @@ You answered this for the boards. Answer it again for the timing, because they a
 
 ## The assignment
 
-**Take your City Park boards, the ones you finished in Session 8, and turn them into an animatic.** Cut them to time. Put sound under them.
+**Take your City Park boards, the ones you finished in Class 8, and turn them into an animatic.** Cut them to time. Put sound under them.
 
 You are not drawing a new sequence. You already have one, it has already been critiqued, and you already know what's wrong with it. Fixing panels in light of those notes is not only allowed, it's expected.
 
@@ -33,14 +33,14 @@ That's why timing and temp audio matter more here than drawing does. You are tes
 
 ## Milestone chain
 
-| Stage | Pts |
+| Stage | % of this assignment |
 |---|--:|
 | **1 · Panel prep & file discipline** | 15 |
 | **2 · Rough cut (timing pass 1)** | 20 |
 | **3 · Sound** | 15 |
 | **4 · Final animatic** | 50 |
 
-> **Each milestone gates the next. A stage submitted without the preceding stage is capped at 50% of that stage's available points.**
+> **Each milestone gates the next. A stage submitted without the preceding stage is capped at half its available percentage.**
 
 ---
 
@@ -104,7 +104,7 @@ Timing that reads across the whole piece. Panels legible at speed. Camera moves 
 
 You have heard me say the minimum is "a moving PowerPoint." That is true, and it will pass.
 
-It is also the least interesting thing you could hand in, and here is the honest reason: **a slideshow of your panels proves nothing that the panels didn't already prove.** You submitted those in Session 8 and they were graded then. The only thing this assignment can assess is what the boards *couldn't* carry: how long each moment lasts, where the rhythm changes, and whether the sequence feels like anything.
+It is also the least interesting thing you could hand in, and here is the honest reason: **a slideshow of your panels proves nothing that the panels didn't already prove.** You submitted those in Class 8 and they were graded then. The only thing this assignment can assess is what the boards *couldn't* carry: how long each moment lasts, where the rhythm changes, and whether the sequence feels like anything.
 
 So the bar is not "did the images appear in order." It's **does it play.** Does a held beat feel held. Does a fast cut feel fast. Does someone watching it, who has never seen your boards, follow the story and feel the shape of it.
 

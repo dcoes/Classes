@@ -1,5 +1,5 @@
 # EX3 Twelve Shots
-**30 points · Assigned Session 3 · Due Session 5**
+**4% of the course grade · Assigned Class 3 · Due Class 5**
 **Rubric:** [`rubrics/EX3_Twelve_Shots.md`](../rubrics/EX3_Twelve_Shots.md)
 **Handout:** H2 (Shot Vocabulary) · **keep H2, the midterm is graded against it**
 
@@ -77,7 +77,7 @@ This is the first time in the course you defend a choice, and it is easier to ar
 - **1.85: 1 panels on your EX2 template**
 - Shot named under each panel · caption under that
 - H1 notation
-- The first three we do live in Session 3, together
+- The first three we do live in Class 3, together
 
 ---
 
@@ -95,4 +95,4 @@ This is the first time in the course you defend a choice, and it is easier to ar
 
 The camera has to actually be down there, or up there. That means the horizon line moves, the perspective changes, and things in the foreground get very large. If your low angle and your eye-level shot have the same horizon, you drew the head tilted, not the camera moved.
 
-Session 6 is entirely about why. You're getting the problem two sessions before you get the tool, which is deliberate. You'll recognise it when it arrives.
+Class 6 is entirely about why. You're getting the problem three classes before you get the tool, which is deliberate. You'll recognise it when it arrives.

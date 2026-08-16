@@ -1,5 +1,5 @@
 # H2: Shot Vocabulary Reference
-**CA 140 Storyboarding · Issued Session 3 · Keep this for the midterm**
+**CA 140 Storyboarding · Issued Class 3 · Keep this for the midterm**
 
 > The midterm asks you to name shots from an observed sequence. This is the list you're being tested against.
 

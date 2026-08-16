@@ -1,5 +1,5 @@
 # PR1 City Park Sequence
-**100 points · Assigned Session 4 · Final boards due Session 8**
+**8% of the course grade · Assigned Class 4 · Final boards due Class 8**
 **Rubric:** [`rubrics/PR1_City_Park_Sequence.md`](../rubrics/PR1_City_Park_Sequence.md)
 **Handouts:** H1 (Notation) · H3 (Composition Checklist) · H4 (Continuity Rules)
 
@@ -33,16 +33,16 @@ The constraint is the assignment. Take it seriously and it is genuinely difficul
 
 ## Milestone chain
 
-| Stage | Pts | Due |
+| Stage | % of this assignment | Due |
 |---|--:|---|
-| **1 · Beat sheet** | 15 | Session 5 |
-| **2 · Thumbnails** | 20 | Session 6 |
-| **3 · Rough boards** | 25 | Session 7 |
-| **4 · Final boards** | 40 | Session 8 |
+| **1 · Beat sheet** | 15% | Class 5 |
+| **2 · Thumbnails** | 20% | Class 6 |
+| **3 · Rough boards** | 25% | Class 7 |
+| **4 · Final boards** | 40% | Class 8 |
 
-> **Each milestone gates the next. A stage submitted without the preceding stage is capped at 50% of that stage's available points.**
+> **Each milestone gates the next. A stage submitted without the preceding stage is capped at half its available percentage.**
 >
-> The cap cascades. Skipping thumbnails costs you the 20 points *and* caps your roughs at 12.5: that's 32.5 points to save one afternoon. The arithmetic is not an accident.
+> The cap cascades. Skipping thumbnails costs you the whole 20% *and* caps your roughs at 12.5%, so it's 32.5 points of a hundred to save one afternoon. The arithmetic is not an accident.
 
 ---
 
@@ -82,6 +82,6 @@ What's graded here is the exploration, not the drawings. Nothing on the rubric r
 
 ## Critique
 
-We critique this in Session 8. **Giving notes is graded**: peer notes are evidence for a course objective you can't meet any other way.
+We critique this in Class 8. **Giving notes is graded**: peer notes are evidence for a course objective you can't meet any other way.
 
 The rule in critique, here and for the rest of the term: **the note is data, not a verdict.** You will not defend your work while notes are being given. You may ask a clarifying question. You may respond after all the notes are in.

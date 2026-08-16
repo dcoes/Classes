@@ -1,5 +1,5 @@
 # H6: Acting & Staging Checklist
-**CA 140 Storyboarding · Issued Session 9, at final-project launch**
+**CA 140 Storyboarding · Issued Class 9, at final-project launch**
 
 > "It's stiff." "I don't believe them." "I can't tell what they want." These sound like drawing notes. They're almost never drawing notes.
 

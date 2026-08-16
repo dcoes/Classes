@@ -1,5 +1,5 @@
 # H8: After Effects & File Discipline
-**CA 140 Storyboarding · Issued Session 12 · Keep this for PR3 and PR4**
+**CA 140 Storyboarding · Issued Class 11 · Keep this for PR3 and PR4**
 
 > The five operations you need, the settings that break things, and the file habits that decide whether your animatic takes an afternoon or a weekend. This outlives the demo.
 

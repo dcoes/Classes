@@ -1,5 +1,5 @@
 # H4: Continuity Rules Card
-**CA 140 Storyboarding · Issued Session 4, with the City Park assignment**
+**CA 140 Storyboarding · Issued Class 4, with the City Park assignment**
 
 > City Park is graded on this card. There are no surprises.
 

@@ -1,5 +1,5 @@
 # H3: Composition Checklist
-**CA 140 Storyboarding · Issued Session 5**
+**CA 140 Storyboarding · Issued Class 5**
 
 > This is Deck 05, slide 30, on a piece of paper. It is also, almost word for word, how your panels get graded.
 

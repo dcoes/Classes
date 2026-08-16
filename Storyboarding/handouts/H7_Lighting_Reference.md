@@ -1,5 +1,5 @@
 # H7: Lighting Reference Card
-**CA 140 Storyboarding · Issued Session 11 · Open-book for EX6 Part 1**
+**CA 140 Storyboarding · Issued Class 7 · Open-book for EX6 Part 1**
 
 > Five questions, six setups, and one distinction that half the class gets wrong. This is Deck 07 on a piece of paper, and it is what EX6 Part 1 is graded against.
 
@@ -96,6 +96,6 @@ That reduction is why this is fair. A posterized photograph, a posterized render
 
 ## Where you have seen this before
 
-The three-value reduction is **H3's three-value discipline**. The naming test is **the silhouette test** from Session 1, pointed at light instead of shape. The light plan is **the floor plan** from Session 4, with lamps on it instead of cameras.
+The three-value reduction is **H3's three-value discipline**. The naming test is **the silhouette test** from Class 1, pointed at light instead of shape. The light plan is **the floor plan** from Class 4, with lamps on it instead of cameras.
 
-One tool, three names, four sessions apart. That is not a coincidence, and noticing it is most of what this course is trying to teach.
+One tool, three names, several classes apart. That is not a coincidence, and noticing it is most of what this course is trying to teach.

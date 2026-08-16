@@ -1,5 +1,5 @@
 # EX5 Continuity Strips
-**40 points · Assigned Session 10 · Due Session 12**
+**4% of the course grade · Assigned Class 10 · Due Class 12**
 **Rubric:** [`rubrics/EX5_Continuity_Strips.md`](../rubrics/EX5_Continuity_Strips.md)
 **Handouts:** H4 (Continuity Rules) · H1 (Notation)
 
@@ -123,4 +123,4 @@ Same test as the silhouette test, same test as the lighting study. If a stranger
 
 Continuity is a system, and systems are learned by running them, not by hearing about them.
 
-You have had the rules since Session 4 and the cut since Session 10. This is where you find out which of them you actually have. It is also deliberately placed **after** City Park rather than before, so that the rules arrive once as instruction and once as retrieval, which is how they stick.
+You have had the rules since Class 4 and the cut since Class 10. This is where you find out which of them you actually have. It is also deliberately placed **after** City Park rather than before, so that the rules arrive once as instruction and once as retrieval, which is how they stick.

@@ -1,5 +1,5 @@
 # PR4 Final: Script to Animatic
-**200 points · Assigned Session 9 · Due Session 16 · The largest assignment in the course**
+**30% of the course grade · Assigned Class 9 · Due Class 14 · The largest assignment in the course**
 **Rubric:** [`rubrics/PR4_Final_Script_to_Animatic.md`](../rubrics/PR4_Final_Script_to_Animatic.md)
 **Handouts:** H1 · H2 · H3 · H4 · H5 · H6: all six
 
@@ -37,7 +37,7 @@ Everything this course teaches, end to end, on one sequence.
 
 ## The pitch gate
 
-In **Session 14**, before your final is finished, you pitch. This is a separate 50-point assignment with its own rubric: see [`The Pitch`](../rubrics/PR5_The_Pitch.md).
+In **Class 13**, before your final is finished, you pitch. This is a separate assignment with its own rubric: see [`The Pitch`](../rubrics/PR5_The_Pitch.md).
 
 If you want to replace the assigned script with your own premise, this is where you ask.
 
@@ -54,19 +54,19 @@ Two things worth knowing:
 
 ## Milestone chain
 
-| Stage | Pts | Due |
+| Stage | % of this assignment | Due |
 |---|--:|---|
-| **1 · Script markup + beat sheet** | 25 | Session 10 |
-| **2 · Shot list + floor plans** | 20 | Session 11 |
-| **3 · Thumbnails** | 25 | Session 12 |
-| **4 · Rough boards** | 30 | Session 14 |
-| **5 · Final boards** | 45 | Session 16 |
-| **6 · Animatic** | 45 | Session 16 |
-| **7 · Critique participation** | 10 | Session 16 |
+| **1 · Script markup + beat sheet** | 13% | Class 10 |
+| **2 · Shot list + floor plans** | 10% | Class 11 |
+| **3 · Thumbnails** | 12% | Class 12 |
+| **4 · Rough boards** | 15% | Class 13 |
+| **5 · Final boards** | 22% | Class 14 |
+| **6 · Animatic** | 23% | Class 14 |
+| **7 · Critique participation** | 5% | Class 14 |
 
-> **Each milestone gates the next. A stage submitted without the preceding stage is capped at 50% of that stage's available points.**
+> **Each milestone gates the next. A stage submitted without the preceding stage is capped at half its available percentage.**
 
-**Read this arithmetic before you decide to skip anything.** Across seven stages the cascade is severe on purpose. A student who skips thumbnails and roughs to arrive with finished boards loses 55 points outright and has their 45-point final boards capped at 22.5: a **77.5-point penalty on a 200-point assignment.**
+**Read this arithmetic before you decide to skip anything.** Across seven stages the cascade is severe on purpose. A student who skips thumbnails and roughs to arrive with finished boards loses 27% outright and has their 22% of final boards capped at 11%, which is a **38-point hit on a 100-point rubric.**
 
 Skipping process here is not a shortcut. It is a failing grade with extra steps.
 
@@ -90,7 +90,7 @@ Two things fall out of it immediately, and both are the point: **long unbroken r
 
 **3 · Thumbnails.** The whole sequence, not the fun parts, on your **EX2 working sheet.**
 
-**The first pass happens in class, in Session 12, timed: roughly ninety seconds a beat, on paper, photographed and posted before you leave.** That sprint sheet is the session's exit ticket and it is part of this milestone. You cannot render anything in ninety seconds, which is exactly why it's ninety seconds.
+**The first pass happens in class, in Class 12, timed: roughly ninety seconds a beat, on paper, photographed and posted before you leave.** That sprint sheet is that class's exit ticket and it is part of this milestone. You cannot render anything in ninety seconds, which is exactly why it's ninety seconds.
 
 Then, for **five designated beats**, stage each one **three ways.** A variant only counts if it changes **shot size · camera angle · blocking · which character the frame is on.** Redrawing the same idea more neatly is not a variant.
 
@@ -112,7 +112,7 @@ Mark your choice for each, and write **one line on what the rejected version did
 
 ## The standards, restated
 
-You have heard all of these before. They are what the 200 points are for.
+You have heard all of these before. They are what this assignment is for.
 
 - **Clarity over beauty.** The question is never "is this well drawn." It's "does this communicate, and did you decide it on purpose."
 - **Silhouette readability.** Fill it black. Can a stranger name the action?

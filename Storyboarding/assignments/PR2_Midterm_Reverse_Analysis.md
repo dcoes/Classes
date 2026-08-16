@@ -1,5 +1,5 @@
 # PR2 Midterm: Reverse Analysis
-**100 points · Assigned Session 3 · Due Session 8**
+**25% of the course grade · Briefed Class 2 · Due Class 8**
 **Rubric:** [`rubrics/PR2_Midterm_Reverse_Analysis.md`](../rubrics/PR2_Midterm_Reverse_Analysis.md)
 **Handouts:** H1 (Notation) · H2 (Shot Vocabulary) · H4 (Continuity Rules)
 
