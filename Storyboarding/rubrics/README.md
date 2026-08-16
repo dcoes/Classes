@@ -30,14 +30,15 @@ Band values are roughly full / 85% / 70% / 50% / 0 of the criterion's weight, ro
 | | Rubric | Weight of course grade |
 |---|---|--:|
 | EX1 | [Diagnostic Boards](EX1_Diagnostic_Boards.md) *(pass/revise)* | 2% |
-| EX2 | [Template Build](EX2_Template_Build.md) | 4% |
-| EX3 | [Twelve Shots](EX3_Twelve_Shots.md) | 4% |
-| EX4 | [Perspective Study](EX4_Perspective_Study.md) | 4% |
-| EX5 | [Continuity Strips](EX5_Continuity_Strips.md) | 4% |
+| EX2 | [Template Build](EX2_Template_Build.md) | 3% |
+| EX3 | [Twelve Shots](EX3_Twelve_Shots.md) | 3% |
+| EX4 | [Perspective Study](EX4_Perspective_Study.md) | 3% |
+| EX5 | [Continuity Strips](EX5_Continuity_Strips.md) | 3% |
 | EX6 | [Lighting Study](EX6_Lighting_Study.md) | 5% |
 | EX7 | [AE Rig & Move](EX7_AE_Rig_and_Move.md) | 3% |
-| PR1 | [City Park Sequence](PR1_City_Park_Sequence.md) | 8% |
-| PR3 | [Animatic](PR3_Animatic.md) | 6% |
+| | [Retention quizzes](../quizzes/) (10, averaged) | 6% |
+| PR1 | [City Park Sequence](PR1_City_Park_Sequence.md) | 7% |
+| PR3 | [Animatic](PR3_Animatic.md) | 5% |
 | PR5 | [The Pitch](PR5_The_Pitch.md) | 5% |
 | | **Assignments bucket** | **45%** |
 | PR2 | [Midterm, Reverse Analysis](PR2_Midterm_Reverse_Analysis.md) | **25%** |

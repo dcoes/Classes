@@ -25,14 +25,15 @@ Work in this course comes in two kinds, and they are graded differently on purpo
 | | Assignment | Weight |
 |---|---|--:|
 | EX1 | Diagnostic Boards *(pass/revise)* | 2% |
-| EX2 | Template Build | 4% |
-| EX3 | Twelve Shots | 4% |
-| EX4 | Perspective Study | 4% |
-| EX5 | Continuity Strips | 4% |
+| EX2 | Template Build | 3% |
+| EX3 | Twelve Shots | 3% |
+| EX4 | Perspective Study | 3% |
+| EX5 | Continuity Strips | 3% |
 | EX6 | Lighting Study | 5% |
 | EX7 | After Effects, Rig & Move | 3% |
-| PR1 | City Park Sequence | 8% |
-| PR3 | Animatic | 6% |
+| | Retention quizzes (10, averaged) | 6% |
+| PR1 | City Park Sequence | 7% |
+| PR3 | Animatic | 5% |
 | PR5 | The Pitch | 5% |
 | | **Assignments** | **45%** |
 
@@ -59,26 +60,40 @@ Work in this course comes in two kinds, and they are graded differently on purpo
 
 The question asked of every submission is never "is this well drawn." It is: *does this communicate, and did you decide it on purpose.* Drawing here is treated as **notation**: a way of writing down a decision so that someone else can build it.
 
-That is not a lowered standard. It is a different one, and it is the standard the job actually uses. A production board is crude because panels are disposable thinking. You will see real, shipped, professional boards in Session 1 that are worse-drawn than anything you will hand in, and they were made by people at the top of this field.
+That is not a lowered standard. It is a different one, and it is the standard the job actually uses. A production board is crude because panels are disposable thinking. You will see real, shipped, professional boards in Class 1 that are worse-drawn than anything you will hand in, and they were made by people at the top of this field.
 
-**The recurring standard is silhouette readability.** Fill a figure in solid black; if a stranger can't name the action, the pose failed: regardless of how well it's drawn. It is introduced in Session 1, referenced in composition, staging, and every critique, and it is deliberately independent of skill level. That is what makes it fair.
+**The recurring standard is silhouette readability.** Fill a figure in solid black; if a stranger can't name the action, the pose failed: regardless of how well it's drawn. It is introduced in Class 1, referenced in composition, staging, and every critique, and it is deliberately independent of skill level. That is what makes it fair.
 
 **If you have never drawn before, you can do well in this course.** If you draw beautifully and won't make decisions, you will not.
 
 ---
 
-## Exit tickets: 16 points
+## Exit tickets
 
-**Every session ends with a posted exit ticket.** One point each, sixteen sessions, sixteen points.
+**Every class ends with a posted exit ticket.** One each, fourteen classes.
 
 Exit tickets are **graded on existing, not on quality.** They are ten to ninety seconds of work: ten quick poses, three silhouettes, a checklist run on one panel, a beat sheet line. Post it before you leave.
 
 They exist for two reasons, and it's worth being straightforward about both:
 
 1. **They make the lecture land on a decision.** Every concept in this course ends in something you have to actually choose, and the exit ticket is where you choose it while the lecture is still in the room with you.
-2. **Attendance decays during work sessions, and this is the honest counterweight.** A session you weren't in is a point you don't get. Sixteen points won't change a letter grade on its own, but they change several borderline ones, and they are the easiest points on the syllabus.
+2. **Attendance decays during work classes, and this is the honest counterweight.** A class you weren't in is a ticket you don't get. They won't change a letter grade on their own, but they change several borderline ones, and they are the easiest marks on the syllabus.
 
 There are no make-ups for exit tickets. Being there is the assignment.
+
+---
+
+## Quizzes
+
+**Ten short quizzes, opening at the start of class, covering the class before it.** Five questions, five minutes, graded automatically.
+
+Together they're 6% of your grade, so about 0.6% each. That is deliberately small. One bad morning is not a grade event, and there is no reason to panic about any single one.
+
+**Everything on them comes from the lecture and the exercise.** There is no textbook in this course and nothing on a quiz comes from outside what we did in the room and what you handed in. If you were here and you did the work, you can answer them.
+
+**Every student gets a different five questions**, drawn at random from a larger bank, in a random order. That is not because I assume you'll cheat. It's because it makes a retake a genuinely different quiz, which means I can offer retakes at all.
+
+**Why they exist, honestly:** this course fits a semester into four weeks, and everything arrives at once. Being asked to retrieve something one class after you learned it is the cheapest thing either of us can do to make it stick. It works, it's well documented, and it costs you five minutes.
 
 ---
 
@@ -86,9 +101,9 @@ There are no make-ups for exit tickets. Being there is the assignment.
 
 The **projects** in this course are graded in stages: **beat sheet → thumbnails → rough → final.** Each stage is worth points on its own.
 
-> **Each milestone gates the next. A stage submitted without the preceding stage is capped at 50% of that stage's available points.**
+> **Each milestone gates the next. A stage submitted without the preceding stage is capped at half its available percentage.**
 
-The cap **cascades.** On the final project, a student who skips thumbnails and roughs to arrive with finished boards loses 55 points outright and has their 45-point final boards capped at 22.5: a 77.5-point penalty on a 200-point assignment.
+The cap **cascades.** On the final, a student who skips thumbnails and roughs to arrive with finished boards loses 27% outright and has the 22% for final boards capped at 11%, which is a 38-point hit on a 100-point rubric.
 
 **This applies to projects only.** The skill exercises are single-stage and carry no cap.
 

@@ -67,19 +67,20 @@ Two bands. **EX: skill exercises** are single-stage, no milestone cap, graded ag
 | Assignment | Weight | CO1 | CO2 | CO3 | CO4 | CO5 | Evidence |
 |---|--:|:--:|:--:|:--:|:--:|:--:|---|
 | **EX1: Diagnostic boards** *(pass/revise)* | 2% | ● | | | | | 4-panel sequence + the posted passage |
-| **EX2: Template build** | 4% | ● | | | | | .PSD + export at three correct ratios, both layouts |
-| **EX3: Twelve shots** | 4% | ● | ● | | | | Twelve panels, one subject, purpose captions |
-| **EX4: Perspective study** | 4% | ● | | | ● | | 1/2/3-point + free-depth-cue panel, construction visible |
-| **EX5: Continuity strips** | 4% | ● | ● | ● | | | Six devices in strip form + floor plans |
+| **EX2: Template build** | 3% | ● | | | | | .PSD + export at three correct ratios, both layouts |
+| **EX3: Twelve shots** | 3% | ● | ● | | | | Twelve panels, one subject, purpose captions |
+| **EX4: Perspective study** | 3% | ● | | | ● | | 1/2/3-point + free-depth-cue panel, construction visible |
+| **EX5: Continuity strips** | 3% | ● | ● | ● | | | Six devices in strip form + floor plans |
 | **EX6: Lighting study** | 5% | | ● | | ● | ● | Eight stills read + six setups + three-value reductions |
 | **EX7: AE rig & move** | 3% | ● | | | | | Parented rig, masked exit, rendered move |
-| **PR1: City Park sequence** | 8% | ● | ● | ● | ● | ● | Beat sheet, thumbnails, boards, critique |
-| **PR3: Animatic** | 6% | ● | | ● | ● | | Timed sequence with audio |
+| **Retention quizzes** (10, averaged) | 6% | | ● | | ● | | 5 questions drawn from a 15-question bank, self-grading |
+| **PR1: City Park sequence** | 7% | ● | ● | ● | ● | ● | Beat sheet, thumbnails, boards, critique |
+| **PR3: Animatic** | 5% | ● | | ● | ● | | Timed sequence with audio |
 | **PR5: The Pitch** | 5% | | | | | ● | Live pitch + notes received + revision line |
 | ***Assignments bucket*** | ***45%*** | | | | | | |
 | **PR2: Midterm, reverse analysis** | 25% | | ● | ● | | ● | Boards from an observed sequence + written analysis |
 | **PR4: Final, script to animatic** | 30% | ● | ● | ● | ● | ● | Full seven-stage milestone chain |
-| **Total** | **100%** | 62% | 68% | 73% | 48% | 45% | *(share of the grade assessing each CO)* |
+| **Total** | **100%** | 59% | 79% | 70% | 56% | 72% | *(share of the grade assessing each CO)* |
 
 The midterm and final together are 55% of the grade, and both are milestone-graded or single-submission summative work, which keeps the cap meaningful and keeps the weight where the real assessment happens.
 
@@ -91,10 +92,12 @@ The midterm and final together are 55% of the grade, and both are milestone-grad
 
 **Note on EX7.** Its CO claim is deliberately thin: CO1 only, and weakly. It is a tool-fluency exercise, which is why it's 3% and near-free if attempted. Better to say that here than to manufacture a mapping that doesn't survive scrutiny.
 
-**Two open questions, from the section syllabus.** Both need an instructor decision and neither is resolved here.
+**Both prior open questions are now settled.**
 
-1. **Course objectives.** The catalog copy in the section syllabus lists **three** objectives (visual storytelling through storyboards, basic film terminology, images using camera angles/movement/composition). This file lists **five**, taken from the course of record. Both cannot be current. Everything in `rubrics/` maps to CO1 through CO5 and would need remapping if the three-objective version is the live one.
-2. **The chapter quizzes and the textbook.** The section syllabus lists Tuminello as **Required** with an ISBN, and schedules **seven chapter quizzes** (chapters 2, 4, 5, 6, 7, 8, 12). §1 of this file says students do not buy the book and that all required content must live in these files. If the quizzes are still running, they need a slice of the assignments bucket and a source that isn't the textbook.
+1. **Five course objectives.** CO1 through CO5, as listed in §2. The three-objective version in the older section syllabus is superseded. Rubrics map to CO1 through CO5 and stay as they are.
+2. **The textbook is out, and the chapter quizzes with it.** Tuminello is not required and the seven chapter quizzes are replaced by **ten short retention quizzes** sourced entirely from course material. Each covers the previous class's lecture and its exercise. See `quizzes/`.
+
+**Note on the quizzes.** They are not a knowledge check bolted on. Retrieval one class after the material is the cheapest intervention available against a four-week block schedule where everything arrives at once, and they are the only assessment in the course that costs nothing to grade. That is why there are ten of them rather than five.
 
 **Note on CO3.** *Tabulate storyboards based on certain events* is, almost literally, the beat sheet → panel mapping. The milestone structure isn't an administrative convenience; it's the direct assessment of CO3.
 
