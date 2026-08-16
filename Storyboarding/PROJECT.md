@@ -60,17 +60,34 @@ Beat sheet → thumbnails → rough → final, each graded. Also the structural 
 
 This is the traceability layer. Not required for a non-capstone course, but it makes grading defensible and it's the practice worth keeping.
 
+Two bands. **EX — skill exercises** are single-stage, no milestone cap, graded against a short checklist with objectively checkable criteria. **PR — projects** are milestone-graded with the 50% cascading cap (§5).
+
 | Assignment | Pts | CO1 | CO2 | CO3 | CO4 | CO5 | Evidence |
 |---|---|:--:|:--:|:--:|:--:|:--:|---|
-| **A1 — Template build** | 50 | ● | | | | | .PSD + export at correct ratio |
-| **City Park sequence** | 100 | ● | ● | ● | ● | ● | Beat sheet, thumbnails, boards, critique |
-| **Midterm — reverse analysis** | 100 | | ● | ● | | ● | Boards from observed sequence + written analysis |
-| **Animatic** | 100 | ● | | ● | ● | | Timed sequence with audio |
-| **Final — script to animatic** | 200 | ● | ● | ● | ● | ● | Full milestone chain |
-| **The Pitch** | 50 | | | | | ● | Live pitch + notes received + revision line |
+| **EX1 — Diagnostic boards** *(pass/fail)* | 10 | ● | | | | | 4-panel sequence + Jake the Bully |
+| **EX2 — Template build** | 50 | ● | | | | | .PSD + export at three correct ratios |
+| **EX3 — Twelve shots** | 30 | ● | ● | | | | Twelve panels, one subject, purpose captions |
+| **EX4 — Perspective study** | 30 | ● | | | ● | | 1/2/3-point + free-depth-cue panel, construction visible |
+| **EX5 — Continuity strips** | 40 | ● | ● | ● | | | Six devices in strip form + floor plans |
+| **EX6 — Lighting study** | 40 | | ● | | ● | ● | Eight stills read + six setups + three-value reductions |
+| **EX7 — AE rig & move** | 20 | ● | | | | | Parented rig, masked exit, rendered move |
+| **PR1 — City Park sequence** | 100 | ● | ● | ● | ● | ● | Beat sheet, thumbnails, boards, critique |
+| **PR2 — Midterm, reverse analysis** | 100 | | ● | ● | | ● | Boards from observed sequence + written analysis |
+| **PR3 — Animatic** | 100 | ● | | ● | ● | | Timed sequence with audio |
+| **PR4 — Final, script to animatic** | 200 | ● | ● | ● | ● | ● | Full milestone chain |
+| **PR5 — The Pitch** | 50 | | | | | ● | Live pitch + notes received + revision line |
 | **Exit tickets** | 16 | ● | | | | | Posted per session |
+| **Total** | **786** | 596 | 510 | 540 | 470 | 490 | *(points assessing each CO)* |
 
-**Note on CO5.** *Explain the creative work of self and peers* is currently the least-assessed objective in the course — critique participation is informal and ungraded. The pitch assignment fixes that directly, and it is the strongest argument for adding it. Peer notes during pitch sessions also count as CO5 evidence.
+Band EX 220 (28%) · Band PR 550 (70%) · exit tickets 16 (2%). Milestone-graded work stays the dominant structural force, which is what keeps the cap meaningful.
+
+**No round total, deliberately.** Canvas computes percentages. Inventing fourteen points that correspond to no work is exactly the kind of thing this section exists to prevent.
+
+**Note on CO5.** *Explain the creative work of self and peers* was the least-assessed objective in the course, because critique participation was informal and ungraded. Three things now carry it: the pitch (which exists largely for this reason), the midterm's written analysis, and EX6's closing paragraph — which also means CO5 is now assessed *before* the midterm rather than only after it.
+
+**Note on CO3.** *Tabulate storyboards based on certain events* is, almost literally, the beat sheet → panel mapping. The milestone structure isn't an administrative convenience; it's the direct assessment of CO3.
+
+**Note on EX7.** Its CO claim is deliberately thin — CO1 only, and weakly. It is a tool-fluency exercise, which is why it's twenty points and near-free if attempted. Better to say that here than to manufacture a mapping that doesn't survive scrutiny.
 
 **Note on CO3.** *Tabulate storyboards based on certain events* is, almost literally, the beat sheet → panel mapping. The milestone structure isn't an administrative convenience; it's the direct assessment of CO3.
 
@@ -88,12 +105,15 @@ This is the traceability layer. Not required for a non-capstone course, but it m
 
 **Milestone rule:** work submitted without prior milestones is capped. The arithmetic must make skipping process irrational, not merely discouraged.
 
+**Session-by-session placement lives in [`SESSION_MAP.md`](SESSION_MAP.md)** — deck, handout, assigned, due and exit ticket for all sixteen sessions, plus the milestone chains. That file is the spine; every brief and rubric cites its numbers.
+
 ---
 
 ## 6. Style
 
 - Slides carry short bullets. Speaker notes carry the prose.
-- Speaker notes in spoken register, second person, contractions fine — what you'd actually say, including stage directions ("do this live," "let them answer wrong").
+- Speaker notes in spoken register, second person, contractions fine — **what you'd actually say, verbatim.** Not a description of what to say. See `CLAUDE.md` §2.
+- Stage directions that must survive into the notes are **bracketed** so they're skippable when reading aloud: `[LIVE: ten figures in 90 seconds]`, `[Let them answer wrong first]`. Anything longer than a clause moves to `INSTRUCTOR.md`.
 - Diagrams are native vector shapes on the deck's theme palette — editable, not embedded images.
 - Copyrighted film stills are marked `[ADD IMAGE: ...]` in speaker notes and sourced by the instructor. Never generate or substitute copyrighted characters or frames.
 
@@ -137,6 +157,14 @@ Adapted from the CMU model: students pitched self-directed projects in place of 
 - **No engine-specific technical content.** Cinemachine/Sequencer may be named; workflows are out of scope.
 - **Shot-type taxonomy is CA 140's** (Deck 03). Acting for Animation slides 32–41 currently duplicate it — flagged in CURRICULUM.md.
 
+### Added with the session map
+
+- **Continuity is taught once and exercised twice.** 08a stays at Session 4 (above, unchanged). The strip exercise runs at Session 10 against 08b. This is not a re-teach.
+- **The final launches at Session 9**, not 12. A seven-milestone, 200-point chain does not fit in five sessions. Deck 09 and handout H6 move with it, since H6's issue date was derived from the launch, not chosen independently.
+- **Grading is two-band** — EX skill exercises and PR projects, 786 total. See §4. The band prefix is carried in the filenames so the structure is visible in the folder.
+- **The After Effects exercise gets a deck (13).** It ran every term with no deck, no brief, no rubric and no handout. It is also the only AE exposure many of these students get, which is a boundary question — see CURRICULUM.md.
+- **The lighting assignment is medium-agnostic.** Identification is separated from production, and the graded artifact is a three-value reduction, which makes a photograph, a render and a drawing the same class of object. Do not revert this to a drawing-only assignment.
+
 ---
 
 ## 10. Known issues in source files
@@ -164,15 +192,20 @@ Adapted from the CMU model: students pitched self-directed projects in place of 
 | 03 Fundamentals of the Shot | ✅ Rebuilt — 53→46 slides, 22 buried shot labels promoted to real titles |
 | 04 Script to Storyboard | ✅ Rebuilt — 36 slides, gains the screenplay-format section from Deck 01 |
 | 06 Perspective | ✅ Rebuilt — 37→30 slides, reordered to lead with the five free depth cues |
-| 07 Lighting | ⬜ Skipped at instructor request — handled elsewhere. Notes desync from slide 25 remains unaddressed here. |
+| 07 Lighting | ⬜ **Back in scope.** Rebuild required — notes desync from slide 25 (~15 pages), no notes on 40–42, plus the medium-agnostic reframe EX6 needs |
 | 08 Continuity → 08a / 08b | ✅ Split — 08a The Rules (24, before City Park) · 08b The Cut (22, near the animatic) |
-| 09 Staging & Acting | ⬜ Build from scratch — outline + Hooks source ready |
+| 09 Staging & Acting | ⬜ Build from scratch — outline + Hooks source ready · **now Session 9** |
 | 10 Boarding for Games | ⬜ Build from scratch — outline ready |
 | 11 The Pitch | ⬜ Build from scratch — outline ready |
-| Handouts H1–H6 | ✅ `handouts/` — H1 Notation · H2 Shot Vocabulary · H3 Composition · H4 Continuity · H5 Timing · H6 Acting |
-| Rubrics (6) | ✅ `rubrics/` — 600 pts + 16 exit tickets = 616, mapped to CO1–CO5 |
-| Assignment briefs (5) | ✅ `assignments/` — Final carries `[ASSIGNED SCRIPT — TBD]` |
-| Syllabus language | ✅ `syllabus-language.md` |
+| 13 After Effects for Boards | ⬜ **New.** No deck, no spec yet. Session 12 |
+| Handouts | ✅ H1–H6 in `handouts/` · ⬜ H7 Lighting and H8 After Effects still to write |
+| Rubrics | 🔄 Six exist (616 model); rebuilding to thirteen against the 786 two-band model |
+| Assignment briefs | 🔄 Five exist; six new EX briefs + the missing PR5 brief still to write. Final carries `[ASSIGNED SCRIPT — TBD]` |
+| Syllabus language | 🔄 `syllabus-language.md` — grading table needs the two-band rebuild |
+| Session map | ✅ `SESSION_MAP.md` — 16 sessions, decks, handouts, milestones |
+| Working principles | ✅ Root `CLAUDE.md` |
+| Instructor notes | ⬜ `INSTRUCTOR.md` — one section per session |
+| Swap-in module specs | ⬜ `modules/` — New Media · AI · Previs · VR |
 | Spec for the six remaining decks | ✅ `NewLectures/decks-remaining-02-03-04-06-07-08.md` |
 
 ---

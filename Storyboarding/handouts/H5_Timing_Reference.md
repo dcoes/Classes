@@ -1,5 +1,5 @@
 # H5 — Timing & Hold-Length Reference
-**CA 140 Storyboarding · Issued with the Animatic assignment**
+**CA 140 Storyboarding · Issued Session 13, with the Animatic assignment**
 
 > Everything before the animatic was about what's in the frame. This is about how long it stays there — and it's where most student projects fall apart.
 
