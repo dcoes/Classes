@@ -1,8 +1,20 @@
-# Professional Profile
+# Instructor Profile
 
-*Written from the evidence in this repository: one course's design documents, decks, briefs and rubrics, plus the reasoning given for them. It is a narrow window. It sees nothing of the 3D, rigging, technical animation, games or character work, and it sees you thinking rather than shipping. Read it as an assessment of one sample, not a career.*
+**This file accumulates.** It is meant to build up a picture across every course in this repository and every professional project logged elsewhere, not to be a one-off read of a single folder. Each design pass should add to it rather than replace it.
 
-*It is also not flattery. Where something looks like a limitation, it's here.*
+**Current basis: CA 140 Storyboarding only.** Design documents, decks, briefs, rubrics, and the reasoning given for them. That's a narrow window. It sees nothing of the 3D, rigging, technical animation, games or character animation work, and it sees thinking rather than shipping. Read what follows as an assessment of one sample.
+
+**Still to fold in**, as those courses get design passes: Game Design, Digital Painting, Motion Graphics, CGD 115, and the professional project history. The [cross-course patterns](#patterns) section at the end is deliberately open.
+
+*This is not flattery. Where something looks like a limitation, it's here.*
+
+---
+
+## Sources so far
+
+| Source | What it contributed | Date |
+|---|---|---|
+| CA 140 Storyboarding: `PROJECT.md`, `CURRICULUM.md`, twelve briefs and rubrics, deck specs, and the design conversation behind them | Everything below | 2026-08 |
 
 ---
 
@@ -135,7 +147,7 @@ I don't know whether this interests you. But you should know it's a real adjacen
 
 ## Two honest observations
 
-**You are building all of this yourself.** The volume of design work in this repository is substantial, and the standard is high, and it is for a **non-capstone, one-month, sixteen-session course** taught to between eight and twenty students. That tells me something admirable about your standards. It also tells me your time goes into depth rather than reach: the same care applied to something with a wider audience would build on itself instead of resetting each term.
+**You are building all of this yourself.** The volume of design work in this repository is substantial, and the standard is high, and it is for a **non-capstone, one-month, fourteen-class course** taught to between eight and twenty students. That tells me something admirable about your standards. It also tells me your time goes into depth rather than reach: the same care applied to something with a wider audience would build on itself instead of resetting each term.
 
 **The work is worth more than its container.** Right now these ideas exist as a folder for one course at one institution. The rubric-design thinking, the medium-neutral assessment mechanism, the process-based AI answer, the cross-course boundary model. Each of those is generalizable well beyond storyboarding, and none of them is currently packaged as anything but internal course material.
 
@@ -148,3 +160,39 @@ That's not a criticism of the work. It's an observation about where it's pointed
 This reads one project. It doesn't see you rig a character, solve a deformation problem, ship on a deadline, work inside someone else's pipeline, or handle a production crisis, and those may be where most of your professional identity actually lives.
 
 What it does show is a consistent and unusual way of thinking about **how you know whether something works**, applied to a domain where most people rely on taste and seniority instead. If the 3D and technical work carries the same instinct, and the way you describe the After Effects exercise suggests it does, then the profile above understates you rather than the reverse.
+
+---
+<a id="patterns"></a>
+## Cross-course patterns
+
+*Open section. One entry per course as each gets a design pass, then a synthesis once there are three or more. The point is to find what repeats across very different subjects, because whatever repeats is the actual skill.*
+
+### CA 140 Storyboarding
+
+Everything above. The one-line version: **separating the durable layer of a skill from its current implementation, and building assessments that measure the durable layer without punishing people for the implementation they happen to have.**
+
+### Game Design
+
+*Pending a design pass.* What's already visible from `CURRICULUM.md`: a working pitch lecture and assignment, iteration and prototyping methodology, systems design (space, states, actions, rules, probability), and the listening/criticism material. The "don't get attached, it's replaceable" framing transferred cleanly into Storyboarding, which suggests the disposability principle is something you hold generally rather than something you teach locally.
+
+### Digital Painting
+
+*Pending a design pass.* Boundary table lists it as owning composition for the single image, and sharing value and silhouette standards with Storyboarding. Worth watching whether the same fairness mechanisms appear here independently.
+
+### Motion Graphics
+
+*Pending a design pass.* Touches After Effects, which is the one place two courses share software rather than an idea. How that boundary gets drawn will say something about how you think about tool ownership across a program.
+
+### CGD 115
+
+*Pending a design pass.*
+
+### Professional projects
+
+*To be added from the project history logged elsewhere.* 3D, games, technical animation, rigging, character animation. The specific question worth answering when that arrives: **does the assessment-design instinct show up in the technical work too**, as rig validation, pipeline QA, or reviewable specs? If it does, the profile above is describing a general trait rather than a teaching habit, and that changes which of the career adjacencies are realistic.
+
+---
+
+## What to add next
+
+The fastest way to make this file more useful is a design pass on **Game Design**, because it is the course with the most existing material and the one that has already demonstrably influenced this one. Two courses is enough to tell a pattern from a coincidence.
