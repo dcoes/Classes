@@ -1,60 +1,64 @@
 # EX1 Diagnostic Boards: Rubric
-**10 points · Band EX · Pass / revise · Assessed against CO1**
+**Totals 100% of this assignment · 2% of the course grade · Band EX · Pass / revise**
 **Brief:** [`assignments/EX1_Diagnostic_Boards.md`](../assignments/EX1_Diagnostic_Boards.md)
+**Assessed against CO1:** *Draw storyboards as a planning tool for their visual narratives.*
 
-> CO1: *Draw storyboards as a planning tool for their visual narratives.*
-
-A baseline, not a test. Pass / revise: work returned as *revise* is redrawn and passes.
-
----
-
-## Passing
-
-All five panels present, each a legible attempt at the shot described:
-
-| | |
-|---|---|
-| **1A · panel 1** | Establishing shot: the building, from outside |
-| **1A · panel 2** | Hallway, with other people in it |
-| **1A · panel 3** | Entering the classroom door |
-| **1A · panel 4** | The lecture, **from the seated student's POV** |
-| **1B** | One panel illustrating the posted passage |
-
-Plus one line of present-tense action description under each panel.
-
-**10 points, or revise.** There is no partial credit and no intermediate grade: the assignment is binary by design.
+> A baseline, not a test. Work returned as *revise* gets redrawn and then passes. Nothing here is graded on drawing.
 
 ---
 
-## Revise is triggered by
+## 1 . The four panels of 1A: 55%
 
-- A missing panel
-- Panel 4 drawn from outside the student's viewpoint: showing the student in the room rather than looking through their eyes
-- 1B illustrating nothing identifiable from the passage
-- No action descriptions
+| Band | % | |
+|---|--:|---|
+| Exemplary | 55 | All four present and legible as the shots described: establishing exterior, hallway with other people, entering the classroom door, and the lecture from the seated student's POV. |
+| Good | 47 | All four present. One is ambiguous about which shot it's meant to be. |
+| Average | 39 | Three of four present, or panel 4 drawn from outside the student's viewpoint. |
+| Developing | 28 | Two panels, or a sequence that doesn't follow the brief. |
+| Missing | 0 | Not submitted. |
 
-**Revise is not triggered by anything about the drawing.** Not proportion, not perspective, not neatness, not media, not stick figures.
+**Panel 4 is the only one with a wrong answer.** POV means the viewing character is not in the frame. Expect a third of the room to draw the student sitting at a desk, seen from across the room. Worth catching in week one, because the same error resurfaces in EX3, and a student who makes it twice needs a conversation rather than a second deduction.
+
+## 2 . The 1B panel: 25%
+
+| Band | % | |
+|---|--:|---|
+| Exemplary | 25 | One panel illustrating an identifiable moment from the posted passage. |
+| Good | 21 | Present, but the moment chosen is hard to locate in the text. |
+| Average | 18 | Present and only loosely connected to the passage. |
+| Developing | 13 | An attempt that doesn't illustrate the passage. |
+| Missing | 0 | Not submitted. |
+
+**There is no wrong answer here, and the spread is the point.** Students pick different moments from the same passage. Putting that range on a screen in Class 2 shows, before any lecture on the subject, that *which moment you draw is a decision.*
+
+## 3 . Action descriptions: 20%
+
+| Band | % | |
+|---|--:|---|
+| Exemplary | 20 | One line of present-tense action under every panel. |
+| Good | 17 | Present under most panels. |
+| Average | 14 | Present under about half. |
+| Developing | 10 | One or two only. |
+| Missing | 0 | None. |
 
 ---
 
-## Grading notes
+## What triggers *revise*
 
-**Panel 4 is the only one with a wrong answer.** POV means the character is not in the shot. It is the single most common miss, it is worth catching on day two rather than in week four, and it is why this panel is specified rather than left open.
+A missing panel. Panel 4 drawn from outside the student's viewpoint. 1B illustrating nothing identifiable. No action descriptions.
 
-**1B has no wrong answer**, and the spread of choices is the pedagogical payload. Students pick different moments from the same passage; putting that range on a screen in Session 2 demonstrates, before any lecture on the subject, that *which moment you draw is a decision.* Grade it present / absent and use the variety.
-
----
-
-## Why this is worth ten points and not fifty
-
-Enough that it gets done. Little enough that a student who has never drawn does not start the term frightened.
-
-It is also **not** the Session 1 exit ticket: those are in-class, graded on existing, and worth one point. This is take-home and has to be read before Session 2 to be useful. Different jobs, different artifacts.
+**Nothing about the drawing triggers it.** Not proportion, not perspective, not neatness, not media. Stick figures pass.
 
 ---
 
-## What this rubric is really measuring
+## Why this is worth so little
 
-Nothing about the student. It calibrates **the instructor**: in a room mixing animation, film, and game production majors with a reliable number of people who haven't drawn since childhood, the next fifteen sessions get taught differently depending on what comes back.
+Enough that it gets done. Little enough that a student who has never drawn doesn't start the term frightened.
 
-That is worth stating out loud when the assignment is issued, because a student who understands why the baseline exists submits an honest one.
+It is also **not** the Class 1 exit ticket. Exit tickets are in-class and graded on existing. This is take-home and has to be read before Class 2 to be useful. Different jobs, different artifacts.
+
+## What this is actually measuring
+
+Nothing about the student. It calibrates the instructor. In a room mixing animation, film and game production majors with a reliable number of people who haven't drawn since childhood, the rest of the term gets taught differently depending on what comes back.
+
+Worth saying out loud when the assignment is issued, because a student who understands why the baseline exists submits an honest one.

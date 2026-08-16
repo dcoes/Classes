@@ -1,73 +1,108 @@
 # EX6 Lighting Study: Rubric
-**40 points · Band EX · Assessed against CO2, CO4, CO5**
+**Totals 100% of this assignment · 5% of the course grade · Band EX**
 **Brief:** [`assignments/EX6_Lighting_Study.md`](../assignments/EX6_Lighting_Study.md)
+**Assessed against CO2** (*film terminology*), **CO4** (*visually aesthetic images*) **and CO5** (*explaining creative work*).
 
-> CO2: *Describe basic film terminology.* CO4: *Highlight visually aesthetic images.* CO5: *Explain the creative work of self and peers.*
-
-**Medium is the student's choice and carries no scoring weight.** Drawing on the supplied `.psd`, photographing a real object with a desk lamp, rendering in 3D, or value-studying from photographs are equivalent submissions. This assignment assesses whether a student can identify and control light, which is not the same skill as drawing, and is not graded as though it were.
-
----
-
-| Component | Pts | CO | Full credit |
-|---|--:|---|---|
-| **Part 1: The Read** | 12 | CO2 | Eight stills, each named for key direction, high/low key, contrast, hard/soft, and motivated/stylized. Graded strictly: these have right answers and H7 is open-book. |
-| **Six setups, identifiable** | 12 | CO4 | 2 pts each. With labels covered, a stranger sorts the image to the correct setup. Half credit where the setup is present but ambiguous. |
-| **Subject held constant** | 4 | | One subject, one medium, one framing across all six. The light is the only variable. |
-| **Light plans** | 6 | CO2 | One overhead diagram per setup: subject, camera, every light with a direction arrow, in the Session 4 floor-plan key. The diagram must match the image. |
-| **Three-value reductions** | 4 | CO4 | All six posterized to black / mid / white and submitted alongside the originals. |
-| **What it does** | 2 | CO5 | One paragraph: two of the six setups, what each does emotionally, and what it would be used for. |
-
-**Total: 40**
+> **Medium is the student's choice and carries no scoring weight.** Drawing on the supplied `.psd`, photographing a real object with a desk lamp, rendering in 3D, or value-studying from photographs are equivalent submissions. This assignment assesses whether a student can identify and control light, which is not the same skill as drawing and is not graded as though it were.
 
 ---
 
-## How Part 2 is actually scored: the naming test
+## 1 . Part 1, The Read: 30%
 
-> Cover the labels. Hand the six images to someone outside the class. Can they sort them to the six names?
+| Band | % | |
+|---|--:|---|
+| Exemplary | 30 | All eight stills named for key direction, high or low key, contrast, hard or soft, and motivated or stylized. Terms used correctly. |
+| Good | 26 | Six or seven fully correct. |
+| Average | 21 | Four or five correct, or all eight attempted with one attribute consistently wrong. |
+| Developing | 15 | Two or three correct, or answers given as impressions rather than terms. |
+| Missing | 0 | Not submitted. |
 
-That is the test, run against the **three-value reductions**. The originals are context.
+Graded strictly. These have right answers and H7 is open-book. **This is where a student who cannot draw at all earns 30% of the assignment on the actual objective**, before any making happens, and the ordering is deliberate.
 
-The reduction is what makes this fair across media. A posterized photograph, a posterized render and a posterized drawing are the same class of object, three shapes on a page, so "is the lit shape the subject, and is the light where the plan says" is a question that does not care what made the image. It is also H3's existing discipline, so it costs the student no new vocabulary.
+Answers like "moody" or "dramatic" are impressions, not terminology, and score in the Developing band regardless of how well observed they are.
 
-Same mechanism as the silhouette standard in `PROJECT.md` §3: deliberately independent of skill level, which is what makes it fair.
+## 2 . Six setups, identifiable: 30%
+
+| Band | % | |
+|---|--:|---|
+| Exemplary | 30 | Labels covered, a stranger sorts all six to three-point, side, high key, low key, underlight, low contrast. |
+| Good | 26 | Five read cleanly. |
+| Average | 21 | Four read cleanly. |
+| Developing | 15 | Two or three read cleanly. |
+| Missing | 0 | Setups not distinguishable. |
+
+Five points a setup. Assessed on the **three-value reductions**, with the originals as context.
+
+## 3 . Light plans: 15%
+
+| Band | % | |
+|---|--:|---|
+| Exemplary | 15 | One overhead diagram per setup: subject, camera, every light with a direction arrow, in the Class 4 floor-plan key. Each diagram matches its image. |
+| Good | 13 | All six present, one contradicts its image. |
+| Average | 11 | Four or five present. |
+| Developing | 8 | Two or three present, or drawn without direction arrows. |
+| Missing | 0 | None. |
+
+If the plan says the key is camera-left and the shadow falls to the left, one of them is wrong, and it's usually the plan, drawn afterward.
+
+## 4 . Subject held constant: 10%
+
+| Band | % | |
+|---|--:|---|
+| Exemplary | 10 | One subject, one medium, one framing across all six. The light is the only variable. |
+| Good | 8 | Constant subject, framing drifts. |
+| Average | 7 | Medium changes partway. |
+| Developing | 5 | Two or three different subjects. |
+| Missing | 0 | Six unrelated images. |
+
+Six different subjects would let a student cherry-pick whichever image happened to look good, and would teach nothing about what the light was doing, because two variables changed at once.
+
+## 5 . Three-value reductions: 10%
+
+| Band | % | |
+|---|--:|---|
+| Exemplary | 10 | All six posterized to black, mid-grey and white, submitted alongside the originals. |
+| Good | 8 | All six present, one or two reduced to more than three values. |
+| Average | 7 | Four or five present. |
+| Developing | 5 | Two or three present. |
+| Missing | 0 | Originals only. |
+
+**This is the mechanism that makes the assignment fair across media.** A posterized photograph, a posterized render and a posterized drawing are the same class of object, three shapes on a page, so "is the lit shape the subject, and is the light where the plan says" is a question that doesn't care what made the image. It is also H3's existing discipline, so it costs the student no new vocabulary.
+
+Where reductions are missing, the setups line gets scored on the originals instead, which is harder.
+
+## 6 . What it does: 5%
+
+| Band | % | |
+|---|--:|---|
+| Exemplary | 5 | One paragraph: two of the six setups, what each does emotionally, and what it would be used for. |
+| Good | 4 | Written, but describes the setup rather than its effect. |
+| Average | 3 | One setup covered. |
+| Developing | 2 | A sentence, unspecific. |
+| Missing | 0 | Omitted. |
 
 ---
 
-## The failure that costs the most points
+## The failure that costs the most
 
 **High key and low contrast submitted as the same image.**
 
-They are related and they are not identical. High key is low contrast *with the level pushed up*: bright, open, few dense shadows. Low contrast is a small gap between lit and shadow at **any** overall level; a dim, flat, foggy frame is low contrast and nowhere near high key.
+They are related and they are not identical. High key is low contrast with the level pushed up: bright, open, few dense shadows. Low contrast is a small gap between lit and shadow at **any** overall level, so a dim, flat, foggy frame is low contrast and nowhere near high key.
 
-A student who collapses these has demonstrated they are working one dial when there are two, and they lose the 2 points on each of the two setups. It is the single most common failure in this assignment and it is worth naming out loud when the assignment is issued.
+A student who collapses these has demonstrated they are working one dial when there are two, and it costs them both setups. It is the most common failure in this assignment and it's worth naming out loud when the assignment is issued.
 
 Related: **high key is not "bright" and low key is not "dark."** Both describe how much shadow is present, not how much light.
 
 ---
 
-## Common failures
-
-| Failure | Cost |
-|---|--:|
-| Six different subjects, or a medium change partway | Up to 4 on the constancy line, and usually the setups stop being comparable |
-| Light plan contradicts the image: shadow falls opposite the arrow | Up to 6 |
-| Reductions omitted, originals only | Up to 4, and the setup line gets scored on the originals, which is harder |
-| High key and low contrast indistinguishable | 4 (2 on each setup) |
-| Underlight staged from the side and slightly low | 2, on that setup |
-| Part 1 answered with impressions instead of terms: "moody," "dramatic" | Up to 12 |
-
----
-
 ## What is not graded
 
-**Rendering. Photographic quality. Render quality. Resolution. Composition beyond the lit shape reading. How good the object looks.**
+**Rendering. Photographic quality. Render quality. Resolution. How good the object looks.**
 
-Stated in exactly those words on the brief. A phone photo of a mug, lit six ways and diagrammed correctly, is a full-marks submission.
+Stated in those words on the brief. A phone photo of a mug, lit six ways and diagrammed correctly, is a full-marks submission.
 
 ---
 
-## Milestone note
+## Where this goes
 
-EX6 is single-stage and carries no milestone cap.
-
-Part 1 is deliberately gradeable without any making at all. A student who cannot draw, cannot photograph, and has no 3D package still earns 12 of 40 on pure identification, because identification *is* the objective, and the rest is proving the identification was real.
+Single-stage, no cap. The identification half is deliberately gradeable with no making at all, because identification *is* the objective and the rest is proving the identification was real.

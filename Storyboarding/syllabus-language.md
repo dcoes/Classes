@@ -11,28 +11,45 @@ Work in this course comes in two kinds, and they are graded differently on purpo
 
 **Projects** are graded in stages, and the stages gate each other. That's where the weight is.
 
-| | Assignment | Points |
+### The three buckets
+
+| | Weight |
+|---|--:|
+| Assignments | **45%** |
+| Midterm | **25%** |
+| Final | **30%** |
+| | **100%** |
+
+### Inside the 45%
+
+| | Assignment | Weight |
 |---|---|--:|
-| EX1 | Diagnostic Boards *(pass/revise)* | 10 |
-| EX2 | Template Build | 50 |
-| EX3 | Twelve Shots | 30 |
-| EX4 | Perspective Study | 30 |
-| EX5 | Continuity Strips | 40 |
-| EX6 | Lighting Study | 40 |
-| EX7 | After Effects: Rig & Move | 20 |
-| | **Skill exercises** | **220** |
-| PR1 | City Park Sequence | 100 |
-| PR2 | Midterm: Reverse Analysis | 100 |
-| PR3 | Animatic | 100 |
-| PR4 | Final: Script to Animatic | 200 |
-| PR5 | The Pitch | 50 |
-| | **Projects** | **550** |
-| | Exit tickets (16 sessions × 1) | 16 |
-| | **Total** | **786** |
+| EX1 | Diagnostic Boards *(pass/revise)* | 2% |
+| EX2 | Template Build | 4% |
+| EX3 | Twelve Shots | 4% |
+| EX4 | Perspective Study | 4% |
+| EX5 | Continuity Strips | 4% |
+| EX6 | Lighting Study | 5% |
+| EX7 | After Effects, Rig & Move | 3% |
+| PR1 | City Park Sequence | 8% |
+| PR3 | Animatic | 6% |
+| PR5 | The Pitch | 5% |
+| | **Assignments** | **45%** |
 
-Roughly 28% exercises, 70% projects, 2% exit tickets.
+**Midterm (25%):** PR2, boarding one minute of a film from observation.
+**Final (30%):** PR4, script to finished boards and animatic.
 
-**The exercises are not warm-ups for the grade. They are warm-ups for the projects.** Every one of them is the small version of something a project asks for later: the twelve shots rehearse the midterm, the City Park boards become the animatic, the After Effects exercise is the software you'll need one session afterward. Losing points on an exercise is information, and it arrives while it's still cheap.
+**Every individual rubric totals 100% of its own assignment.** The weights above are how those assignment grades roll up into the course grade. You never have to do that arithmetic yourself; Canvas does it.
+
+### Grading scale
+
+| | | | | |
+|---|---|---|---|---|
+| A 93-100 | A- 90-92 | B+ 87-89 | B 83-86 | B- 80-82 |
+| C+ 77-79 | C 73-76 | C- 70-72 | D+ 67-69 | D 60-66 |
+| F 0-59 | | | | |
+
+**The exercises are not warm-ups for the grade. They are warm-ups for the projects.** Every one of them is the small version of something a project asks for later: the twelve shots rehearse the midterm, the City Park boards become the animatic, the After Effects exercise is the software you'll need one class afterward. Losing points on an exercise is information, and it arrives while it's still cheap.
 
 ---
 
@@ -118,9 +135,11 @@ You are allowed to disagree. You are not allowed to be precious. "Let me try bot
 
 ## Late work
 
-Milestones cannot be submitted late, because a milestone submitted after the stage it gates is not a milestone. It's a reconstruction. Missing one triggers the cap.
+**Assignments are due at the beginning of class on the date in the schedule.**
 
-Final submissions are accepted late at the standard program penalty.
+After that, an assignment can be accepted up to **two classes late, at a penalty of 10% of the original grade per class.** More than two classes late and it isn't accepted. The final is the exception: it isn't accepted late at all.
+
+**Milestones are a separate matter.** A milestone submitted after the stage it gates is not a milestone, it's a reconstruction, so milestones can't be handed in late. Missing one triggers the cap instead. The point of a milestone is that it happens before the thing it's supposed to inform.
 
 If something serious is going on in your life, tell me before the deadline rather than after. I can do a great deal in advance and very little in retrospect.
 
