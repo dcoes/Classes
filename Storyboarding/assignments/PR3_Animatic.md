@@ -1,4 +1,4 @@
-# PR3 — Animatic
+# PR3 Animatic
 **100 points · Assigned Session 13 · Due Session 15**
 **Rubric:** [`rubrics/PR3_Animatic.md`](../rubrics/PR3_Animatic.md)
 **Handout:** H5 (Timing & Hold-Length Reference)
@@ -15,11 +15,11 @@ You answered this for the boards. Answer it again for the timing, because they a
 
 ## The assignment
 
-**Take your City Park boards — the ones you finished in Session 8 — and turn them into an animatic.** Cut them to time. Put sound under them.
+**Take your City Park boards, the ones you finished in Session 8, and turn them into an animatic.** Cut them to time. Put sound under them.
 
 You are not drawing a new sequence. You already have one, it has already been critiqued, and you already know what's wrong with it. Fixing panels in light of those notes is not only allowed, it's expected.
 
-Boards handle blocking, camera, and action. They cannot tell you **how long.** This assignment assesses the one dimension a board can't carry — and it's where most student projects fall apart.
+Boards handle blocking, camera, and action. They cannot tell you **how long.** This assignment assesses the one dimension a board can't carry, and it's where most student projects fall apart.
 
 ---
 
@@ -49,8 +49,8 @@ That's why timing and temp audio matter more here than drawing does. You are tes
 Full details in **H5**. The short version:
 
 - **1920 × 1080** baseline for 16:9, or your assigned ratio. Work at **2×** anywhere you've planned a push or a pan.
-- Panels as **separate files or artboards** — not one big page. The page layout is for the printed board; the animatic wants individual frames.
-- Name them `SEQ01_SH010.png`, `SEQ01_SH020.png` — **increment by ten**, so you can insert a shot later without renumbering everything.
+- Panels as **separate files or artboards**, not one big page. The page layout is for the printed board; the animatic wants individual frames.
+- Name them `SEQ01_SH010.png`, `SEQ01_SH020.png`: **increment by ten**, so you can insert a shot later without renumbering everything.
 - Anything that moves independently gets **its own layer, with the hole behind it filled.**
 - Deliver both `.psd` and `.png`.
 
@@ -62,7 +62,7 @@ Sloppy file prep is not a minor sin. It makes the next three stages take four ti
 
 ## 2 · Rough cut
 
-Every panel timed. No placeholder gaps. Pick a frame rate at the start — 24 or 30 — and **never change it.**
+Every panel timed. No placeholder gaps. Pick a frame rate at the start, 24 or 30, and **never change it.**
 
 Use the hold-length table in H5 as a starting point:
 
@@ -76,7 +76,7 @@ Use the hold-length table in H5 as a starting point:
 | Action cut | as fast as it reads |
 | Beat of silence (dramatic) | 2–5 sec |
 
-These are starting points, not rules — **but you need something to deviate from.** Guessing from zero is why timing feels random.
+These are starting points, not rules, **but you need something to deviate from.** Guessing from zero is why timing feels random.
 
 ---
 
@@ -85,7 +85,7 @@ These are starting points, not rules — **but you need something to deviate fro
 **Temp audio changes everything.** Play twenty seconds of your animatic silent, then with music under it. It is not the same piece of work. This is the single cheapest upgrade available to you.
 
 - Temp music or ambience under the whole thing
-- **Scratch dialogue recorded by you, on your phone.** Badly is fine. Silent is not — timing needs a voice to time against.
+- **Scratch dialogue recorded by you, on your phone.** Badly is fine. Silent is not: timing needs a voice to time against.
 - Source it legally: Freesound, YouTube Audio Library, Pixabay, Incompetech, CC-licensed tracks. **Credit your sources in the submission.**
 
 The industry pulls temp tracks from released films and replaces them later. You can't do that, because you want to be able to show this work.
@@ -96,7 +96,7 @@ The industry pulls temp tracks from released films and replaces them later. You 
 
 Timing that reads across the whole piece. Panels legible at speed. Camera moves that actually work because the artwork supports them. Delivered at the correct ratio and frame rate, playing cleanly without anyone intervening.
 
-**Three timing passes minimum**, and you have to be able to show them — versioned files, or a written note on what changed between passes and why. Your first timing pass will be wrong. Everyone's is.
+**Three timing passes minimum**, and you have to be able to show them: versioned files, or a written note on what changed between passes and why. Your first timing pass will be wrong. Everyone's is.
 
 ---
 
@@ -104,7 +104,7 @@ Timing that reads across the whole piece. Panels legible at speed. Camera moves 
 
 You have heard me say the minimum is "a moving PowerPoint." That is true, and it will pass.
 
-It is also the least interesting thing you could hand in, and here is the honest reason: **a slideshow of your panels proves nothing that the panels didn't already prove.** You submitted those in Session 8 and they were graded then. The only thing this assignment can assess is what the boards *couldn't* carry — how long each moment lasts, where the rhythm changes, and whether the sequence feels like anything.
+It is also the least interesting thing you could hand in, and here is the honest reason: **a slideshow of your panels proves nothing that the panels didn't already prove.** You submitted those in Session 8 and they were graded then. The only thing this assignment can assess is what the boards *couldn't* carry: how long each moment lasts, where the rhythm changes, and whether the sequence feels like anything.
 
 So the bar is not "did the images appear in order." It's **does it play.** Does a held beat feel held. Does a fast cut feel fast. Does someone watching it, who has never seen your boards, follow the story and feel the shape of it.
 
@@ -134,4 +134,4 @@ Students time from memory, because they think they already know how long things 
 
 They don't. Neither do you. **Every animator should own a stopwatch and most never use one.**
 
-Too long and the pace drags. Too short and the audience is confused. Both look identical in a submission — they both look like "bad animatic" — and they have **opposite fixes.** Learn to tell them apart before you submit, not after.
+Too long and the pace drags. Too short and the audience is confused. Both look identical in a submission, they both look like "bad animatic", and they have **opposite fixes.** Learn to tell them apart before you submit, not after.

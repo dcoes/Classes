@@ -1,14 +1,14 @@
-# Revised Decks — 01 Intro · 05 Composition · 12 Animatics
+# Revised Decks: 01 Intro · 05 Composition · 12 Animatics
 *Slide-level outlines. Each entry: slide title · on-slide content · what you say.*
 
 ---
 ---
 
-# DECK 01 — INTRO TO STORYBOARDING
+# DECK 01: INTRO TO STORYBOARDING
 **Target: 36 slides · ~55 min of lecture, leaving ~35 min for drawing orientation and ~15 for syllabus**
 
 ## What changed
-- Hero's Journey **kept and rebuilt** — every stage now carries a visual/staging problem. It stops being a screenwriting lecture and becomes a shot lecture.
+- Hero's Journey **kept and rebuilt**: every stage now carries a visual/staging problem. It stops being a screenwriting lecture and becomes a shot lecture.
 - **Bicyclist/drawbridge structure conversation: cut.** It teaches conflict verbally in a lecture whose thesis is "show, don't tell." Replaced with a screened sequence the class derives structure from.
 - Screenplay format / slug lines / two-column: **moved out entirely** to Deck 04.
 - Prehistory of visual storytelling compressed 4 slides → 1.
@@ -16,7 +16,7 @@
 
 ---
 
-### PART 1 — WHAT THIS IS (slides 1–8)
+### PART 1 WHAT THIS IS (slides 1–8)
 
 **1 · Title**
 Storyboarding · course + your name.
@@ -31,7 +31,7 @@ Finished concept art · a real production board panel (crude, arrows, scratchy) 
 *Say: beauty is optional, clarity is not. This class grades clarity.*
 
 **4 · Real production boards**
-Grid of 4–6 genuinely crude professional boards — Johnston's *Raiders*, *Fury Road* thumbnails, a rough Pixar pass, a TV animation board.
+Grid of 4–6 genuinely crude professional boards: Johnston's *Raiders*, *Fury Road* thumbnails, a rough Pixar pass, a TV animation board.
 *Say: these shipped. Board artists draw fast and badly on purpose because panels are disposable thinking.*
 
 **5 · What a storyboard is**
@@ -40,7 +40,7 @@ A method of organizing visual ideas graphically for film, animation, or games. A
 
 **6 · What it is NOT**
 Not a comic. Not illustration. Not a portfolio piece.
-Boards are a **production tool** — they sell an idea to a client, a team, or a director.
+Boards are a **production tool**: they sell an idea to a client, a team, or a director.
 *Say: the closest visual cousin is a comic strip, but comics are the product. Boards are the plan.*
 
 **7 · Passive vs. interactive**
@@ -52,7 +52,7 @@ Whatever the medium, the storyteller's purpose is the same: communicate a messag
 
 ---
 
-### PART 2 — SHOW, DON'T TELL (slides 9–12)
+### PART 2 SHOW, DON'T TELL (slides 9–12)
 
 **9 · The oldest rule**
 "Show, don't tell."
@@ -74,19 +74,19 @@ Side by side: "The child no longer lives at home" / an image of a mother absentl
 
 ---
 
-### PART 3 — STRUCTURE, DERIVED FROM A SEQUENCE (slides 13–17)
+### PART 3 STRUCTURE, DERIVED FROM A SEQUENCE (slides 13–17)
 > **This replaces the bicyclist/drawbridge material.** Instead of talking about structure abstractly, screen something and pull the structure out of it live. Same lesson, and it models the analytical habit the midterm requires.
 
 **13 · Watch this**
-Screen a complete short sequence with clean structure — 3 to 8 minutes. Good options:
-- *Up* — "Married Life" (compression + full arc, no dialogue)
-- *WALL-E* — opening (world established, no dialogue)
+Screen a complete short sequence with clean structure: 3 to 8 minutes. Good options:
+- *Up*: "Married Life" (compression + full arc, no dialogue)
+- *WALL-E*: opening (world established, no dialogue)
 - *Bao* (complete arc in 8 min)
 - *One Froggy Evening* (comedy structure, escalation)
 *Say: watch it once. Don't take notes.*
 
 **14 · Now break it**
-Blank slide — you build this live on the board with the class.
+Blank slide. You build this live on the board with the class.
 Prompts: Where does it start? What's the first thing that changes? What does the character want? What stops them? Where does it turn? How does it end?
 *Say: they'll do this faster than they expect. That speed is the point.*
 
@@ -96,7 +96,7 @@ Beginning · Middle · End. Act 1 · Act 2 · Act 3.
 
 **16 · Structure is a shape, not a rule**
 Simple diagram: setup → escalation → turn → climax → resolution.
-Overlay the **interest curve** (your original slide 41 — keep it, it's the most modern idea in the deck).
+Overlay the **interest curve** (your original slide 41: keep it, it's the most modern idea in the deck).
 *Say: borrowed from game design. Attention isn't constant, and you are responsible for managing it shot by shot.*
 
 **17 · The hook**
@@ -106,7 +106,7 @@ The opening beat that raises a question. A murder, a kidnapping, an eviction not
 
 ---
 
-### PART 4 — THE HERO'S JOURNEY, AS A STAGING PROBLEM (slides 18–27)
+### PART 4 THE HERO'S JOURNEY, AS A STAGING PROBLEM (slides 18–27)
 > **Rebuilt.** Each stage now names the *visual* problem it hands the board artist. Ten slides instead of twenty-five, and it earns its place because every slide ends in a shot decision.
 
 **18 · Campbell**
@@ -115,12 +115,12 @@ Joseph Campbell, *The Hero with a Thousand Faces*. Found the same pattern in her
 
 **19 · The shape**
 Circular monomyth diagram, stages labeled.
-*Say: we're going to walk it, but only asking one question each time — what does this look like?*
+*Say: we're going to walk it, but only asking one question each time: what does this look like?*
 
 **20 · Ordinary World → the staging problem: how do you show "normal"?**
 - Wide establishing shots, neutral eye level
 - Repetition and routine as visual rhythm
-- The hero framed as slightly out of place — off-center, isolated in a crowd, wrong scale
+- The hero framed as slightly out of place: off-center, isolated in a crowd, wrong scale
 *Examples: Luke on Tatooine, Shrek's swamp, the Shire.*
 *Say: "ordinary" has to be established or you can't disrupt it. That's a job for composition, not dialogue.*
 
@@ -133,7 +133,7 @@ Circular monomyth diagram, stages labeled.
 **22 · Refusal → the staging problem: staging hesitation**
 - Blocking that moves away from the goal
 - Doorways, thresholds, and frames the character doesn't pass through
-- Held shots — reluctance reads as *duration*
+- Held shots: reluctance reads as *duration*
 *Say: this is where timing starts mattering, and it's why your animatic will expose your acting.*
 
 **23 · Crossing the Threshold → the staging problem: make the threshold literal**
@@ -142,14 +142,14 @@ Doors, gates, tunnels, horizons, water's edge, the ramp of a ship.
 *Examples: the wardrobe, the rabbit hole, the Millennium Falcon's ramp, the platform in* Spirited Away.
 
 **24 · The New World → the staging problem: re-establish everything**
-- New establishing shots — the audience has no map
+- New establishing shots: the audience has no map
 - Contrast the visual language of Act 1 deliberately (value, palette, lens, camera height)
 - Scale shots: the hero small in frame
 *Say: if the new world looks like the old world, you've wasted the threshold.*
 
 **25 · Tests, Allies, Enemies → the staging problem: escalation you can see**
 - Each test staged tighter, faster, or higher-stakes than the last
-- Repeat a shot setup and change one variable — the audience reads the difference
+- Repeat a shot setup and change one variable: the audience reads the difference
 *Say: escalation is a compositional job. If shot 40 looks like shot 10, it doesn't feel harder.*
 
 **26 · The Ordeal → the staging problem: the climax needs its own grammar**
@@ -160,19 +160,19 @@ Doors, gates, tunnels, horizons, water's edge, the ramp of a ship.
 
 **27 · The Return → the staging problem: the visual echo**
 Repeat a shot from Act 1 with the meaning changed.
-*Example: the binary sunset in* Star Wars *— the same framing, and the character is different.*
+*Example: the binary sunset in* Star Wars *: the same framing, and the character is different.*
 *Say: this is the single most satisfying tool in visual storytelling and it costs you nothing but planning. If you take one thing from this section, take this.*
 
 ---
 
-### PART 5 — WHERE BOARDS GET USED (slides 28–30)
+### PART 5, WHERE BOARDS GET USED (slides 28–30)
 
 **28 · The industries**
 Feature animation · TV animation · live action (previs, effects, complex action) · advertising · games · music video.
 *(Your original slide 70, expanded slightly.)*
 
 **29 · What changes by industry**
-Animation: boards ARE the film — they drive everything downstream.
+Animation: boards ARE the film. They drive everything downstream.
 Live action: usually only complex/expensive sequences get boarded.
 Advertising: highly finished, key frames only, made to sell.
 Games: cinematics, plus a whole set of problems we'll cover in Session 13.
@@ -183,7 +183,7 @@ Director · production designer · previs supervisor · animation director · cr
 
 ---
 
-### PART 6 — THE SURVIVAL KIT (slides 31–36)
+### PART 6 THE SURVIVAL KIT (slides 31–36)
 > This is the drawing orientation, given real room for the first time. ~30 min including live demo and the ten-pose exercise.
 
 **31 · "I can't draw"**
@@ -196,7 +196,7 @@ Head (circle) · ribcage (oval or box) · pelvis (box). Line of action first, sh
 
 **33 · The silhouette test**
 Same figure, filled solid black.
-*Say: if you can't read the action in silhouette, the pose failed — regardless of how well it's drawn. This is my grading standard and I'm showing it to you on day one.*
+*Say: if you can't read the action in silhouette, the pose failed: regardless of how well it's drawn. This is my grading standard and I'm showing it to you on day one.*
 
 **34 · Economy**
 One curve for the spine. Hands are mittens. Faces are three marks or nothing.
@@ -208,26 +208,26 @@ Motion arrow vs. camera arrow · pan · truck in/out · cut · hold · panel num
 
 **36 · Exercise: Ten Poses**
 Ten reference actions, 60–90 seconds each. Then silhouette two of them and have your neighbor name the action.
-*Say: exit ticket. Post them before you leave — graded on existing, not on quality.*
+*Say: exit ticket. Post them before you leave: graded on existing, not on quality.*
 
 ---
 ---
 
-# DECK 05 — COMPOSITION FOR STORYBOARDS
+# DECK 05: COMPOSITION FOR STORYBOARDS
 **Rebuilt. Target: 32 slides**
 
 ## What changed
-Your instinct was right — the design content should stay, because these students genuinely arrive without it. What changes is the **framing**: every principle now arrives attached to a shot problem, and the deck is ordered by what a board artist decides first. The rule of thirds moves from slide 29 to the front third. Six board-specific concepts are added that were missing entirely.
+Your instinct was right: the design content should stay, because these students genuinely arrive without it. What changes is the **framing**: every principle now arrives attached to a shot problem, and the deck is ordered by what a board artist decides first. The rule of thirds moves from slide 29 to the front third. Six board-specific concepts are added that were missing entirely.
 
 ---
 
-### PART 1 — HOW PEOPLE READ A FRAME (1–6)
+### PART 1 HOW PEOPLE READ A FRAME (1–6)
 
-**1 · Title** — Composition: Directing the Eye
+**1 · Title**: Composition: Directing the Eye
 
 **2 · The designer's job**
 > The designer is constantly directing the attention of the viewer to what's important that they notice.
-*(Your original line — it's good, and it's now the organizing thesis of the whole deck.)*
+*(Your original line. It's good, and it's now the organizing thesis of the whole deck.)*
 *Say: replace "designer" with "board artist" and nothing else changes. This is the entire lecture.*
 
 **3 · You have about one second**
@@ -249,8 +249,8 @@ Western audiences scan left-to-right, foreground-to-background, light-to-dark.
 
 ---
 
-### PART 2 — VALUE AND SILHOUETTE (7–11)
-> Promoted to second position. This is the highest-leverage section for weak draftsmen.
+### PART 2 VALUE AND SILHOUETTE (7–11)
+> Promoted to second position. This is the section that does the most for weak draftsmen.
 
 **7 · Value is the primary tool**
 Three values only: black, mid-gray, white.
@@ -265,7 +265,7 @@ Dark figure on light ground · light on dark · the failure case (mid on mid).
 *Say: this is the number one reason student panels fail, and it has nothing to do with drawing ability.*
 
 **10 · Silhouette as composition**
-Not just poses — whole frames read as shapes.
+Not just poses: whole frames read as shapes.
 *Examples: any* Samurai Jack *ambush,* Spirited Away *bridge scene.*
 
 **11 · Value as depth**
@@ -274,26 +274,26 @@ Near = darker/higher contrast. Far = lighter/lower contrast.
 
 ---
 
-### PART 3 — PLACING THINGS IN THE FRAME (12–18)
+### PART 3 PLACING THINGS IN THE FRAME (12–18)
 
 **12 · Rule of thirds**
 Grid overlay. Primary element off-center, on or near the intersections.
 *(Moved from last to here.)*
-*Say: it's a default, not a law — but if you don't know where to put something, put it here.*
+*Say: it's a default, not a law, but if you don't know where to put something, put it here.*
 
 **13 · When to center**
 Symmetry for power, formality, confrontation, unease.
 *Examples: Wes Anderson; Kubrick one-point corridors;* Fury Road *centers the action so it reads at speed.*
-*Say:* Fury Road *is worth knowing — they centered nearly everything specifically so the audience could follow cuts at that pace.*
+*Say:* Fury Road *is worth knowing. They centered nearly everything specifically so the audience could follow cuts at that pace.*
 
 **14 · Balance: symmetrical vs. asymmetrical**
 *(Your original slides 13–15, condensed to one.)*
 Symmetrical = formal, stable, still. Asymmetrical = tension, movement, informality.
-*Say: reframed for us — a symmetrical frame says "nothing is about to happen." Use that.*
+*Say: reframed for us: a symmetrical frame says "nothing is about to happen." Use that.*
 
 **15 · Dominance hierarchy**
 Dominant → sub-dominant → subordinate.
-*(Your original slide 18 — keep almost as-is, it's the best slide in the old deck.)*
+*(Your original slide 18: keep almost as-is, it's the best slide in the old deck.)*
 *Say: this is the language I'll use in critique. When I say a panel doesn't read, I usually mean two things are competing to be dominant.*
 
 **16 · Positive and negative space**
@@ -313,7 +313,7 @@ Doorways, windows, mirrors, arches, foreground silhouettes.
 
 ---
 
-### PART 4 — DIRECTING THE EYE (19–24)
+### PART 4 DIRECTING THE EYE (19–24)
 
 **19 · Leading lines** ← **new**
 Roads, rails, gazes, arms, architecture, light shafts.
@@ -321,7 +321,7 @@ Roads, rails, gazes, arms, architecture, light shafts.
 
 **20 · Eyelines as composition**
 Where a character looks, the audience looks.
-*Say: this connects directly to the continuity session — an eyeline is both a composition tool and a continuity contract.*
+*Say: this connects directly to the continuity session: an eyeline is both a composition tool and a continuity contract.*
 
 **21 · Unity: proximity, repetition, continuation**
 *(Your original slides 19–22, condensed to one slide with three example images.)*
@@ -329,7 +329,7 @@ Where a character looks, the audience looks.
 
 **22 · Gestalt and closure**
 *(Your original slides 23–24.)*
-*Say — and this is the reframe that matters: closure is why crude boards work. The brain completes what you leave out. This is permission to draw less.*
+*Say, and this is the reframe that matters: closure is why crude boards work. The brain completes what you leave out. This is permission to draw less.*
 
 **23 · Depth staging: foreground / midground / background**
 *Say: three planes is enough. Most student panels use one, which is why they feel flat regardless of perspective accuracy.*
@@ -340,7 +340,7 @@ Where a character looks, the audience looks.
 
 ---
 
-### PART 5 — COMPOSING ACROSS THE CUT (25–29)
+### PART 5 COMPOSING ACROSS THE CUT (25–29)
 > **Entirely new.** This is the section that separates "nice panels" from "a sequence," and it's the bridge into the continuity deck.
 
 **25 · A panel is never alone**
@@ -353,7 +353,7 @@ Wide → close. Light → dark. Empty → full.
 
 **27 · Continuity of position**
 Keep the subject in a consistent screen area, or move it deliberately.
-*Say: the audience's eye is already somewhere when your cut lands. Put the next subject there — or make them travel, on purpose.*
+*Say: the audience's eye is already somewhere when your cut lands. Put the next subject there, or make them travel, on purpose.*
 
 **28 · The graphic match**
 A shape in one shot echoed by a shape in the next.
@@ -367,7 +367,7 @@ Repeating a composition to mean something.
 
 ---
 
-### PART 6 — APPLY IT (30–32)
+### PART 6 APPLY IT (30–32)
 
 **30 · The checklist**
 Before you call a panel done:
@@ -387,18 +387,18 @@ Take any three panels from your current assignment. Run the checklist. Post the 
 ---
 ---
 
-# DECK 12 — ANIMATICS (MODERNIZED)
+# DECK 12: ANIMATICS (MODERNIZED)
 **Target: 34 slides. Scanning section removed; timing section expanded.**
 
 ## What changed
 - **Slides 22–30 (scanning, 72 DPI, 720×480, TGA/TIFF) deleted entirely.**
 - Replaced with a digital-native prep pipeline.
-- Timing section — your strongest material — expanded and given a reference table.
+- Timing section, your strongest material, expanded and given a reference table.
 - Added temp audio, a hold-length table, and one honest slide on previs/AI.
 
 ---
 
-### PART 1 — WHY (1–7)
+### PART 1 WHY (1–7)
 *(Your originals 1–7, essentially unchanged. They're good.)*
 
 **1 · Title**
@@ -407,7 +407,7 @@ Take any three panels from your current assignment. Run the checklist. Post the 
 Boards handle blocking, camera, action. They cannot tell you **how long**.
 
 **3 · Definition**
-An animatic is a moving storyboard — timed panels, cut to a soundtrack — that shows how scenes flow together.
+An animatic is a moving storyboard (timed panels, cut to a soundtrack) that shows how scenes flow together.
 
 **4 · The pipeline**
 Script → boards → animatic → production.
@@ -425,23 +425,23 @@ Studios differ. The artist keeps creative license to emphasize a beat over the s
 
 ---
 
-### PART 2 — TYPES (8–14)
+### PART 2 TYPES (8–14)
 *(Your originals 8–16, tightened from nine slides to seven.)*
 
-**8 · Four kinds** — hand-drawn · pencil test / motion preview · videomatic · 3D animatic
+**8 · Four kinds**: hand-drawn · pencil test / motion preview · videomatic · 3D animatic
 
-**9 · Hand-drawn animatics** — timed storyboards; simplest and still the most common in animation.
+**9 · Hand-drawn animatics**: timed storyboards; simplest and still the most common in animation.
 
-**10 · Pencil tests & motion previews** — camera movement, character placement, timing, pacing.
+**10 · Pencil tests & motion previews**: camera movement, character placement, timing, pacing.
 *Keep the Lucas anecdote: he cut together WWII aerial dogfight footage to preview the* Star Wars *trench battle.*
 
-**11 · Videomatics** — rough live-action stand-in, shot with staff, often against blue/green.
-*Say: this is still done, and it's free for you — your phone is a videomatic rig.*
+**11 · Videomatics**: rough live-action stand-in, shot with staff, often against blue/green.
+*Say: this is still done, and it's free for you. Your phone is a videomatic rig.*
 
-**12 · 3D animatics / previs** — proxy models, layout animation, camera exploration.
+**12 · 3D animatics / previs**: proxy models, layout animation, camera exploration.
 *Say: this is now the dominant method on big live-action films, and it's a real job title.*
 
-**13 · Rough cut** — the animatic that never dies; shots get swapped for finished footage as they're approved.
+**13 · Rough cut**: the animatic that never dies; shots get swapped for finished footage as they're approved.
 *Say: on an animated feature, a version of the animatic exists from month one to delivery.*
 
 **14 · Which one are you making?**
@@ -449,11 +449,11 @@ Hand-drawn, from your own boards, cut in AE or an NLE.
 
 ---
 
-### PART 3 — PREP: THE MODERN PIPELINE (15–21)
+### PART 3 PREP: THE MODERN PIPELINE (15–21)
 > **Replaces the scanning section entirely.**
 
 **15 · Working resolution**
-1920 × 1080 baseline for 16:9. Work at 2× if you plan pushes or pans — you can scale down, not up.
+1920 × 1080 baseline for 16:9. Work at 2× if you plan pushes or pans. You can scale down, not up.
 *Say: the old rule was "scan bigger than you need." Same rule, new numbers.*
 
 **16 · Document setup**
@@ -461,7 +461,7 @@ Your panels should already be at the delivery ratio from your template assignmen
 *Say: the page layout is for the printed board. The animatic wants individual frames.*
 
 **17 · Naming and numbering**
-`SEQ01_SH010.png`, `SEQ01_SH020.png` — increment by 10.
+`SEQ01_SH010.png`, `SEQ01_SH020.png`: increment by 10.
 *Say: increment by ten so you can insert shots later without renumbering everything. This is a real studio convention and it will save you at 2am.*
 
 **18 · Export**
@@ -469,8 +469,8 @@ PNG for lossless with transparency · JPG only for flattened stills you'll never
 *Say: PSD keeps your layers, PNG is what you hand to After Effects. Keep both.*
 
 **19 · Layer separation for motion**
-If an arm waves, a character crosses, or a camera pushes past a foreground element — that element needs its own layer, with the hole behind it filled.
-*(Your originals 31–32 on selection tools live here — marquee, lasso, magic wand, pen. Still accurate, just reframed.)*
+If an arm waves, a character crosses, or a camera pushes past a foreground element. That element needs its own layer, with the hole behind it filled.
+*(Your originals 31–32 on selection tools live here: marquee, lasso, magic wand, pen. Still accurate, just reframed.)*
 
 **20 · Pans and pushes**
 For a pan: draw wider than the frame. For a push: draw at higher resolution than the frame.
@@ -482,7 +482,7 @@ File → Import → choose the first file → check "PNG Sequence" (or import as
 
 ---
 
-### PART 4 — SOUND (22–24) ← **new section**
+### PART 4 SOUND (22–24) ← **new section**
 
 **22 · Temp audio changes everything**
 *Say: play the same 20 seconds of animatic silent, then with temp music. It's not the same piece of work. This is the single cheapest upgrade available to you.*
@@ -497,11 +497,11 @@ Freesound, YouTube Audio Library, Pixabay, Incompetech, CC-licensed tracks. Cred
 
 ---
 
-### PART 5 — TIMING (25–32)
+### PART 5 TIMING (25–32)
 > Your best material. Expanded from eight slides to eight better ones, with a reference table added.
 
 **25 · Timing is the whole point**
-*Say: everything before this session was about what's in the frame. This is about how long it stays there — and it's where most student projects fall apart.*
+*Say: everything before this session was about what's in the frame. This is about how long it stays there, and it's where most student projects fall apart.*
 
 **26 · Frame rate is the ruler**
 24 fps film · 30 fps broadcast · games vary · high-speed capture enables slow motion.
@@ -523,19 +523,19 @@ Too long: pace drags, audience bored. Too short: ambiguous, audience confused.
 | Action cut | as fast as it reads |
 | Beat of silence (dramatic) | 2–5 sec |
 
-*Say: these are starting points, not rules — but you need something to deviate from. Guessing from zero is why timing feels random.*
+*Say: these are starting points, not rules, but you need something to deviate from. Guessing from zero is why timing feels random.*
 
 **29 · Reading time**
 Any panel with text, or with information the audience must *find*, needs longer than you think.
 *Say: time it by reading it aloud twice.*
 
 **30 · The stopwatch**
-*(Your original slide 38 — keep the whole argument, it's excellent.)*
+*(Your original slide 38: keep the whole argument, it's excellent.)*
 *Say: every animator should own a stopwatch and most never use it, because they think they already know how long things take. They don't. Neither do you.*
 
 **31 · Video reference**
 Shoot it on your phone. Act it out. Time it.
-*(Your originals 39–40 — Disney's test footage, the relationship between gesture and timing.)*
+*(Your originals 39–40: Disney's test footage, the relationship between gesture and timing.)*
 *Say: reference makes any artist better at any skill level. This is not a beginner's crutch.*
 
 **32 · Iterate**
@@ -543,16 +543,16 @@ An NLE makes adding or removing frames trivial. Your first timing pass will be w
 
 ---
 
-### PART 6 — TOOLS & THE FIELD (33–34)
+### PART 6 TOOLS & THE FIELD (33–34)
 
 **33 · Software**
 Photoshop / Photopea (stills) · After Effects (motion) · DaVinci Resolve or Premiere (editing) · Storyboard Pro, FrameForge (dedicated).
 > Storyboards are not about software. They're about stories. Technology is only the means for executing the vision.
-*(Your original line — keep it verbatim, it's the best sentence in the deck.)*
+*(Your original line: keep it verbatim, it's the best sentence in the deck.)*
 
 **34 · Previs, AI, and what's actually your job** ← **new**
 - Previs is now a large, real department on most big productions
 - Generative tools can produce panels and rough motion quickly, and studios are testing them
 - What they can't do: know which shot serves *this* story, hold a sequence in their head, sit in a room and defend a choice, or take a note and understand what the note was really about
 
-*Say, plainly: the part of this job that is "make a picture of a thing" is under pressure. The part that is "decide what the picture should be, and know why" is the part I'm training you for, and it's the part that's still yours. That's not reassurance — it's the reason this class grades clarity and judgment instead of rendering.*
+*Say, plainly: the part of this job that is "make a picture of a thing" is under pressure. The part that is "decide what the picture should be, and know why" is the part I'm training you for, and it's the part that's still yours. That's not reassurance. It's the reason this class grades clarity and judgment instead of rendering.*

@@ -1,4 +1,4 @@
-# H3 — Composition Checklist
+# H3: Composition Checklist
 **CA 140 Storyboarding · Issued Session 5**
 
 > This is Deck 05, slide 30, on a piece of paper. It is also, almost word for word, how your panels get graded.
@@ -27,9 +27,9 @@ Dark figure on light ground, or light on dark. The failure case is mid-value on 
 Dominant → sub-dominant → subordinate. When an instructor says a panel "doesn't read," it usually means two things are competing to be dominant. Pick one.
 
 **Correct headroom / lookroom / leadroom?**
-- *Headroom* — space above the head, varying by shot size
-- *Lookroom (nose room)* — space in the direction they're looking
-- *Leadroom* — space in the direction they're moving
+- *Headroom*: space above the head, varying by shot size
+- *Lookroom (nose room)*: space in the direction they're looking
+- *Leadroom*: space in the direction they're moving
 
 This one is checkable. You can fix half your panels in ten minutes by applying just this line.
 
@@ -42,20 +42,20 @@ Wide → close. Light → dark. Empty → full. If two consecutive panels have t
 
 Black, mid-gray, white. Everything a board needs, it can do in three values. More than that is usually procrastination.
 
-Value contrast is doing more work than line, shape, direction, size, and texture combined. It's also the first thing the eye resolves — before movement, before faces, before anything.
+Value contrast is doing more work than line, shape, direction, size, and texture combined. It's also the first thing the eye resolves: before movement, before faces, before anything.
 
 ---
 
 ## Depth, cheaply
 
-- **Overlap** — put something in front of something
-- **Three planes** — foreground, midground, background. Most student panels use one, which is why they feel flat regardless of how accurate the perspective is.
-- **Value as depth** — near is darker and higher contrast; far is lighter and lower contrast. This works *even if your perspective is wrong.*
+- **Overlap**: put something in front of something
+- **Three planes**: foreground, midground, background. Most student panels use one, which is why they feel flat regardless of how accurate the perspective is.
+- **Value as depth**: near is darker and higher contrast; far is lighter and lower contrast. This works *even if your perspective is wrong.*
 
 ---
 
 ## The standing standard
 
-**Silhouette readability.** Fill the figure solid black. If a stranger can't name the action, the pose failed — regardless of how well it's drawn.
+**Silhouette readability.** Fill the figure solid black. If a stranger can't name the action, the pose failed: regardless of how well it's drawn.
 
 This is the grading standard, it's deliberately independent of skill level, and that's what makes it fair.

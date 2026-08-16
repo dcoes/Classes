@@ -1,24 +1,24 @@
-# DECK 13 — AFTER EFFECTS FOR BOARDS
+# DECK 13: AFTER EFFECTS FOR BOARDS
 **Target: 18 slides + live build-along · Session 12 · Paired with EX7**
 
 ## Why this deck exists
 
-The After Effects exercise has been running every term with **no deck, no brief, no rubric and no handout.** It was walked through live and existed nowhere in writing. For a meaningful number of these students it is also the only structured AE exposure they get before they need it — and PR3 is due three sessions later.
+The After Effects exercise has been running every term with **no deck, no brief, no rubric and no handout.** It was walked through live and existed nowhere in writing. For a meaningful number of these students it is also the only structured AE exposure they get before they need it, and PR3 is due three sessions later.
 
-It is the cheapest deck in the set to build: screenshots, not licensed film stills. Nothing here needs `[ADD IMAGE: ...]` sourcing.
+It is the cheapest deck in the set to build: screenshots, not licensed film stills. Nothing here needs `[ADD IMAGE:...]` sourcing.
 
-**The design risk is that this becomes a tutorial**, which `CLAUDE.md` §1 forbids — software is never the subject. The guard is structural: the deck teaches exactly five operations, and closes on a design question rather than a technique. If it grows past five operations, or if easing and effects appear, it has crossed into Motion Graphics' territory (`CURRICULUM.md`) and should be cut back.
+**The design risk is that this becomes a tutorial**, which `CLAUDE.md` §1 forbids: software is never the subject. The guard is structural: the deck teaches exactly five operations, and closes on a design question rather than a technique. If it grows past five operations, or if easing and effects appear, it has crossed into Motion Graphics' territory (`CURRICULUM.md`) and should be cut back.
 
 Format: build along live, everyone's screen up, one operation at a time. The slides are the reference, not the delivery.
 
 ---
 
-### PART 1 — WHY YOU'RE HERE (1–3)
+### PART 1 WHY YOU'RE HERE (1–3)
 
-**1 · Title** — After Effects for Boards
+**1 · Title**: After Effects for Boards
 
 **2 · What this is and isn't**
-This is five operations, chosen because they're what an animatic needs. It is not a motion graphics course — that one exists and it isn't this.
+This is five operations, chosen because they're what an animatic needs. It is not a motion graphics course. That one exists and it isn't this.
 *You will not learn After Effects today. You'll learn the corner of it that makes your boards move.*
 
 **3 · Why an animatic needs any of this at all**
@@ -27,18 +27,18 @@ Boards handle blocking, camera and action. They can't hold duration. Everything 
 
 ---
 
-### PART 2 — THE FIVE OPERATIONS (4–13)
+### PART 2 THE FIVE OPERATIONS (4–13)
 > Build along. One at a time. Everyone's screen visible.
 
-**4 · Operation 1 — Import with layers intact**
-`File → Import → File`, then **Import As: Composition — Retain Layer Sizes.**
+**4 · Operation 1: Import with layers intact**
+`File → Import → File`, then **Import As: Composition: Retain Layer Sizes.**
 Three-way comparison: *Footage* gives one flat image · *Composition* gives layers resized to the comp · *Retain Layer Sizes* gives layers at their own dimensions with usable anchor points.
 *Get this wrong and nothing else in the session is possible. It's also invisible until you try to move something.*
 
 **5 · Why "Retain Layer Sizes" and not just "Composition"**
 Diagram: the same arm layer under both settings, with the anchor point marked.
 
-**6 · Operation 2 — The anchor point is the joint**
+**6 · Operation 2: The anchor point is the joint**
 **Y** for Pan Behind, drag the anchor to the shoulder, **V** to get back.
 Side by side: an arm rotating around its own middle vs. around the shoulder.
 *One is a propeller. One is an arm. That's a single drag.*
@@ -46,7 +46,7 @@ Side by side: an arm rotating around its own middle vs. around the shoulder.
 **7 · Anchor points, generalized**
 Every rotation and scale in this program happens around the anchor. Once you see it as *the joint*, it stops being a technicality.
 
-**8 · Operation 3 — Parenting**
+**8 · Operation 3: Parenting**
 The Parent & Link column, the pick-whip, the child inheriting position, rotation and scale while keeping its own on top.
 Build the chain outward from the root: body → upper arm → forearm → hand.
 
@@ -54,14 +54,14 @@ Build the chain outward from the root: body → upper arm → forearm → hand.
 A parented layer's values are now **relative to the parent.** Move the body, the arm follows and its own position number doesn't change.
 *This surprises everyone exactly once, and then never again.*
 
-**10 · Operation 4 — Keyframes, minimally**
+**10 · Operation 4: Keyframes, minimally**
 Stopwatch on, move the playhead, change the value. That's it.
 *No easing. No graph editor. Not today, and not on the rubric.*
 
-**11 · Operation 5 — Masks**
+**11 · Operation 5: Masks**
 Pen tool **(G)**, closed shape, everything outside disappears. Mask Feather at 1–2px hides a great deal.
 
-**12 · The move that matters — making something to hide behind**
+**12 · The move that matters: making something to hide behind**
 Step diagram: duplicate the background → mask the copy down to the doorway → drag it **above** the character.
 *The character now walks behind a thing that was never a separate object.*
 
@@ -70,10 +70,10 @@ It isn't broken. **Boards, matte paintings and reference art arrive flat.** Anyt
 
 ---
 
-### PART 3 — GETTING IT OUT (14–16)
+### PART 3 GETTING IT OUT (14–16)
 
 **14 · Frame rate and comp size**
-Pick 24 or 30 **at the start** and never change it — changing it later shifts every keyframe you've set. Comp size matches your delivery ratio: 1920×1038 for 1.85, 1920×817 for 2.35.
+Pick 24 or 30 **at the start** and never change it: changing it later shifts every keyframe you've set. Comp size matches your delivery ratio: 1920×1038 for 1.85, 1920×817 for 2.35.
 
 **15 · Numbered sequences**
 `SEQ01_SH010.png`, incrementing by ten, imported as a PNG Sequence.
@@ -85,7 +85,7 @@ Pick 24 or 30 **at the start** and never change it — changing it later shifts 
 
 ---
 
-### PART 4 — THE POINT (17–18)
+### PART 4 THE POINT (17–18)
 
 **17 · The question this session is actually about**
 > **What would you have had to plan in the drawing to make this move possible?**
@@ -101,12 +101,12 @@ The tool is not the subject. **The move you want determines the artwork you need
 
 ## Assignment pairing
 
-**EX7 — AE Rig & Move**, 20 pts. Brief and rubric exist. Graded on the five operations independently, plus the planning paragraph, which is why a student whose mask fails still scores most of the points and can be fixed in two minutes at the desk.
+**EX7: AE Rig & Move**, 20 pts. Brief and rubric exist. Graded on the five operations independently, plus the planning paragraph, which is why a student whose mask fails still scores most of the points and can be fixed in two minutes at the desk.
 
 ## Handout pairing
 
-**H8 — After Effects & File Discipline.** Written. Carries the five operations, the settings that break things, and the naming/versioning/audio-sourcing material that PR3 grades and no session teaches.
+**H8: After Effects & File Discipline.** Written. Carries the five operations, the settings that break things, and the naming/versioning/audio-sourcing material that PR3 grades and no session teaches.
 
 ## Boundary
 
-CA 140 owns AE **as an animatic tool** — these five operations. Motion Graphics owns it as a craft. See `CURRICULUM.md`, which flags this as the one row where two courses touch the same software rather than the same idea, and worth confirming with that instructor-of-record.
+CA 140 owns AE **as an animatic tool**: these five operations. Motion Graphics owns it as a craft. See `CURRICULUM.md`, which flags this as the one row where two courses touch the same software rather than the same idea, and worth confirming with that instructor-of-record.

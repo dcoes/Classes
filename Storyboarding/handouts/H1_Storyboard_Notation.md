@@ -1,4 +1,4 @@
-# H1 — Storyboard Notation
+# H1: Storyboard Notation
 **CA 140 Storyboarding · Issued Session 1**
 
 > This is the professional shorthand. Learn it now and you'll never write a paragraph where an arrow would do.
@@ -14,7 +14,7 @@ These are different marks and they mean different things. Confusing them is the 
 | **Subject motion** | Solid arrow, drawn **on** the subject, following the path it travels | *The character/object moves this way inside the frame.* |
 | **Camera motion** | Arrow drawn **outside or across the panel**, often doubled or drawn on the panel border | *The frame itself moves this way.* |
 
-If both happen in one panel, draw both — and label them. `CAM →` and `SUBJ →`.
+If both happen in one panel, draw both, and label them. `CAM →` and `SUBJ →`.
 
 ---
 
@@ -29,7 +29,7 @@ If both happen in one panel, draw both — and label them. `CAM →` and `SUBJ �
 | **ZOOM IN / ZOOM OUT** | Zoom | Camera stays put; the lens magnifies. |
 | **CRANE UP / CRANE DN** | Crane | Camera travels vertically through space. |
 
-**Truck vs. zoom.** A truck changes your relationship to the space — foreground and background shift against each other. A zoom just makes everything bigger. They look nothing alike on screen. Write the one you mean.
+**Truck vs. zoom.** A truck changes your relationship to the space: foreground and background shift against each other. A zoom just makes everything bigger. They look nothing alike on screen. Write the one you mean.
 
 ---
 
@@ -46,7 +46,7 @@ For a pan or a truck, draw the **widest extent** of the move and box the start a
    start frame            end frame
 ```
 
-Label them **A** and **B**. If there's a third position, **C**. You are drawing wider than the delivered frame on purpose — see H5 on planning pans and pushes before you draw.
+Label them **A** and **B**. If there's a third position, **C**. You are drawing wider than the delivered frame on purpose: see H5 on planning pans and pushes before you draw.
 
 ---
 
@@ -69,22 +69,22 @@ Label them **A** and **B**. If there's a third position, **C**. You are drawing 
 SEQ 01 / SC 04 / SH 010
 ```
 
-- **Sequence** — the dramatic unit.
-- **Scene** — numbered to match the screenplay's scene number.
-- **Shot** — **increment by 10**, not by 1.
+- **Sequence**: the dramatic unit.
+- **Scene**: numbered to match the screenplay's scene number.
+- **Shot**: **increment by 10**, not by 1.
 
-**Increment by ten.** When the director asks for a shot between 020 and 030 — and they will — you write 025 instead of renumbering the rest of the sequence. This is a real studio convention and it will save you at 2am.
+**Increment by ten.** When the director asks for a shot between 020 and 030, and they will, you write 025 instead of renumbering the rest of the sequence. This is a real studio convention and it will save you at 2am.
 
 ---
 
 ## What goes under every panel
 
 1. **Panel / shot number**
-2. **Shot size and angle** — `MS, low angle`
-3. **Action** — present tense, one line: *"She turns, sees it, steps back."*
-4. **Camera notation** — any move, with its arrow
-5. **Dialogue or SFX** — if it lands in this panel
-6. **Duration** — if it matters
+2. **Shot size and angle**: `MS, low angle`
+3. **Action**: present tense, one line: *"She turns, sees it, steps back."*
+4. **Camera notation**: any move, with its arrow
+5. **Dialogue or SFX**, if it lands in this panel
+6. **Duration**, if it matters
 
 ---
 

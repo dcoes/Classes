@@ -1,4 +1,4 @@
-# Syllabus Language — CA 140 Storyboarding
+# Syllabus Language: CA 140 Storyboarding
 *Drop-in paragraphs. Copy into the syllabus as-is, or edit to taste. Written in the voice you'd actually use in front of the class.*
 
 ---
@@ -7,7 +7,7 @@
 
 Work in this course comes in two kinds, and they are graded differently on purpose.
 
-**Skill exercises** are short, single-stage, and each one isolates a single thing — a measurement, a shot type, a lighting setup. They are cheap to do and cheap to fail, and they exist so that you find out what you can't do yet while it's still worth almost nothing.
+**Skill exercises** are short, single-stage, and each one isolates a single thing: a measurement, a shot type, a lighting setup. They are cheap to do and cheap to fail, and they exist so that you find out what you can't do yet while it's still worth almost nothing.
 
 **Projects** are graded in stages, and the stages gate each other. That's where the weight is.
 
@@ -19,12 +19,12 @@ Work in this course comes in two kinds, and they are graded differently on purpo
 | EX4 | Perspective Study | 30 |
 | EX5 | Continuity Strips | 40 |
 | EX6 | Lighting Study | 40 |
-| EX7 | After Effects — Rig & Move | 20 |
+| EX7 | After Effects: Rig & Move | 20 |
 | | **Skill exercises** | **220** |
 | PR1 | City Park Sequence | 100 |
-| PR2 | Midterm — Reverse Analysis | 100 |
+| PR2 | Midterm: Reverse Analysis | 100 |
 | PR3 | Animatic | 100 |
-| PR4 | Final — Script to Animatic | 200 |
+| PR4 | Final: Script to Animatic | 200 |
 | PR5 | The Pitch | 50 |
 | | **Projects** | **550** |
 | | Exit tickets (16 sessions × 1) | 16 |
@@ -32,7 +32,7 @@ Work in this course comes in two kinds, and they are graded differently on purpo
 
 Roughly 28% exercises, 70% projects, 2% exit tickets.
 
-**The exercises are not warm-ups for the grade — they are warm-ups for the projects.** Every one of them is the small version of something a project asks for later: the twelve shots rehearse the midterm, the City Park boards become the animatic, the After Effects exercise is the software you'll need one session afterward. Losing points on an exercise is information, and it arrives while it's still cheap.
+**The exercises are not warm-ups for the grade. They are warm-ups for the projects.** Every one of them is the small version of something a project asks for later: the twelve shots rehearse the midterm, the City Park boards become the animatic, the After Effects exercise is the software you'll need one session afterward. Losing points on an exercise is information, and it arrives while it's still cheap.
 
 ---
 
@@ -40,21 +40,21 @@ Roughly 28% exercises, 70% projects, 2% exit tickets.
 
 **This course grades clarity and judgment, not rendering.**
 
-The question asked of every submission is never "is this well drawn." It is: *does this communicate, and did you decide it on purpose.* Drawing here is treated as **notation** — a way of writing down a decision so that someone else can build it.
+The question asked of every submission is never "is this well drawn." It is: *does this communicate, and did you decide it on purpose.* Drawing here is treated as **notation**: a way of writing down a decision so that someone else can build it.
 
 That is not a lowered standard. It is a different one, and it is the standard the job actually uses. A production board is crude because panels are disposable thinking. You will see real, shipped, professional boards in Session 1 that are worse-drawn than anything you will hand in, and they were made by people at the top of this field.
 
-**The recurring standard is silhouette readability.** Fill a figure in solid black; if a stranger can't name the action, the pose failed — regardless of how well it's drawn. It is introduced in Session 1, referenced in composition, staging, and every critique, and it is deliberately independent of skill level. That is what makes it fair.
+**The recurring standard is silhouette readability.** Fill a figure in solid black; if a stranger can't name the action, the pose failed: regardless of how well it's drawn. It is introduced in Session 1, referenced in composition, staging, and every critique, and it is deliberately independent of skill level. That is what makes it fair.
 
 **If you have never drawn before, you can do well in this course.** If you draw beautifully and won't make decisions, you will not.
 
 ---
 
-## Exit tickets — 16 points
+## Exit tickets: 16 points
 
 **Every session ends with a posted exit ticket.** One point each, sixteen sessions, sixteen points.
 
-Exit tickets are **graded on existing, not on quality.** They are ten to ninety seconds of work — ten quick poses, three silhouettes, a checklist run on one panel, a beat sheet line. Post it before you leave.
+Exit tickets are **graded on existing, not on quality.** They are ten to ninety seconds of work: ten quick poses, three silhouettes, a checklist run on one panel, a beat sheet line. Post it before you leave.
 
 They exist for two reasons, and it's worth being straightforward about both:
 
@@ -71,7 +71,7 @@ The **projects** in this course are graded in stages: **beat sheet → thumbnail
 
 > **Each milestone gates the next. A stage submitted without the preceding stage is capped at 50% of that stage's available points.**
 
-The cap **cascades.** On the final project, a student who skips thumbnails and roughs to arrive with finished boards loses 55 points outright and has their 45-point final boards capped at 22.5 — a 77.5-point penalty on a 200-point assignment.
+The cap **cascades.** On the final project, a student who skips thumbnails and roughs to arrive with finished boards loses 55 points outright and has their 45-point final boards capped at 22.5: a 77.5-point penalty on a 200-point assignment.
 
 **This applies to projects only.** The skill exercises are single-stage and carry no cap.
 
@@ -89,28 +89,28 @@ Three honest reasons for it:
 
 **The policy is simple: process is what's assessed, and process is what you have to show.**
 
-This course grades a chain of dated, staged work — beat sheet, thumbnails, roughs, finals, animatic — and each stage has to follow from the one before it. Final boards that don't descend from your own thumbnails are not final boards, whatever produced them, and the milestone cap handles that arithmetically without anyone having to run an investigation.
+This course grades a chain of dated, staged work (beat sheet, thumbnails, roughs, finals, animatic) and each stage has to follow from the one before it. Final boards that don't descend from your own thumbnails are not final boards, whatever produced them, and the milestone cap handles that arithmetically without anyone having to run an investigation.
 
 Some specifics:
 
-- **Reference is not cheating.** It never was. Every professional uses reference; the ones who don't have simply memorized more of it. Photo reference, video reference, acting it out, shooting it on your phone — all encouraged, all professional practice.
-- **Generative tools for ideation** — mood, lighting, environment exploration — are permitted, and should be **disclosed** in your submission. Say what you used and where.
+- **Reference is not cheating.** It never was. Every professional uses reference; the ones who don't have simply memorized more of it. Photo reference, video reference, acting it out, shooting it on your phone. All encouraged, all professional practice.
+- **Generative tools for ideation** (mood, lighting, environment exploration) are permitted, and should be **disclosed** in your submission. Say what you used and where.
 - **Generated panels submitted as your boards are not the assignment**, because the assignment is the decision, not the image. A generated panel has no line of action you chose, no shot you selected, no relationship to the panel before it that you designed. It cannot be critiqued, because there is no reasoning behind it to interrogate.
 - **You will not be accused of anything based on how something looks.** Nobody's grade here rests on a judgment about whether a drawing "looks AI." It rests on whether the chain of work exists.
 
-**The straight version:** the part of this job that is "make a picture of a thing" is under real pressure, and I'm not going to pretend otherwise. The part that is "decide what the picture should be, and know why" is what you're being trained in, and it's the part that's still yours. That's not reassurance — it's the reason this course is built the way it is.
+**The straight version:** the part of this job that is "make a picture of a thing" is under real pressure, and I'm not going to pretend otherwise. The part that is "decide what the picture should be, and know why" is what you're being trained in, and it's the part that's still yours. That's not reassurance. It's the reason this course is built the way it is.
 
 ---
 
 ## Critique
 
-**Critique participation is graded.** Giving notes is assessed evidence for a course objective — *explain the creative work of self and peers* — and it is an objective you cannot meet by submitting work alone.
+**Critique participation is graded.** Giving notes is assessed evidence for a course objective, *explain the creative work of self and peers*, and it is an objective you cannot meet by submitting work alone.
 
 Two rules, stated once and enforced all term:
 
 **The note is data, not a verdict.** Notes happen on excellent work too. Always. Notes are not a judgment on you; they are the job.
 
-**Don't defend.** While notes are being given, the artist does not respond except to ask a clarifying question. You may respond after all the notes are in. This is hard, it feels unnatural, and it is non-negotiable — because if you have to explain what you meant, the boards didn't say it, and *that is the note.*
+**Don't defend.** While notes are being given, the artist does not respond except to ask a clarifying question. You may respond after all the notes are in. This is hard, it feels unnatural, and it is non-negotiable, because if you have to explain what you meant, the boards didn't say it, and *that is the note.*
 
 You are allowed to disagree. You are not allowed to be precious. "Let me try both" is a professional answer. So is "can I show you why I went the other way." Then let the work argue.
 
@@ -118,7 +118,7 @@ You are allowed to disagree. You are not allowed to be precious. "Let me try bot
 
 ## Late work
 
-Milestones cannot be submitted late, because a milestone submitted after the stage it gates is not a milestone — it's a reconstruction. Missing one triggers the cap.
+Milestones cannot be submitted late, because a milestone submitted after the stage it gates is not a milestone. It's a reconstruction. Missing one triggers the cap.
 
 Final submissions are accepted late at the standard program penalty.
 
@@ -130,7 +130,7 @@ If something serious is going on in your life, tell me before the deadline rathe
 
 **No textbook is required.** Tuminello's *Exploring Storyboarding* is recommended if you want a reference on your shelf, but **everything required in this course is in the lectures and handouts.** Do not buy a book on my account.
 
-**Software:** Photoshop, or **Photopea** — which is free, runs in a browser, and opens and saves `.psd` files. For the animatic: After Effects, DaVinci Resolve (free), or Premiere. Any NLE is acceptable.
+**Software:** Photoshop, or **Photopea**, which is free, runs in a browser, and opens and saves `.psd` files. For the animatic: After Effects, DaVinci Resolve (free), or Premiere. Any NLE is acceptable.
 
 **The Photoshop prerequisite is not reliably enforced, and I know that.** If you have never opened it, say so early. You will not be the only one, and there is a demo in Session 2. I would much rather spend ten minutes on file formats than have you lose an assignment to one.
 
@@ -142,9 +142,9 @@ If something serious is going on in your life, tell me before the deadline rathe
 
 **Some assignments let you choose the medium, and the choice costs you nothing.**
 
-The lighting study can be drawn, photographed with a phone and a desk lamp, or rendered in 3D — the rubric is identical for all three. The perspective study offers a photo-first route at equal credit.
+The lighting study can be drawn, photographed with a phone and a desk lamp, or rendered in 3D: the rubric is identical for all three. The perspective study offers a photo-first route at equal credit.
 
-This is not an accommodation for people who can't draw, and it isn't a lowered bar. Those assignments assess whether you can **identify and control** something — light, depth, the grammar of a shot — and drawing ability is a different skill. Grading one as though it were the other would be measuring the wrong thing, which is a design flaw, not a standard.
+This is not an accommodation for people who can't draw, and it isn't a lowered bar. Those assignments assess whether you can **identify and control** something (light, depth, the grammar of a shot) and drawing ability is a different skill. Grading one as though it were the other would be measuring the wrong thing, which is a design flaw, not a standard.
 
 Where an assignment *is* about drawing, it says so and there's no menu. Most of them aren't.
 

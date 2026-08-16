@@ -1,4 +1,4 @@
-# H6 — Acting & Staging Checklist
+# H6: Acting & Staging Checklist
 **CA 140 Storyboarding · Issued Session 9, at final-project launch**
 
 > "It's stiff." "I don't believe them." "I can't tell what they want." These sound like drawing notes. They're almost never drawing notes.
@@ -34,9 +34,9 @@ Better still, from Ed Hooks: **play an action, in pursuit of an objective, while
 
 **Silhouette.** Fill it black. Can a stranger name the action? This is the same test from week one and it is the single most useful thing in this course.
 
-**Negative space in the pose.** Gaps between arm and torso, between legs. Closed shapes read; overlapping mush doesn't. If the arm is in front of the body, we lose it — move it off the silhouette.
+**Negative space in the pose.** Gaps between arm and torso, between legs. Closed shapes read; overlapping mush doesn't. If the arm is in front of the body, we lose it: move it off the silhouette.
 
-**Weight.** Where's the center of gravity, and what's carrying it? Characters without weight look like stickers. It's usually one line — the contact of the feet.
+**Weight.** Where's the center of gravity, and what's carrying it? Characters without weight look like stickers. It's usually one line: the contact of the feet.
 
 **Asymmetry.** Shoulders and hips opposed. Head tilted off the spine axis. Nothing parallel. Symmetrical poses read as dead, formal, or robotic. Sometimes you want that. Usually you don't.
 
@@ -60,12 +60,12 @@ Better still, from Ed Hooks: **play an action, in pursuit of an objective, while
 
 **The relationship is the composition.** Before you draw either character, decide what the relationship is. The staging follows.
 
-- **Height and power** — who's higher in frame, who's looking up. This stacks with camera angle.
-- **Distance and intimacy** — intimate, personal, social, public. Audiences read the gap instantly without knowing why.
-- **Open vs. closed body language** — legible at thumbnail size, which makes it more useful to you than facial subtlety.
-- **Three or more** — triangular staging, groupings as "sides," one character isolated. Who's grouped with whom is the story.
-- **Staging the listener** — beginners board the person talking. **The performance is usually on the other face.**
-- **Blocking across a sequence** — if your characters stand in the same places for twelve panels, ask why.
+- **Height and power**: who's higher in frame, who's looking up. This stacks with camera angle.
+- **Distance and intimacy**: intimate, personal, social, public. Audiences read the gap instantly without knowing why.
+- **Open vs. closed body language**: legible at thumbnail size, which makes it more useful to you than facial subtlety.
+- **Three or more**: triangular staging, groupings as "sides," one character isolated. Who's grouped with whom is the story.
+- **Staging the listener**: beginners board the person talking. **The performance is usually on the other face.**
+- **Blocking across a sequence**, if your characters stand in the same places for twelve panels, ask why.
 
 ---
 

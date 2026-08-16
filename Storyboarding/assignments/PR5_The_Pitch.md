@@ -1,4 +1,4 @@
-# PR5 — The Pitch
+# PR5 The Pitch
 **50 points · Assigned Session 9 · Pitches run Sessions 14–15**
 **Rubric:** [`rubrics/PR5_The_Pitch.md`](../rubrics/PR5_The_Pitch.md)
 
@@ -8,7 +8,7 @@
 
 **Three to four minutes. Live. Standing beside your boards.**
 
-You perform your final sequence for the room — reading the action, doing the voices, indicating the timing — so that everyone experiences the film before it exists.
+You perform your final sequence for the room (reading the action, doing the voices, indicating the timing) so that everyone experiences the film before it exists.
 
 Then you take notes on it. That part is graded too, and it's the harder half.
 
@@ -42,7 +42,7 @@ Incomplete is expected and fine. Pitch what exists and describe what's coming. S
 
 **Perform the action, in present tense.** *"She turns. She sees it. She runs."* Not *"in this shot we see a character who is turning."*
 
-**Do the voices.** Badly is fine. Silently is not. You will feel ridiculous — everyone feels ridiculous — and the room still needs to hear the dialogue timed against the cut.
+**Do the voices.** Badly is fine. Silently is not. You will feel ridiculous, everyone feels ridiculous, and the room still needs to hear the dialogue timed against the cut.
 
 **Pitch the timing.** Pause where the film pauses. Speed up where it speeds up. Say *"hold"* on a hold. This is the single thing that separates a pitch from a description: you are performing the edit, not summarizing it.
 
@@ -50,23 +50,23 @@ Incomplete is expected and fine. Pitch what exists and describe what's coming. S
 
 **Know your one thing.** Every sequence has one moment it exists for. Know which one, and land it. If you don't know what your sequence is about, the room will decide for you, and they will be wrong.
 
-**Stand beside the boards, not in front of them.** Point deliberately, not constantly. Finish, and then stop talking — the silence afterward is not yours to fill.
+**Stand beside the boards, not in front of them.** Point deliberately, not constantly. Finish, and then stop talking: the silence afterward is not yours to fill.
 
 **Rehearse out loud, timed, at least three times.** Reading it in your head does not count and does not work.
 
 ---
 
-## Taking notes — the ten points people lose
+## Taking notes: the ten points people lose
 
 The room will have notes. Always. **Including on excellent work.** Notes are not a verdict; notes are the job.
 
 **Don't defend.** While notes are being given, your response is *"got it"* or a clarifying question. Nothing else. You may respond after all the notes are in.
 
-This is hard, it feels unnatural, and it is non-negotiable — because **if you have to explain what you meant, the boards didn't say it, and that is the note.**
+This is hard, it feels unnatural, and it is non-negotiable, because **if you have to explain what you meant, the boards didn't say it, and that is the note.**
 
 **Write everything down.** Including the notes you disagree with. Especially those.
 
-**Listen for the note behind the note.** People are excellent at noticing that something is wrong and unreliable at identifying why. *"Make the monster bigger"* often means *I'm not scared here.* Your job is to diagnose, not to comply — solving the stated note when the real problem is elsewhere wastes everybody's week.
+**Listen for the note behind the note.** People are excellent at noticing that something is wrong and unreliable at identifying why. *"Make the monster bigger"* often means *I'm not scared here.* Your job is to diagnose, not to comply: solving the stated note when the real problem is elsewhere wastes everybody's week.
 
 **Ask about intent, not solutions.** Good: *"What's the feeling you want coming out of this?"* Bad: *"So should I make it a low angle?"* They hired you to solve it.
 
@@ -94,13 +94,13 @@ A substantive note is evidence for a course objective you cannot meet by present
 
 > **Nerves are not a deduction. Defending your work instead of hearing the note is.**
 
-**Business framing.** Market, platform, audience size, comparable titles, profitability — none of it is assessed here, and preparing it is preparing the wrong thing. That is the *business* pitch, and Game Design owns it. A business pitch sells the idea. **A story pitch makes the room see the film.** If you've taken both courses, this one is a specialization of a skill you already have a foundation in.
+**Business framing.** Market, platform, audience size, comparable titles, profitability: none of it is assessed here, and preparing it is preparing the wrong thing. That is the *business* pitch, and Game Design owns it. A business pitch sells the idea. **A story pitch makes the room see the film.** If you've taken both courses, this one is a specialization of a skill you already have a foundation in.
 
 ---
 
 ## Why this is worth fifty points
 
-Pitching is the part of this job that survives everything. It requires zero drawing ability. It is how boards actually move through a studio. And for an independent artist — grants, crowdfunding, festival sessions, finding collaborators — it is the entire funding pipeline. Nobody funds a folder of drawings. They fund a person who can make them see the film.
+Pitching is the part of this job that survives everything. It requires zero drawing ability. It is how boards actually move through a studio. And for an independent artist (grants, crowdfunding, festival sessions, finding collaborators) it is the entire funding pipeline. Nobody funds a folder of drawings. They fund a person who can make them see the film.
 
 It is also the one assignment here where a student with brilliant instincts and shaky hands can be unambiguously excellent.
 

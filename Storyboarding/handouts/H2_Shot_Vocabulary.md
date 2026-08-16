@@ -1,4 +1,4 @@
-# H2 — Shot Vocabulary Reference
+# H2: Shot Vocabulary Reference
 **CA 140 Storyboarding · Issued Session 3 · Keep this for the midterm**
 
 > The midterm asks you to name shots from an observed sequence. This is the list you're being tested against.
@@ -46,7 +46,7 @@ Where the camera is relative to the subject.
 | **Bird's Eye** | Directly overhead | The audience sees what the character can't |
 | **Worm's Eye** | Directly below | Extreme scale, disorientation |
 | **Canted / Dutch** | Tilted off-axis | Unstable, unhinged, wrong |
-| **Three-Quarter (45°)** | Between frontal and profile | Strongest general-purpose angle — gives depth |
+| **Three-Quarter (45°)** | Between frontal and profile | Strongest general-purpose angle: gives depth |
 | **Frontal** | Straight on | Flat, but intimate in close-up; used for subjective shots |
 | **Profile** | Directly from the side | Observational, formal |
 | **OTS** | Over the shoulder | Puts you in one character's position in a conversation |
@@ -67,7 +67,7 @@ Where the camera is relative to the subject.
 | **ZOOM** | Zoom | stays still; the lens magnifies. |
 | **STEADICAM** | Steadicam | follows freely and smoothly, handheld-mounted. |
 | **ZOLLY** | Dolly zoom | trucks one way while zooming the other. Background changes size, subject doesn't. |
-| **SWISH PAN** | Swish pan | pans fast enough to blur — a dramatic shift between two things. |
+| **SWISH PAN** | Swish pan | pans fast enough to blur: a dramatic shift between two things. |
 
 **Dolly ≠ zoom.** A dolly changes your relationship to the space. A zoom is a crop. This distinction is on the midterm.
 
@@ -78,11 +78,11 @@ Where the camera is relative to the subject.
 | Perspective | Whose eyes |
 |---|---|
 | **Objective** | Nobody's. The camera observes from the sidelines. |
-| **Point of View (POV)** | Near a specific character's viewpoint — you see roughly what they see. |
+| **Point of View (POV)** | Near a specific character's viewpoint. You see roughly what they see. |
 | **Subjective** | The camera *is* the character. First-person games live here permanently. |
 
 ---
 
 ## Naming a shot is not choosing a shot
 
-You will be graded on both, but they're different skills. The vocabulary lets you describe a decision quickly. It does not make the decision. When you're stuck on which shot to use, the question is never "which one is correct" — it's **what does the audience need to know right now, and what do I want them to feel about it.**
+You will be graded on both, but they're different skills. The vocabulary lets you describe a decision quickly. It does not make the decision. When you're stuck on which shot to use, the question is never "which one is correct". It's **what does the audience need to know right now, and what do I want them to feel about it.**

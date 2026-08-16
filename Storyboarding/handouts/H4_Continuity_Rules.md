@@ -1,4 +1,4 @@
-# H4 — Continuity Rules Card
+# H4: Continuity Rules Card
 **CA 140 Storyboarding · Issued Session 4, with the City Park assignment**
 
 > City Park is graded on this card. There are no surprises.
@@ -17,7 +17,7 @@
 
 ## The line of action (180° rule)
 
-Draw an imaginary line through the scene — between two characters, or along the path of a moving subject. **Pick a side. Stay on it.**
+Draw an imaginary line through the scene: between two characters, or along the path of a moving subject. **Pick a side. Stay on it.**
 
 Everything on your side of that line is a legal camera position. Cross it and one character ends up looking at the back of the other's head.
 
@@ -29,11 +29,11 @@ The audience won't be able to tell you what's wrong. They'll say it "feels off."
 
 1. **Move the camera across.** A dolly or crane can cross the line if the move is continuous and carries the audience over with it.
 2. **Move a character across.** Once they've re-established eye contact from the new position, that's the new line.
-3. **Establish a new sightline.** A third character enters, someone turns to acknowledge them — new line.
+3. **Establish a new sightline.** A third character enters, someone turns to acknowledge them: new line.
 
 ### One illegal way that's sometimes right
 
-Cross it deliberately to disorient — a chase, a search through a crowd. There is a very fine line between conveying a character's confusion and confusing your audience, and **you will not get the benefit of the doubt.** If you break it on purpose, break it hard enough that nobody thinks it was an accident.
+Cross it deliberately to disorient: a chase, a search through a crowd. There is a very fine line between conveying a character's confusion and confusing your audience, and **you will not get the benefit of the doubt.** If you break it on purpose, break it hard enough that nobody thinks it was an accident.
 
 ---
 
@@ -49,7 +49,7 @@ Which way a person moves or looks, held consistently across shots. It's a promis
 
 **Reversed direction reads as reversed journey.** It's free, it's completely reliable, and it tells the audience "he's going home" without a word of dialogue.
 
-Two subjects moving toward each other from opposite directions creates tension — and the timing tightens and the framing closes as they converge.
+Two subjects moving toward each other from opposite directions creates tension, and the timing tightens and the framing closes as they converge.
 
 ---
 
@@ -57,7 +57,7 @@ Two subjects moving toward each other from opposite directions creates tension �
 
 **Shot / reverse shot.** Establish the space, draw the line, then cut back and forth from one side of it.
 
-**Match on action.** Everything at the end of shot A matches the start of shot B. Change the frame size noticeably and **cut on the movement** — cutting on movement hides the cut; cutting on stillness advertises it.
+**Match on action.** Everything at the end of shot A matches the start of shot B. Change the frame size noticeably and **cut on the movement**: cutting on movement hides the cut; cutting on stillness advertises it.
 
 **Eyeline match.** A character looks off-screen and the audience expects to see what they saw. That expectation is a debt. Pay it in the next panel.
 

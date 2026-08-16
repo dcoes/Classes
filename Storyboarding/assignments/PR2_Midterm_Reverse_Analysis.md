@@ -1,4 +1,4 @@
-# PR2 — Midterm: Reverse Analysis
+# PR2 Midterm: Reverse Analysis
 **100 points · Assigned Session 3 · Due Session 8**
 **Rubric:** [`rubrics/PR2_Midterm_Reverse_Analysis.md`](../rubrics/PR2_Midterm_Reverse_Analysis.md)
 **Handouts:** H1 (Notation) · H2 (Shot Vocabulary) · H4 (Continuity Rules)
@@ -7,7 +7,7 @@
 
 ## The assignment
 
-You are given a finished sequence. You board it **backwards** — from the screen to the page — and then explain what the director did and why.
+You are given a finished sequence. You board it **backwards**, from the screen to the page, and then explain what the director did and why.
 
 This is the one assignment in the course where you invent nothing. Everything you need is already on the screen. The test is whether you can *see* it.
 
@@ -51,7 +51,7 @@ Your analysis must:
 - Name the sequence's structure
 - Identify **at least one moment where the director broke a convention**, and say why it works
 
-**Strong:** *"The sequence holds a single line of action for the first nine shots, then crosses it deliberately on the reveal — the disorientation lands on the audience at the same moment it lands on the character."*
+**Strong:** *"The sequence holds a single line of action for the first nine shots, then crosses it deliberately on the reveal: the disorientation lands on the audience at the same moment it lands on the character."*
 
 **Weak:** *"The director uses many different camera angles to make the scene interesting."*
 

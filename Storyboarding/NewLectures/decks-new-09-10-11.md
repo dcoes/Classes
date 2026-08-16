@@ -1,10 +1,10 @@
-# New Decks — 09 Staging & Acting · 10 Boarding for Games · 11 The Pitch
+# New Decks: 09 Staging & Acting · 10 Boarding for Games · 11 The Pitch
 *Slide-level outlines, built from scratch. Each entry: title · on-slide content · what you say.*
 
 ---
 ---
 
-# DECK 09 — STAGING & ACTING FOR BOARDS
+# DECK 09: STAGING & ACTING FOR BOARDS
 **Target: 30 slides · Session 12, at final-project launch**
 
 ## Why this deck exists
@@ -14,9 +14,9 @@ Timed for Session 12 deliberately: students are about to board a story where cha
 
 ---
 
-### PART 1 — ACTING IS A STAGING PROBLEM (1–5)
+### PART 1 ACTING IS A STAGING PROBLEM (1–5)
 
-**1 · Title** — Staging & Acting: What the Character Is Doing
+**1 · Title**: Staging & Acting: What the Character Is Doing
 
 **2 · The note you'll get**
 "It's stiff." "I don't believe them." "I can't tell what they want."
@@ -31,12 +31,12 @@ Same character, same shot size, same rendering quality. One reads as *waiting*; 
 *Say: if you can't answer that for a panel, the panel is decoration. Write the answer in the margin if you have to.*
 
 **5 · Acting in boards vs. acting in animation**
-Animators act in motion, across time. You act in **single held moments** — the extreme, the pose that carries the beat.
+Animators act in motion, across time. You act in **single held moments**: the extreme, the pose that carries the beat.
 *Say: your job is to pick the one frame that contains the performance. That's a harder problem than it sounds and it's a genuine specialty.*
 
 ---
 
-### PART 2 — THE BODY (6–13)
+### PART 2 THE BODY (6–13)
 
 **6 · Line of action**
 One curve through the whole figure, drawn before anything else.
@@ -59,7 +59,7 @@ Gaps between arm and torso, between legs. Closed shapes read; overlapping mush d
 **10 · Weight**
 Where is the center of gravity? What's carrying it?
 Diagram: balanced stance · shifted weight · off-balance / mid-fall.
-*Say: characters who don't have weight look like stickers. This is one line — the contact of the feet — and it changes everything.*
+*Say: characters who don't have weight look like stickers. This is one line, the contact of the feet, and it changes everything.*
 
 **11 · Asymmetry**
 Shoulders and hips opposed. Head tilted off the spine axis. Nothing parallel.
@@ -70,12 +70,12 @@ Two versions: a carefully-constructed anatomically-correct stiff figure vs. a lo
 *Say: the second one is better boarding and it took a fifth of the time. Anatomy is a nice-to-have. Intent is mandatory.*
 
 **13 · Where your Marvel Way material goes**
-Construction, foreshortening, dynamic poses — offered here as **enrichment**, linked on Canvas, for students who want to push further.
+Construction, foreshortening, dynamic poses: offered here as **enrichment**, linked on Canvas, for students who want to push further.
 *Say: if you want your figures to be genuinely good, this is the path. It is not required to pass this class and it is not what I'm grading.*
 
 ---
 
-### PART 3 — THE FACE (14–17)
+### PART 3 THE FACE (14–17)
 
 **14 · Faces last, not first**
 *Say: students draw the face first and then discover the pose doesn't work. Reverse it. The body carries 80% of the performance.*
@@ -94,7 +94,7 @@ Long shots, silhouettes, back-of-head, obscured faces.
 
 ---
 
-### PART 4 — STAGING RELATIONSHIPS (18–24)
+### PART 4 STAGING RELATIONSHIPS (18–24)
 
 **18 · Two characters: the relationship is the composition**
 Diagrams: facing · one turned away · one higher · distance close vs. far.
@@ -121,13 +121,13 @@ The reaction is often the shot.
 *Say: beginners board the person talking. The performance is usually on the other face.*
 
 **24 · Blocking across a sequence**
-Characters move — and their movement is dramatic.
+Characters move, and their movement is dramatic.
 *Example: a character who starts across the room and ends beside the other. That's the scene, staged.*
 *Say: if your characters stand in the same places for twelve panels, ask why.*
 
 ---
 
-### PART 5 — GETTING IT RIGHT (25–30)
+### PART 5 GETTING IT RIGHT (25–30)
 
 **25 · Reference is not cheating**
 Callback to Disney's live-action test footage.
@@ -135,7 +135,7 @@ Callback to Disney's live-action test footage.
 
 **26 · Act it out**
 Get up. Do the action. Notice what your body actually does.
-*Run this live for 60 seconds — have the room stand and perform one beat.*
+*Run this live for 60 seconds: have the room stand and perform one beat.*
 *Say: you own the best reference model available and it's free.*
 
 **27 · Shoot it**
@@ -155,13 +155,13 @@ Before you call a pose done:
 - Did I draw the face before the body? (If yes, redo it.)
 
 **30 · Exercise: One Beat, Three Performances**
-Same character, same shot size, same moment — *she realizes she's been lied to* — staged three ways: contained, explosive, collapsing.
+Same character, same shot size, same moment, *she realizes she's been lied to*, staged three ways: contained, explosive, collapsing.
 *Say: three panels. Nothing about the camera changes. Post them before you leave.*
 
 ---
 ---
 
-# DECK 10 — BOARDING FOR GAMES & INTERACTIVE
+# DECK 10: BOARDING FOR GAMES & INTERACTIVE
 **Target: 28 slides · Session 13**
 
 ## Answering your question first
@@ -169,26 +169,26 @@ You're right, and the deck should say so out loud in the first two minutes: **a 
 
 What *is* genuinely different, and what this deck is actually about:
 
-1. **You don't control the camera.** In gameplay, the player does. That breaks nearly every assumption in the continuity lecture — you can't guarantee screen direction, eyelines, or even that the player is looking at the thing.
+1. **You don't control the camera.** In gameplay, the player does. That breaks nearly every assumption in the continuity lecture. You can't guarantee screen direction, eyelines, or even that the player is looking at the thing.
 2. **You don't control the timing.** A player may take four seconds or four minutes. Every timing tool from the animatic deck assumes a fixed duration you no longer have.
 3. **You don't control the order.** Branching, optional content, and player choice mean the sequence isn't a sequence.
 4. **The frame has furniture in it.** HUD, subtitles, reticles, and objective markers occupy composition space permanently.
-5. **The document has a different job.** A film board communicates to a crew executing one fixed vision. A game board frequently has to communicate an *interactive* intention to programmers and designers — which is closer to a design document, exactly as you suspected.
+5. **The document has a different job.** A film board communicates to a crew executing one fixed vision. A game board frequently has to communicate an *interactive* intention to programmers and designers, which is closer to a design document, exactly as you suspected.
 
-So the deck's structure is: cutscenes (same as film, fast), then the four things that break, then the hybrid techniques the industry has developed to cope. It's also genuinely valuable to your animation and film majors — it's the clearest possible demonstration that shot grammar is a *system*, not a film convention, because they get to watch it survive contact with a medium it wasn't designed for.
+So the deck's structure is: cutscenes (same as film, fast), then the four things that break, then the hybrid techniques the industry has developed to cope. It's also genuinely valuable to your animation and film majors. It's the clearest possible demonstration that shot grammar is a *system*, not a film convention, because they get to watch it survive contact with a medium it wasn't designed for.
 
 ---
 
-### PART 1 — WHAT'S THE SAME (1–5)
+### PART 1 WHAT'S THE SAME (1–5)
 
-**1 · Title** — Boarding for Games & Interactive
+**1 · Title**: Boarding for Games & Interactive
 
 **2 · Let's get this out of the way**
 > A cutscene is a film.
-*Say: shot sizes, angles, the 180° rule, match on action, eyelines — all identical. If you board a cutscene, board it the way we've been doing all semester. Nothing in the first half of this course gets thrown out.*
+*Say: shot sizes, angles, the 180° rule, match on action, eyelines. All identical. If you board a cutscene, board it the way we've been doing all semester. Nothing in the first half of this course gets thrown out.*
 
 **3 · The receipts**
-Stills from *God of War*, *The Last of Us*, *Arcane*, *Uncharted* — all readable with the exact vocabulary from Session 3.
+Stills from *God of War*, *The Last of Us*, *Arcane*, *Uncharted*: all readable with the exact vocabulary from Session 3.
 *Say: name the shots. Out loud. You already can.*
 
 **4 · So why a whole session?**
@@ -200,7 +200,7 @@ You don't control: **the camera · the timing · the order · the whole frame.**
 
 ---
 
-### PART 2 — BREAK ONE: THE CAMERA (6–11)
+### PART 2 BREAK ONE: THE CAMERA (6–11)
 
 **6 · Who's holding it?**
 Cutscene: you are. Gameplay: the player is. Cinematic gameplay: you're negotiating.
@@ -228,7 +228,7 @@ The spectrum: full control → soft-locked camera → forced look → cutscene.
 
 ---
 
-### PART 3 — BREAK TWO: TIMING (12–15)
+### PART 3 BREAK TWO: TIMING (12–15)
 
 **12 · Duration is unknown**
 The player might sprint through in eight seconds or wander for six minutes.
@@ -236,7 +236,7 @@ The player might sprint through in eight seconds or wander for six minutes.
 
 **13 · Boarding a state, not a shot**
 Panels describe conditions: *before pickup / after pickup / on failure / on retry.*
-*Say: this is where boards start looking like documentation, which answers the question about design docs — yes, partly.*
+*Say: this is where boards start looking like documentation, which answers the question about design docs: yes, partly.*
 
 **14 · Loops and repetition**
 Players see the same content many times. What reads as dramatic once is tedious the fifth time.
@@ -244,11 +244,11 @@ Players see the same content many times. What reads as dramatic once is tedious 
 
 **15 · The cutscene handoff**
 Gameplay → cutscene → gameplay. The two most-noticed cuts in the medium.
-*Say: match the camera position and character pose across the transition or the seam screams. Best-in-class productions hide the cut entirely — the* God of War *2018 one-shot is the extreme example.*
+*Say: match the camera position and character pose across the transition or the seam screams. Best-in-class productions hide the cut entirely: the* God of War *2018 one-shot is the extreme example.*
 
 ---
 
-### PART 4 — BREAK THREE: ORDER (16–19)
+### PART 4 BREAK THREE: ORDER (16–19)
 
 **16 · Sequences that aren't sequences**
 Branching · optional content · missable beats · non-linear exploration.
@@ -269,7 +269,7 @@ The story told by a room with nobody in it.
 
 ---
 
-### PART 5 — BREAK FOUR: THE FRAME (20–23)
+### PART 5 BREAK FOUR: THE FRAME (20–23)
 
 **20 · The frame has furniture**
 HUD, health, minimap, reticle, subtitles, objective markers, prompts.
@@ -281,7 +281,7 @@ Handheld, TV at distance, ultrawide, phone.
 *Say: this is aspect ratio and safe-title from Session 2, with more variables and higher stakes.*
 
 **22 · Readability at speed and at scale**
-Silhouette again — but now for enemies, interactables, and hazards, at small size, in motion.
+Silhouette again, but now for enemies, interactables, and hazards, at small size, in motion.
 *Say: character silhouette design in games is a hiring criterion. It's the same test I gave you in week one.*
 
 **23 · Accessibility as composition**
@@ -290,14 +290,14 @@ Colorblind-safe signaling, subtitle space, contrast requirements.
 
 ---
 
-### PART 6 — THE JOB (24–28)
+### PART 6 THE JOB (24–28)
 
 **24 · What game boards actually look like**
 Cinematic boards (film-identical) · gameplay previs · flow diagrams · beat maps · level layout + camera sketches.
 *Say: your question about design documents was right. In games, the boards often live inside a larger design document, and you'll be writing as well as drawing.*
 
 **25 · Who reads them**
-Not just a director — designers, engineers, level artists, animators, audio, UI.
+Not just a director: designers, engineers, level artists, animators, audio, UI.
 *Say: this is the biggest practical difference. A film board goes to people executing a fixed plan. A game board goes to people who will build something interactive from it, and they need to know your *intent*, not just your image.*
 
 **26 · Roles**
@@ -305,7 +305,7 @@ Cinematic artist · previs artist · narrative designer · level designer · UX.
 *Say: several of these hire people with exactly the skill set this course builds, and they're less crowded than feature animation.*
 
 **27 · Adjacent, and worth knowing**
-VR/360 (no frame at all — you're staging a room and hoping), AR, immersive theater, interactive film.
+VR/360 (no frame at all. You're staging a room and hoping), AR, immersive theater, interactive film.
 *Say: in VR the entire discipline of framing evaporates and staging becomes everything. Which is a good argument that staging was always the real subject.*
 
 **28 · Exercise**
@@ -315,19 +315,19 @@ Take one beat from your final project. Board it twice: as a linear cutscene, and
 ---
 ---
 
-# DECK 11 — THE PITCH
+# DECK 11: THE PITCH
 **Target: 26 slides · Session 14 · Paired with a graded assignment**
 
 ## Why this is a deck AND an assignment
-You're right that it should be assessed. Pitching is the part of the job that survives everything — it requires zero drawing ability, it's how boards actually move through a studio, and for an independent artist it's the difference between having work and having a career. It's also the one skill in this course where a student with brilliant instincts and shaky hands can be visibly, unambiguously excellent.
+You're right that it should be assessed. Pitching is the part of the job that survives everything. It requires zero drawing ability, it's how boards actually move through a studio, and for an independent artist it's the difference between having work and having a career. It's also the one skill in this course where a student with brilliant instincts and shaky hands can be visibly, unambiguously excellent.
 
-It's placed at Session 14 so students pitch their final projects before finishing them — which means the pitch is also a milestone that catches problems while there's still time.
+It's placed at Session 14 so students pitch their final projects before finishing them, which means the pitch is also a milestone that catches problems while there's still time.
 
 ---
 
-### PART 1 — WHAT A PITCH IS (1–6)
+### PART 1 WHAT A PITCH IS (1–6)
 
-**1 · Title** — The Pitch
+**1 · Title**: The Pitch
 
 **2 · The thing nobody tells you**
 > You will spend more of your career explaining boards than drawing them.
@@ -338,7 +338,7 @@ Disney pinned the *Snow White* boards to the wall and **acted the whole film out
 *Say: the storyboard was invented as a pitching tool. Pinning drawings to a wall so you could perform them IS the origin of the format. You've been doing a version of this in every critique since week one.*
 
 **4 · What a pitch is**
-Standing in front of your boards and performing the sequence — reading action, doing voices, indicating timing — so the room experiences the film before it exists.
+Standing in front of your boards and performing the sequence (reading action, doing voices, indicating timing) so the room experiences the film before it exists.
 
 **5 · What it isn't**
 Not a defense. Not an apology. Not reading captions aloud.
@@ -350,7 +350,7 @@ Story meetings · client presentations · pitching your own project · festivals
 
 ---
 
-### PART 2 — HOW TO DO IT (7–15)
+### PART 2 HOW TO DO IT (7–15)
 
 **7 · Know your sequence cold**
 You should not be reading. You should be performing.
@@ -390,7 +390,7 @@ Two to four minutes for a sequence. Rehearse it out loud at least three times, t
 
 ---
 
-### PART 3 — TAKING NOTES (16–21)
+### PART 3 TAKING NOTES (16–21)
 > Arguably the most professionally valuable section in the entire course.
 
 **16 · The room will have notes**
@@ -399,7 +399,7 @@ Always. Including on excellent work.
 
 **17 · Don't defend**
 The response to a note is "got it," or a clarifying question. Not an explanation of what you meant.
-*Say: this is hard and it is non-negotiable. If you have to explain what you meant, the boards didn't say it — and that IS the note.*
+*Say: this is hard and it is non-negotiable. If you have to explain what you meant, the boards didn't say it, and that IS the note.*
 
 **18 · Write everything down**
 Even notes you disagree with. Especially those.
@@ -412,7 +412,7 @@ People are excellent at identifying that something is wrong and unreliable at id
 **20 · Ask about intent, not solutions**
 Good: "What's the feeling you want coming out of this?"
 Bad: "So should I make it a low angle?"
-*Say — and this is from your own Deck 04: be the solution, not the problem. They hired you to solve it.*
+*Say, and this is from your own Deck 04: be the solution, not the problem. They hired you to solve it.*
 
 **21 · Disagreeing well**
 "Let me try both." "Can I show you why I went the other way?" Then let the work argue.
@@ -420,7 +420,7 @@ Bad: "So should I make it a low angle?"
 
 ---
 
-### PART 4 — THE CAREER CONTEXT (22–26)
+### PART 4 THE CAREER CONTEXT (22–26)
 
 **22 · Pitching yourself**
 Portfolio reviews · interviews · your reel · your artist statement.
@@ -447,10 +447,10 @@ A machine can generate a panel. It cannot stand in a room, understand what a dir
 
 ---
 
-## ASSIGNMENT — The Pitch (50 pts)
+## ASSIGNMENT: The Pitch (50 pts)
 
 **Format:** 3–4 minutes, live, in front of your boards (projected or pinned). Session 14 or 15, scheduled.
-**What you pitch:** your final project sequence, in whatever state it's in. Incomplete is expected and fine — pitch what exists and describe what's coming.
+**What you pitch:** your final project sequence, in whatever state it's in. Incomplete is expected and fine: pitch what exists and describe what's coming.
 
 **Deliverable:** the live pitch. Optionally, a recorded version submitted to Canvas for students who want a second attempt or who are genuinely unable to present live.
 
@@ -469,7 +469,7 @@ A machine can generate a panel. It cannot stand in a room, understand what a dir
 *Worth stating in the brief, verbatim:* **Nerves are not a deduction. Defending your work instead of hearing the note is.*
 
 ### Running it in class
-- Schedule it — 3 to 4 min pitch plus 2 min of notes is roughly 6 min per student. For 20 students that's two full sessions; for 12 it's one plus change.
+- Schedule it: 3 to 4 min pitch plus 2 min of notes is roughly 6 min per student. For 20 students that's two full sessions; for 12 it's one plus change.
 - Notes come from you AND from three assigned peers, rotating. Peers giving notes get process credit for it.
 - Establish the rule out loud before the first pitch: **the artist does not respond during notes except to ask a clarifying question.** They can respond after all notes are given.
 - Follow-up milestone: within 24 hours, each student posts the notes they received and one line on what they'll change. That converts the pitch from a performance into a revision mechanism.

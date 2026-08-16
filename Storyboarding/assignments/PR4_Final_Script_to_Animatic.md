@@ -1,7 +1,7 @@
-# PR4 — Final: Script to Animatic
+# PR4 Final: Script to Animatic
 **200 points · Assigned Session 9 · Due Session 16 · The largest assignment in the course**
 **Rubric:** [`rubrics/PR4_Final_Script_to_Animatic.md`](../rubrics/PR4_Final_Script_to_Animatic.md)
-**Handouts:** H1 · H2 · H3 · H4 · H5 · H6 — all six
+**Handouts:** H1 · H2 · H3 · H4 · H5 · H6: all six
 
 ---
 
@@ -13,7 +13,7 @@
 
 Write the answer down before you do anything else. One sentence each.
 
-Everything below is execution. This is the only part that's intent, and every decision you make from here should be traceable back to it. When you're stuck — and you will be — come back to this sentence and ask which option serves it.
+Everything below is execution. This is the only part that's intent, and every decision you make from here should be traceable back to it. When you're stuck, and you will be, come back to this sentence and ask which option serves it.
 
 ---
 
@@ -27,7 +27,7 @@ Everything this course teaches, end to end, on one sequence.
 
 ## Your script
 
-**Default path:** you receive an assigned script. `[ASSIGNED SCRIPT — TBD]`
+**Default path:** you receive an assigned script. `[ASSIGNED SCRIPT: TBD]`
 
 **Nobody is stranded.** If you do nothing, you have a script and you can start today.
 
@@ -37,13 +37,13 @@ Everything this course teaches, end to end, on one sequence.
 
 ## The pitch gate
 
-In **Session 14**, before your final is finished, you pitch. This is a separate 50-point assignment with its own rubric — see [`The Pitch`](../rubrics/PR5_The_Pitch.md).
+In **Session 14**, before your final is finished, you pitch. This is a separate 50-point assignment with its own rubric: see [`The Pitch`](../rubrics/PR5_The_Pitch.md).
 
 If you want to replace the assigned script with your own premise, this is where you ask.
 
 **The gate is real. A pitch can be declined.**
 
-A declined pitch costs you nothing but the swap — you proceed on the assigned script with no penalty of any kind. A gate that always opens teaches nothing, so this one doesn't.
+A declined pitch costs you nothing but the swap. You proceed on the assigned script with no penalty of any kind. A gate that always opens teaches nothing, so this one doesn't.
 
 Two things worth knowing:
 
@@ -66,7 +66,7 @@ Two things worth knowing:
 
 > **Each milestone gates the next. A stage submitted without the preceding stage is capped at 50% of that stage's available points.**
 
-**Read this arithmetic before you decide to skip anything.** Across seven stages the cascade is severe on purpose. A student who skips thumbnails and roughs to arrive with finished boards loses 55 points outright and has their 45-point final boards capped at 22.5 — a **77.5-point penalty on a 200-point assignment.**
+**Read this arithmetic before you decide to skip anything.** Across seven stages the cascade is severe on purpose. A student who skips thumbnails and roughs to arrive with finished boards loses 55 points outright and has their 45-point final boards capped at 22.5: a **77.5-point penalty on a 200-point assignment.**
 
 Skipping process here is not a shortcut. It is a failing grade with extra steps.
 
@@ -78,7 +78,7 @@ Skipping process here is not a shortcut. It is a failing grade with extra steps.
 
 *The markup.* Go through the script and **highlight it in colour, one colour per shot size.** Wides one colour, mediums another, close-ups another. Then annotate in the margin: angle, framing, and any camera move you intend.
 
-You are reading the script as a director reads it — deciding, line by line, how close the camera is when that line happens. Do this before you draw anything, because it is much faster to change a highlighter mark than a panel, and because a script marked this way makes the shot list almost write itself.
+You are reading the script as a director reads it: deciding, line by line, how close the camera is when that line happens. Do this before you draw anything, because it is much faster to change a highlighter mark than a panel, and because a script marked this way makes the shot list almost write itself.
 
 Two things fall out of it immediately, and both are the point: **long unbroken runs of one colour** mean you have not varied your coverage, and **a colour change on every line** means you are cutting for the sake of cutting.
 
@@ -90,7 +90,7 @@ Two things fall out of it immediately, and both are the point: **long unbroken r
 
 **3 · Thumbnails.** The whole sequence, not the fun parts, on your **EX2 working sheet.**
 
-**The first pass happens in class, in Session 12, timed — roughly ninety seconds a beat, on paper, photographed and posted before you leave.** That sprint sheet is the session's exit ticket and it is part of this milestone. You cannot render anything in ninety seconds, which is exactly why it's ninety seconds.
+**The first pass happens in class, in Session 12, timed: roughly ninety seconds a beat, on paper, photographed and posted before you leave.** That sprint sheet is the session's exit ticket and it is part of this milestone. You cannot render anything in ninety seconds, which is exactly why it's ninety seconds.
 
 Then, for **five designated beats**, stage each one **three ways.** A variant only counts if it changes **shot size · camera angle · blocking · which character the frame is on.** Redrawing the same idea more neatly is not a variant.
 
@@ -98,7 +98,7 @@ Mark your choice for each, and write **one line on what the rejected version did
 
 > **A final panel that is a scan, trace, or upscale of a thumbnail is not a final panel. It scores as a missing panel.**
 >
-> The thumbnail's job is to be thrown away. If you are protecting one, it has stopped doing its job — and a 0.9″ sketch blown up to panel size looks exactly like what it is.
+> The thumbnail's job is to be thrown away. If you are protecting one, it has stopped doing its job, and a 0.9″ sketch blown up to panel size looks exactly like what it is.
 
 **4 · Rough boards.** Action and dialogue blocked. Continuity established: line held, screen direction consistent, eyelines matched. Poses read in silhouette (H4, H6).
 
