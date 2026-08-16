@@ -1,5 +1,5 @@
 # Module M2: AI in the Pipeline
-**12 slides · 45-minute insert into Session 15 or 16 · Spec only, not built**
+**12 slides · 45-minute insert into class 13 or 14 · Spec only, not built**
 
 ## Why this module exists, and why it is deliberately small
 
@@ -34,7 +34,7 @@ Reference has never been cheating and generative ideation isn't either, but it g
 Live, in front of everyone, from a beat in someone's final. Take the prompt from the room.
 
 **6 · Now run H3 on it**
-The composition checklist the class has been using since Session 5. Out loud, item by item:
+The composition checklist the class has been using since the composition class. Out loud, item by item:
 - Does it read at thumbnail size?
 - Does the figure separate from the ground?
 - **Is there ONE dominant element?**
@@ -50,10 +50,10 @@ The class just evaluated a generated image against the same checklist they've ap
 ### PART 3: DIRECTING ONE (9–10)
 
 **9 · The prompt is a brief, and briefs are a skill**
-Naming shot size, angle, lens feel, key direction, value structure, and mood (the vocabulary from Sessions 3, 5, 6 and 11) gets dramatically better results than adjectives do. **The people who direct these tools best are the people who could direct a human artist**, and for the same reason.
+Naming shot size, angle, lens feel, key direction, value structure, and mood (the vocabulary from the shot, composition, perspective and lighting classes) gets dramatically better results than adjectives do. **The people who direct these tools best are the people who could direct a human artist**, and for the same reason.
 
 **10 · What it still cannot do**
-Hold a sequence. Keep a character consistent across forty panels. Answer a note. Know what the scene is about. Every one of these is a continuity or intent problem, which is what this course has been about since Session 4.
+Hold a sequence. Keep a character consistent across forty panels. Answer a note. Know what the scene is about. Every one of these is a continuity or intent problem, which is what this course has been about since the continuity class.
 
 ### PART 4: THE HONEST PART (11–12)
 

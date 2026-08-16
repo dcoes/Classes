@@ -1,13 +1,13 @@
 # Module M4: VR, 360 & Immersive
-**14 slides · Recommended host: Session 16 as a closer, or Session 15 · Spec only, not built**
+**14 slides · Recommended host: class 14 as a closer, or class 13 · Spec only, not built**
 
 ## Why this module exists
 
 Because it is the course's closing argument, delivered by a medium rather than by an instructor.
 
-Every session in CA 140 has been about a rectangle: what goes in it, where its edges are, and what happens when you cut from one to the next. This module removes the rectangle and asks what's left.
+Every class in CA 140 has been about a rectangle: what goes in it, where its edges are, and what happens when you cut from one to the next. This module removes the rectangle and asks what's left.
 
-**What's left is staging.** Which means staging was the real subject the whole time, and framing was one very successful implementation of it. That's a claim the course could simply assert in Session 1. Landing it in Session 16, after students have spent four weeks composing rectangles, is worth far more.
+**What's left is staging.** Which means staging was the real subject the whole time, and framing was one very successful implementation of it. That's a claim the course could simply assert in class 1. Landing it at the end, after students have spent four weeks composing rectangles, is worth far more.
 
 It's also short, genuinely strange, and a good last taste of the discipline.
 
@@ -34,7 +34,7 @@ That question has been in this course since the composition session. It just use
 ### PART 2: DIRECTING ATTENTION WITHOUT A FRAME (6–10)
 
 **6 · Light**
-The brightest thing wins, and in a dark 360 environment it wins overwhelmingly. Callback to Session 11: this is the lighting study's naming test with the stakes raised.
+The brightest thing wins, and in a dark 360 environment it wins overwhelmingly. Callback to the lighting class: this is the lighting study's naming test with the stakes raised.
 
 **7 · Motion**
 Movement in the periphery turns heads involuntarily. It is the strongest tool available and the easiest to overuse.
@@ -54,7 +54,7 @@ The viewer looks the wrong way and misses the beat. Options: repeat it, wait for
 Cutting in VR is disorienting because the viewer's body didn't move. Long takes dominate. Transitions tend to be fades, or moving the world rather than moving the viewer.
 
 **12 · Comfort is a design constraint, not a nicety**
-Acceleration the body doesn't feel causes real nausea. Which means **camera moves, the thing Session 3 taught as expressive, become a medical constraint.** That inversion is worth sitting with.
+Acceleration the body doesn't feel causes real nausea. Which means **camera moves, the thing class 3 taught as expressive, become a medical constraint.** That inversion is worth sitting with.
 
 **13 · Presence and scale**
 A character at conversational distance in VR is *present* in a way no close-up achieves. Scale is felt. A tall character is genuinely intimidating. This is the medium's one clear superiority and it is entirely a staging effect.

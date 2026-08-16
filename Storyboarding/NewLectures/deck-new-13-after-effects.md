@@ -1,19 +1,21 @@
 # DECK 13: AFTER EFFECTS FOR BOARDS
-**Target: 18 slides + live build-along · Session 12 · Paired with EX7**
+**19 slides + live build-along · Class 11 · Paired with EX7 · BUILT**
 
 ## Why this deck exists
 
-The After Effects exercise has been running every term with **no deck, no brief, no rubric and no handout.** It was walked through live and existed nowhere in writing. For a meaningful number of these students it is also the only structured AE exposure they get before they need it, and PR3 is due three sessions later.
+The After Effects exercise has been running every term with **no deck, no brief, no rubric and no handout.** It was walked through live and existed nowhere in writing. For a meaningful number of these students it is also the only structured AE exposure they get before they need it, and PR3 is due shortly after.
 
 It is the cheapest deck in the set to build: screenshots, not licensed film stills. Nothing here needs `[ADD IMAGE:...]` sourcing.
 
-**The design risk is that this becomes a tutorial**, which `CLAUDE.md` §1 forbids: software is never the subject. The guard is structural: the deck teaches exactly five operations, and closes on a design question rather than a technique. If it grows past five operations, or if easing and effects appear, it has crossed into Motion Graphics' territory (`CURRICULUM.md`) and should be cut back.
+**The design risk is that this becomes a tutorial**, which `CLAUDE.md` §3 forbids: software is never the subject. The guard is structural: the deck teaches exactly five operations, and closes on a design question rather than a technique. If it grows past five operations, or if easing and effects appear, it has crossed into Motion Graphics' territory (`CURRICULUM.md`) and should be cut back.
 
 Format: build along live, everyone's screen up, one operation at a time. The slides are the reference, not the delivery.
 
 ---
 
-### PART 1 WHY YOU'RE HERE (1–3)
+### PART 1 WHY YOU'RE HERE (1-3)
+
+> Built as 19 slides: a section divider was added before the five operations, since the class is a live build-along and the break is useful.
 
 **1 · Title**: After Effects for Boards
 
@@ -23,7 +25,7 @@ This is five operations, chosen because they're what an animatic needs. It is no
 
 **3 · Why an animatic needs any of this at all**
 Boards handle blocking, camera and action. They can't hold duration. Everything in this session exists to get the fourth dimension onto work you've already made.
-*Forward: PR3 is due in three sessions and PR4 needs it too.*
+*Forward: PR3 is due shortly and PR4 needs it too.*
 
 ---
 
@@ -73,7 +75,7 @@ It isn't broken. **Boards, matte paintings and reference art arrive flat.** Anyt
 ### PART 3 GETTING IT OUT (14–16)
 
 **14 · Frame rate and comp size**
-Pick 24 or 30 **at the start** and never change it: changing it later shifts every keyframe you've set. Comp size matches your delivery ratio: 1920×1038 for 1.85, 1920×817 for 2.35.
+Pick 24 or 30 **at the start** and never change it: changing it later shifts every keyframe you've set. Comp size matches your delivery ratio: 1920x1038 for 1.85, 1920x803 for 2.39.
 
 **15 · Numbered sequences**
 `SEQ01_SH010.png`, incrementing by ten, imported as a PNG Sequence.
@@ -101,7 +103,7 @@ The tool is not the subject. **The move you want determines the artwork you need
 
 ## Assignment pairing
 
-**EX7: AE Rig & Move**, 20 pts. Brief and rubric exist. Graded on the five operations independently, plus the planning paragraph, which is why a student whose mask fails still scores most of the points and can be fixed in two minutes at the desk.
+**EX7: AE Rig & Move**, 3% of the course grade. Brief and rubric exist. Graded on the five operations independently, plus the planning paragraph, which is why a student whose mask fails still scores most of the points and can be fixed in two minutes at the desk.
 
 ## Handout pairing
 

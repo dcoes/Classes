@@ -9,7 +9,7 @@
 ## 1. The course
 
 **CA 140: Storyboarding.** Computer Animation (CA) program.
-Block schedule: 16 sessions × 2.5 hours, 4 days/week, one month.
+Block schedule: 14 classes × 2.5 hours, 4 days/week, one month.
 Class size 8–20. Mixed majors: animation (majority), film, game production.
 Not a capstone course.
 
@@ -17,7 +17,7 @@ Not a capstone course.
 - The Photoshop prerequisite is not reliably enforced. Assume some students have never opened it.
 - Students do not buy the textbook. Tuminello is *recommended*, not required. All required content must live in these files.
 - Many students arrive with no design, art, or film background at all.
-- Attendance decays during work sessions. Every session ends in a posted exit ticket.
+- Attendance decays during work classes. Every class ends in a posted exit ticket.
 
 ---
 
@@ -41,7 +41,7 @@ Not a capstone course.
 The question is never "is this well drawn." It's "does this communicate, and did you decide it on purpose." Drawing is reframed throughout as *notation*.
 
 **2. Silhouette readability is the recurring standard.**
-Introduced Session 1, referenced in composition, staging, and every critique. Deliberately independent of skill level, which is what makes it fair.
+Introduced class 1, referenced in composition, staging, and every critique. Deliberately independent of skill level, which is what makes it fair.
 
 **3. Milestone grading over long windows.**
 Beat sheet → thumbnails → rough → final, each graded. Also the structural counter to AI-generated submissions, because process is what's assessed.
@@ -60,7 +60,7 @@ Beat sheet → thumbnails → rough → final, each graded. Also the structural 
 
 This is the traceability layer. Not required for a non-capstone course, but it makes grading defensible and it's the practice worth keeping.
 
-Two bands. **EX: skill exercises** are single-stage, no milestone cap, graded against a short checklist with objectively checkable criteria. **PR: projects** are milestone-graded with the 50% cascading cap (§5).
+Two bands. **EX: skill exercises** are single-stage, no milestone cap, graded against a short checklist with objectively checkable criteria. **PR: projects** are milestone-graded with the cascading cap (§5).
 
 **Every rubric totals 100% of its own assignment.** The weights below are how those grades roll up into the course grade, and they follow the section syllabus: assignments 45%, midterm 25%, final 30%.
 
@@ -99,8 +99,6 @@ The midterm and final together are 55% of the grade, and both are milestone-grad
 
 **Note on the quizzes.** They are not a knowledge check bolted on. Retrieval one class after the material is the cheapest intervention available against a four-week block schedule where everything arrives at once, and they are the only assessment in the course that costs nothing to grade. That is why there are ten of them rather than five.
 
-**Note on CO3.** *Tabulate storyboards based on certain events* is, almost literally, the beat sheet → panel mapping. The milestone structure isn't an administrative convenience; it's the direct assessment of CO3.
-
 ---
 
 ## 5. Projects
@@ -115,7 +113,7 @@ The midterm and final together are 55% of the grade, and both are milestone-grad
 
 **Milestone rule:** work submitted without prior milestones is capped. The arithmetic must make skipping process irrational, not merely discouraged.
 
-**Session-by-session placement lives in [`SESSION_MAP.md`](SESSION_MAP.md)**: deck, handout, assigned, due and exit ticket for all sixteen sessions, plus the milestone chains. That file is the spine; every brief and rubric cites its numbers.
+**Class-by-class placement lives in [`SESSION_MAP.md`](SESSION_MAP.md)**: deck, handout, assigned, due, quiz and exit ticket for all fourteen classes, plus the milestone chains. That file is the spine; every brief and rubric cites its numbers.
 
 ---
 
@@ -157,7 +155,7 @@ Adapted from the CMU model: students pitched self-directed projects in place of 
 
 - Hero's Journey **kept**, rebuilt so every stage names a staging problem.
 - Aspect ratio **history kept**: the industry/consumer economics is a deliberate takeaway.
-- Continuity moves **earlier** (Session 4), before City Park is assigned.
+- Continuity moves **earlier** (class 4), before City Park is assigned.
 - Lighting moves **later**.
 - Composition **kept and reframed** from graphic design to shot composition.
 - Deck 12 scanning section **deleted**. Deck 07 color theory **cut** to ~4 slides.
@@ -169,8 +167,8 @@ Adapted from the CMU model: students pitched self-directed projects in place of 
 
 ### Added with the session map
 
-- **Continuity is taught once and exercised twice.** 08a stays at Session 4 (above, unchanged). The strip exercise runs at Session 10 against 08b. This is not a re-teach.
-- **The final launches at Session 9**, not 12. A seven-milestone, 200-point chain does not fit in five sessions. Deck 09 and handout H6 move with it, since H6's issue date was derived from the launch, not chosen independently.
+- **Continuity is taught once and exercised twice.** 08a stays at class 4 (above, unchanged). The strip exercise runs at class 10 against 08b. This is not a re-teach.
+- **The final launches at class 9.** A seven-stage milestone chain needs the runway. Deck 09 and handout H6 move with it, since H6's issue date was derived from the launch rather than chosen independently.
 - **Grading is two-band**: EX skill exercises and PR projects, 786 total. See §4. The band prefix is carried in the filenames so the structure is visible in the folder.
 - **The After Effects exercise gets a deck (13).** It ran every term with no deck, no brief, no rubric and no handout. It is also the only AE exposure many of these students get, which is a boundary question: see CURRICULUM.md.
 - **The lighting assignment is medium-agnostic.** Identification is separated from production, and the graded artifact is a three-value reduction, which makes a photograph, a render and a drawing the same class of object. Do not revert this to a drawing-only assignment.
@@ -202,21 +200,23 @@ Adapted from the CMU model: students pitched self-directed projects in place of 
 | 03 Fundamentals of the Shot | ✅ Rebuilt: 53→46 slides, 22 buried shot labels promoted to real titles |
 | 04 Script to Storyboard | ✅ Rebuilt: 36 slides, gains the screenplay-format section from Deck 01 |
 | 06 Perspective | ✅ Rebuilt: 37→30 slides, reordered to lead with the five free depth cues |
-| 07 Lighting | ⬜ **Back in scope.** Rebuild required. Notes desync from slide 25 (~15 pages), no notes on 40–42, plus the medium-agnostic reframe EX6 needs |
+| 07 Lighting | ✅ Rebuilt: 36 slides. Spec carries the EX6 reframe (identification first, live three-media posterize, the medium list, the 2x2) |
 | 08 Continuity → 08a / 08b | ✅ Split: 08a The Rules (24, before City Park) · 08b The Cut (22, near the animatic) |
-| 09 Staging & Acting | ⬜ Build from scratch: outline + Hooks source ready · **now Session 9** |
-| 10 Boarding for Games | ⬜ Build from scratch: outline ready |
-| 11 The Pitch | ⬜ Build from scratch: outline ready |
-| 13 After Effects for Boards | ⬜ **New.** Spec ready: `NewLectures/deck-new-13-after-effects.md`. Session 12. Cheapest build in the set |
+| 09 Staging & Acting | ✅ Built: 30 slides, class 9. Vector diagrams for line of action, weight, two-character staging, proxemics |
+| 10 Boarding for Games | ✅ Built: 28 slides, swap-in at class 13. Four `[ADD IMAGE: ...]` markers for game stills, instructor-sourced |
+| 11 The Pitch | ✅ Built: 26 slides, class 13, paired with PR5 |
+| 13 After Effects for Boards | ✅ Built: 19 slides, class 11, paired with EX7. Diagrams for the import comparison, parenting chain, mask stack |
 | Handouts | ✅ H1–H8 in `handouts/`: H7 Lighting and H8 After Effects added |
-| Rubrics (12) | ✅ `rubrics/`: 770 pts + 16 exit tickets = 786, two-band, mapped to CO1–CO5 |
+| Rubrics (12) | ✅ `rubrics/`: each totals 100% of its own assignment, Canvas-clickable bands, mapped to CO1 to CO5 |
 | Assignment briefs (12) | ✅ `assignments/`: 1:1 with rubrics. PR4 carries `[ASSIGNED SCRIPT: TBD]` |
 | Syllabus language | ✅ `syllabus-language.md`: two-band table, medium-choice policy |
-| Session map | ✅ `SESSION_MAP.md`: 16 sessions, decks, handouts, milestones |
+| Session map | ✅ `SESSION_MAP.md`: 14 classes, decks, handouts, quizzes, milestones |
 | Working principles | ✅ Root `CLAUDE.md` |
-| Instructor notes | ✅ `INSTRUCTOR.md`: pre-term checklist + one section per session + standing notes |
+| Instructor notes | ✅ `INSTRUCTOR.md`: pre-term checklist + one section per class + standing notes |
 | Swap-in module specs | ✅ `modules/`: New Media (16) · AI (12, insert only) · Previs (16) · VR (14). Specs only; no `.pptx` yet |
 | Deck 07 spec | ✅ Revised for the EX6 redesign: identification-first, the live three-media posterize, the medium list, the 2×2 |
+| Quizzes (10) | ✅ `quizzes/`: 150 questions, banks of 15 drawing 5, plus a Canvas QTI import package. Live import untested from here |
+| Deck build scripts | ✅ `build_decks/`: shared `deckkit.py` plus one script per deck, so any deck can be regenerated |
 | Spec for the six remaining decks | ✅ `NewLectures/decks-remaining-02-03-04-06-07-08.md` |
 
 ---

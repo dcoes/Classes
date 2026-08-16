@@ -16,7 +16,9 @@ Class placement: [`SESSION_MAP.md`](SESSION_MAP.md). Weights and objective mappi
 - [ ] **Supply the EX7 `.psd`:** character body, arm, and a single-layer background containing a house. The single layer is deliberate; it's what forces the mask.
 - [ ] **Decide the EX2 page size.** Letter landscape gives 0.656" panels on the 8 x 4 sheet, which is the finding the assignment is built on. Tabloid gives 1.4" and softens it. Either works; the presentation sheet is what makes the panels drawable.
 - [ ] **Pick the midterm sequence** and confirm you can screen it. It's briefed in class 2 and due class 8.
-- [ ] **Settle the two open questions in `PROJECT.md` §4:** three course objectives or five, and whether the seven chapter quizzes still run given that students don't buy the textbook.
+- [ ] **Import the quizzes once.** `quizzes/qti/CA140_quizzes.zip`, via Settings, Import Course Content, QTI .zip file. It creates all ten quizzes with their banks. Then check each one's settings: shuffle answers on, 5 minute limit, show correct answers after the due date rather than immediately, since the bank is reused across a random draw.
+
+Both of the open questions that used to sit here are settled: five course objectives, and no textbook, with the retention quizzes replacing the old chapter quizzes.
 
 ---
 
@@ -46,6 +48,8 @@ Class placement: [`SESSION_MAP.md`](SESSION_MAP.md). Weights and objective mappi
 **Deck 02 · Exit ticket: ratio arithmetic, three numbers**
 **Due:** EX1 · **Assigned:** EX2 Templates, and **PR2 the midterm is briefed today**
 
+**Quiz Q1 opens at the start**, covering class 1 and EX1. Five minutes, self-grading.
+
 **Timing.** ~15 min the 1B spread from class 1 · 45 min ratio history · break · 30 min worked arithmetic live · 40 min Photoshop demo and build time · 10 min midterm brief
 
 **Note for instructor**
@@ -64,6 +68,8 @@ Class placement: [`SESSION_MAP.md`](SESSION_MAP.md). Weights and objective mappi
 **Deck 03 · Handout H2 · Exit ticket: name every shot in a 60-second clip**
 **Due:** EX2 · **Assigned:** EX3 Twelve Shots
 
+**Quiz Q2 opens at the start**, covering class 2 and EX2.
+
 **Timing.** ~70 min shot taxonomy · break · 30 min clip breakdown live · 30 min first three panels of EX3 in class
 
 **Note for instructor**
@@ -81,6 +87,8 @@ Class placement: [`SESSION_MAP.md`](SESSION_MAP.md). Weights and objective mappi
 **Deck 08a · Handout H4 · Exit ticket: fix two line-breaking panels by moving the camera**
 **Due:** EX3 · **Assigned:** PR1 City Park
 
+**Quiz Q3 opens at the start**, covering class 3 and EX3.
+
 **Timing.** ~60 min the rules · break · 30 min live floor-plan demo · 30 min exit exercise · 20 min PR1 briefing
 
 **Note for instructor**
@@ -96,6 +104,8 @@ Class placement: [`SESSION_MAP.md`](SESSION_MAP.md). Weights and objective mappi
 ## Class 5: Composition
 **Deck 05 · Handout H3 · Exit ticket: run H3 on three panels, post one before/after**
 **Due:** PR1 beat sheet
+
+**Quiz Q4 opens at the start**, covering class 4.
 
 **Timing.** ~75 min composition · break · 25 min EX3 submissions on screen · 40 min checklist work on their own panels
 
@@ -113,6 +123,8 @@ Class placement: [`SESSION_MAP.md`](SESSION_MAP.md). Weights and objective mappi
 **Deck 06 · Exit ticket: name the depth cues in three stills**
 **Due:** PR1 thumbnails · **Assigned:** EX4 Perspective
 
+**Quiz Q5 opens at the start**, covering class 5.
+
 **Timing.** ~30 min the five free depth cues · 45 min construction · break · 30 min live demo · 35 min EX4 start
 
 **Note for instructor**
@@ -128,6 +140,8 @@ Class placement: [`SESSION_MAP.md`](SESSION_MAP.md). Weights and objective mappi
 ## Class 7: Lighting
 **Deck 07 · Handout H7 · Exit ticket: light one panel three ways**
 **Due:** PR1 roughs · EX4 · **Assigned:** EX6 Lighting
+
+**Quiz Q6 opens at the start**, covering class 6 and EX4.
 
 **Timing.** ~35 min identification first · 35 min the six setups · break · 25 min three-value reduction demo · 30 min EX6 start · 15 min PR1 desk checks
 
@@ -162,6 +176,8 @@ Class placement: [`SESSION_MAP.md`](SESSION_MAP.md). Weights and objective mappi
 **Deck 09 · Handout H6 · Exit ticket: one beat, three performances**
 **Due:** EX6 · **Assigned:** PR4 Final and PR5 Pitch
 
+**Quiz Q7 opens at the start**, covering class 7 and EX6.
+
 **Timing.** ~40 min acting as a staging problem · 40 min the body · break · 25 min the face · 35 min staging relationships and the exercise · 15 min PR4/PR5 briefing
 
 **Note for instructor**
@@ -180,6 +196,8 @@ Class placement: [`SESSION_MAP.md`](SESSION_MAP.md). Weights and objective mappi
 **Deck 08b · Exit ticket: change one transition, report what changed**
 **Due:** PR4 M1 script markup and beat sheet · **Assigned:** EX5 Continuity Strips
 
+**Quiz Q8 opens at the start**, covering class 9.
+
 **Timing.** ~60 min the cut · break · 30 min sequence breakdown · 40 min EX5 start
 
 **Note for instructor**
@@ -194,6 +212,8 @@ Class placement: [`SESSION_MAP.md`](SESSION_MAP.md). Weights and objective mappi
 ## Class 11: Animatics and After Effects
 **Decks 12 and 13 · Handouts H5, H8 · Exit ticket: time three of your own panels**
 **Due:** PR4 M2 shot list and floor plans · **Assigned:** EX7 AE Rig, and **PR3 Animatic**
+
+**Quiz Q9 opens at the start**, covering class 10 and EX5.
 
 **Timing.** ~45 min timing and the silent-then-scored demo · break · 60 min AE build-along, all five steps · 25 min PR3 and EX7 briefing
 
@@ -213,6 +233,8 @@ Class placement: [`SESSION_MAP.md`](SESSION_MAP.md). Weights and objective mappi
 ## Class 12: Studio
 **No deck · Exit ticket: the PR4 thumbnail sprint sheet**
 **Due:** EX5 · EX7
+
+**Quiz Q10 opens at the start**, covering class 11 and EX7.
 
 **Timing.** ~45 min the thumbnail sprint, timed · remainder scheduled desk crits, ~8 min each, posted rotation
 

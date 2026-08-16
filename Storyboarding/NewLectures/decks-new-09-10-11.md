@@ -5,12 +5,12 @@
 ---
 
 # DECK 09: STAGING & ACTING FOR BOARDS
-**Target: 30 slides · Session 12, at final-project launch**
+**Target: 30 slides · Class 9, at final-project launch · BUILT**
 
 ## Why this deck exists
-Your course teaches where to put the camera very thoroughly and never teaches what the character is *doing* inside the frame. Every critique note that sounds like "it's stiff" or "I can't tell what they want" is an acting note, and there's currently no vocabulary for it. This is also the deck where your Marvel Way material finally has a proper home instead of being crammed into Session 1.
+Your course teaches where to put the camera very thoroughly and never teaches what the character is *doing* inside the frame. Every critique note that sounds like "it's stiff" or "I can't tell what they want" is an acting note, and there's currently no vocabulary for it. This is also the deck where your Marvel Way material finally has a proper home instead of being crammed into class 1.
 
-Timed for Session 12 deliberately: students are about to board a story where characters have to *perform*, and this is the last moment the lecture can still change their work.
+Timed for class 9 deliberately: students are about to board a story where characters have to *perform*, and this is the last moment the lecture can still change their work.
 
 ---
 
@@ -48,7 +48,7 @@ Rigid vs. flowing on opposite sides of the figure. Creates energy and readabilit
 *Say: a figure made only of curves is mush. Made only of straights, it's a mannequin.*
 
 **8 · Silhouette, again**
-Callback to Session 1 and to composition.
+Callback to class 1 and to composition.
 The test: fill it black. Can a stranger name the action?
 *Say: I will keep bringing this back all semester because it is the single most useful thing I can teach you.*
 
@@ -102,7 +102,7 @@ Diagrams: facing · one turned away · one higher · distance close vs. far.
 
 **19 · Height and power**
 Who's higher in frame? Who's looking up?
-*Say: this stacks with camera angle from Session 3. Low angle on a character who is also physically higher is redundant. Sometimes you want the contradiction instead.*
+*Say: this stacks with camera angle from class 3. Low angle on a character who is also physically higher is redundant. Sometimes you want the contradiction instead.*
 
 **20 · Distance and intimacy**
 Proxemics: intimate · personal · social · public.
@@ -162,7 +162,7 @@ Same character, same shot size, same moment, *she realizes she's been lied to*, 
 ---
 
 # DECK 10: BOARDING FOR GAMES & INTERACTIVE
-**Target: 28 slides · Session 13**
+**Target: 28 slides · swap-in, recommended class 13 · BUILT**
 
 ## Answering your question first
 You're right, and the deck should say so out loud in the first two minutes: **a cutscene is a film and you board it exactly the same way.** If this deck were only about cutscenes it wouldn't need to exist.
@@ -188,7 +188,7 @@ So the deck's structure is: cutscenes (same as film, fast), then the four things
 *Say: shot sizes, angles, the 180° rule, match on action, eyelines. All identical. If you board a cutscene, board it the way we've been doing all semester. Nothing in the first half of this course gets thrown out.*
 
 **3 · The receipts**
-Stills from *God of War*, *The Last of Us*, *Arcane*, *Uncharted*: all readable with the exact vocabulary from Session 3.
+Stills from *God of War*, *The Last of Us*, *Arcane*, *Uncharted*: all readable with the exact vocabulary from class 3.
 *Say: name the shots. Out loud. You already can.*
 
 **4 · So why a whole session?**
@@ -278,7 +278,7 @@ HUD, health, minimap, reticle, subtitles, objective markers, prompts.
 
 **21 · Safe areas and variable displays**
 Handheld, TV at distance, ultrawide, phone.
-*Say: this is aspect ratio and safe-title from Session 2, with more variables and higher stakes.*
+*Say: this is aspect ratio and safe-title from class 2, with more variables and higher stakes.*
 
 **22 · Readability at speed and at scale**
 Silhouette again, but now for enemies, interactables, and hazards, at small size, in motion.
@@ -316,12 +316,12 @@ Take one beat from your final project. Board it twice: as a linear cutscene, and
 ---
 
 # DECK 11: THE PITCH
-**Target: 26 slides · Session 14 · Paired with a graded assignment**
+**Target: 26 slides · Class 13 · Paired with PR5 · BUILT**
 
 ## Why this is a deck AND an assignment
 You're right that it should be assessed. Pitching is the part of the job that survives everything. It requires zero drawing ability, it's how boards actually move through a studio, and for an independent artist it's the difference between having work and having a career. It's also the one skill in this course where a student with brilliant instincts and shaky hands can be visibly, unambiguously excellent.
 
-It's placed at Session 14 so students pitch their final projects before finishing them, which means the pitch is also a milestone that catches problems while there's still time.
+It's placed at class 13 so students pitch their final projects before finishing them, which means the pitch is also a milestone that catches problems while there's still time.
 
 ---
 
@@ -333,7 +333,7 @@ It's placed at Session 14 so students pitch their final projects before finishin
 > You will spend more of your career explaining boards than drawing them.
 *Say: and nobody teaches it, which is why being decent at it is such an advantage.*
 
-**3 · The precedent** ← callback to Deck 02
+**3 · The precedent** (callback to Deck 02)
 Disney pinned the *Snow White* boards to the wall and **acted the whole film out** for his crew.
 *Say: the storyboard was invented as a pitching tool. Pinning drawings to a wall so you could perform them IS the origin of the format. You've been doing a version of this in every critique since week one.*
 
@@ -449,7 +449,7 @@ A machine can generate a panel. It cannot stand in a room, understand what a dir
 
 ## ASSIGNMENT: The Pitch (50 pts)
 
-**Format:** 3–4 minutes, live, in front of your boards (projected or pinned). Session 14 or 15, scheduled.
+**Format:** 3–4 minutes, live, in front of your boards (projected or pinned). Class 13, scheduled.
 **What you pitch:** your final project sequence, in whatever state it's in. Incomplete is expected and fine: pitch what exists and describe what's coming.
 
 **Deliverable:** the live pitch. Optionally, a recorded version submitted to Canvas for students who want a second attempt or who are genuinely unable to present live.

@@ -52,7 +52,7 @@ Content left a rebuilt deck and currently lands nowhere. These are not optional.
 ---
 
 # DECK 07: STORYTELLING THROUGH LIGHTING
-**42 slides → target ~30 · Session 11 · Paired with EX6**
+**42 slides → target ~30 · class 11 · Paired with EX6**
 
 > **⚠️ Revised.** This deck was previously skipped and is now back in scope. Beyond the repairs below, it must carry the framing that the redesigned **EX6 Lighting Study** depends on. Three additions are load-bearing and are marked **[EX6]** in the outline:
 >
@@ -233,14 +233,14 @@ One panel, three lighting directions: side, back, under. Nothing else changes.
 *Say: same drawing, three different scenes. Post them before you leave.*
 
 **28 · The three tools you just used were one tool** ← **new [EX6]**
-The **light plan** is Deck 04's floor plan with lamps on it. The **three-value reduction** is H3's composition discipline. The **naming test** is Session 1's silhouette test.
+The **light plan** is Deck 04's floor plan with lamps on it. The **three-value reduction** is H3's composition discipline. The **naming test** is class 1's silhouette test.
 *Say: I keep telling you this course is six tools wearing different hats, and this is the session where you can see all three at once. When the floor plan turns up again in the games session, that'll be its fifth appearance. Noticing that is most of what I'm actually trying to teach you.*
 
 ---
 
 ## Assignment pairing
 
-**EX6: Lighting Study**, 40 pts, assigned this session, due Session 13. Brief and rubric written.
+**EX6: Lighting Study**, 40 pts, assigned this session, due class 13. Brief and rubric written.
 
 - **Part 1 · The Read (12)**: eight stills, five attributes each. No making. Directly mirrors slides 4a–4c.
 - **Part 2 · Six Setups (28)**: three-point, side, high key, low key, underlight, low contrast, **in any medium**, with a light plan and a three-value reduction each.
@@ -405,9 +405,9 @@ Build it in Photoshop (or Photopea). Deliver the `.psd` and an export at the cor
 **45 slides → 08a ~24 + 08b ~22 · third in the work order**
 
 ## Why the split
-PROJECT.md §9 moves continuity **earlier, to Session 4, before City Park is assigned**, because City Park assesses continuity and staging under constraint, and it's unreasonable to grade students on rules they haven't been taught. But 45 slides is too much to front-load, and only half of it is needed before the assignment.
+PROJECT.md §9 moves continuity **earlier, to class 4, before City Park is assigned**, because City Park assesses continuity and staging under constraint, and it's unreasonable to grade students on rules they haven't been taught. But 45 slides is too much to front-load, and only half of it is needed before the assignment.
 
-**08a: The Rules (Session 4, before City Park).** The 180° line, screen direction, shot/reverse, match on action, eyeline. Everything City Park is graded on.
+**08a: The Rules (class 4, before City Park).** The 180° line, screen direction, shot/reverse, match on action, eyeline. Everything City Park is graded on.
 **08b: The Cut (later, near the animatic).** Transitions, cutaways and cross-cutting, montage, and the graphic match. Everything that's about *editing rhythm*, which students can't feel until they've timed something.
 
 The source deck's cutaway/cut-in/cross-cut material (33–35) sits on the boundary. It goes to **08b**: those are structural editing devices, not staging rules, and City Park doesn't need them.
@@ -423,7 +423,7 @@ The source deck's cutaway/cut-in/cross-cut material (33–35) sits on the bounda
 ---
 
 ## DECK 08a CONTINUITY: THE RULES
-**Target ~24 slides · Session 4, immediately before City Park is assigned**
+**Target ~24 slides · class 4, immediately before City Park is assigned**
 
 ### PART 1 THE INVISIBLE CRAFT (1–6)
 

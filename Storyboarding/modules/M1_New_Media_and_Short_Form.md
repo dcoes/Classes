@@ -1,5 +1,5 @@
 # Module M1: New Media & Short-Form
-**16 slides · Recommended host: Session 15, replacing Deck 10 · Spec only, not built**
+**16 slides · Recommended host: class 13, replacing Deck 10 · Spec only, not built**
 
 ## Why this module exists
 
@@ -7,7 +7,7 @@ Every frame in this course so far has been wider than it is tall. That is not a 
 
 This is also the only delivery format on the module list that a student is likely to be **paid for on a first job**. Vertical video, six-second pre-roll, title cards, and social cutdowns are entry-level work that exists in volume right now.
 
-And pedagogically it is the cleanest possible callback to Session 2. The founding argument of this course is that **frame shape determines staging.** Vertical is that argument's extreme case, and it arrives thirteen sessions later when students have enough vocabulary to feel it.
+And pedagogically it is the cleanest possible callback to class 2. The founding argument of this course is that **frame shape determines staging.** Vertical is that argument's extreme case, and it arrives late in the term when students have enough vocabulary to feel it.
 
 Deck 02 already carries three slides on vertical, protect-and-deliver, and safe areas. This expands that beachhead into a session.
 
@@ -27,7 +27,7 @@ The horizontal two-shot. Lateral composition. The reveal by pan. Most of what le
 Verticality as a dial. Foreground/background stacking. Proximity: a face fills a vertical frame at a distance that would read as a medium shot horizontally.
 
 **5 · The rule of thirds, rotated**
-The intersections move. Everything you learned in Session 5 still applies; the geometry underneath it changed.
+The intersections move. Everything you learned in the composition class still applies; the geometry underneath it changed.
 
 ### PART 2: STAGING WITHOUT WIDTH (6–10)
 
@@ -38,7 +38,7 @@ Three answers: stack them (one nearer, one further), stagger them vertically, or
 Foreground / midground / background does more work here than anywhere else in the course, because depth is the only axis you have left.
 
 **8 · The 180° rule survives intact**
-Screen direction still exists, eyelines still answer. **Nothing from Session 4 is thrown out.** Worth stating plainly. Students assume the whole system collapses.
+Screen direction still exists, eyelines still answer. **Nothing from the continuity class is thrown out.** Worth stating plainly. Students assume the whole system collapses.
 
 **9 · Shot sizes shift one notch tighter**
 A vertical "medium shot" reads closer than its horizontal equivalent. The vocabulary holds; the calibration moves.

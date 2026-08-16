@@ -166,7 +166,7 @@ If something serious is going on in your life, tell me before the deadline rathe
 
 **Software:** Photoshop, or **Photopea**, which is free, runs in a browser, and opens and saves `.psd` files. For the animatic: After Effects, DaVinci Resolve (free), or Premiere. Any NLE is acceptable.
 
-**The Photoshop prerequisite is not reliably enforced, and I know that.** If you have never opened it, say so early. You will not be the only one, and there is a demo in Session 2. I would much rather spend ten minutes on file formats than have you lose an assignment to one.
+**The Photoshop prerequisite is not reliably enforced, and I know that.** If you have never opened it, say so early. You will not be the only one, and there is a demo in class 2. I would much rather spend ten minutes on file formats than have you lose an assignment to one.
 
 **Physical:** paper and a pencil. That's genuinely it.
 

@@ -175,7 +175,7 @@ Feature animation · TV animation · live action (previs, effects, complex actio
 Animation: boards ARE the film. They drive everything downstream.
 Live action: usually only complex/expensive sequences get boarded.
 Advertising: highly finished, key frames only, made to sell.
-Games: cinematics, plus a whole set of problems we'll cover in Session 13.
+Games: cinematics, plus a whole set of problems we'll cover in class 13.
 
 **30 · Who you'd be working for**
 Director · production designer · previs supervisor · animation director · creative director.

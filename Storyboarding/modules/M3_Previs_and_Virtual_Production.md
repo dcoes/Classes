@@ -1,9 +1,9 @@
 # Module M3: Previs & Virtual Production
-**16 slides · Recommended host: Session 15, replacing Deck 10 · Spec only, not built**
+**16 slides · Recommended host: class 13, replacing Deck 10 · Spec only, not built**
 
 ## Why this module exists
 
-Of everything on the module list, this is the clearest **growth area** for the skill set this course builds. Previs departments hire people who can read a script, break it into shots, and defend the breakdown (which is the entire content of Sessions 3, 4 and 9) and they are considerably less crowded than feature animation.
+Of everything on the module list, this is the clearest **growth area** for the skill set this course builds. Previs departments hire people who can read a script, break it into shots, and defend the breakdown (which is the entire content of the shot, continuity and staging classes) and they are considerably less crowded than feature animation.
 
 It is also the honest bridge for the students in the room who came in through 3D and have been drawing on paper for four weeks wondering where their existing skills went. They went here.
 
@@ -36,13 +36,13 @@ It has a position, a height, a lens, and a physical path. "A bit lower" stops be
 Focal length changes compression and apparent depth, not just how much fits in frame. A 24mm and an 85mm of the same subject at the same size are different *shots*. This is the perspective session arriving as a setting.
 
 **8 · Blocking in a real space**
-Your floor plan is now the actual set. Callback to Session 4: this is the tool's fourth appearance in the course and its most literal one.
+Your floor plan is now the actual set. Callback to the continuity class: this is the tool's fourth appearance in the course and its most literal one.
 
 **9 · Iteration is cheap in a way boards aren't**
 Twenty camera positions in an afternoon. Which changes the *nature* of the decision: the constraint stops being how long it takes to draw and starts being knowing which twenty to try.
 
 **10 · What doesn't change, and this is the point**
-Shot size. Angle. The 180° line. Eyeline. Match on action. Coverage. Composition. **Every single thing from Sessions 3 through 9 transfers unmodified.** Say this plainly; the room expects the opposite.
+Shot size. Angle. The 180° line. Eyeline. Match on action. Coverage. Composition. **Every single thing from the shot, continuity, composition and staging classes transfers unmodified.** Say this plainly; the room expects the opposite.
 
 ### PART 3: VIRTUAL PRODUCTION (11–14)
 
