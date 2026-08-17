@@ -218,6 +218,7 @@ Adapted from the CMU model: students pitched self-directed projects in place of 
 | Quizzes (10) | ✅ `quizzes/`: 150 questions, banks of 15 drawing 5, plus a Canvas QTI import package. Live import untested from here |
 | Deck build scripts | ✅ `build_decks/`: shared `deckkit.py` plus one script per deck, so any deck can be regenerated |
 | Spec for the six remaining decks | ✅ `NewLectures/decks-remaining-02-03-04-06-07-08.md` |
+| Canvas content pages (14) | ✅ `content/`: one lecture-notes page per deck (01–13, 08 split into 08a/08b), named `NN_Title_revision.md`, built from each deck's speaker notes for students to reference after class |
 
 ---
 ---
