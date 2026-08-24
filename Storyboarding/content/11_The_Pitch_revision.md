@@ -24,7 +24,7 @@ It is **not** a defense; nobody in the room is hostile. It is **not** an apology
 
 Story meetings, constantly. Client presentations. Pitching a project to somebody who might fund it. Festival pitch sessions. Grant applications, a written pitch with the same structure. Interviews and portfolio reviews, a pitch about you. Crowdfunding. For an independent artist, that list isn't a set of opportunities, it's the entire funding pipeline. Nobody funds a folder of drawings. They fund a person who can make them see the film.
 
-## How to actually pitch a sequence
+## How to pitch a sequence
 
 **Know it cold.** Perform, don't read. Looking at your own boards to remember what happens next is the tell that you're not ready: eyes belong on the room, and the boards are there for them, not for you. It's twelve to twenty panels of your own work; if you made them, you know them. Rehearse until that's trusted.
 

@@ -44,7 +44,7 @@ Go back to the sun as key light to understand quality of light. A sunny day crea
 
 **Hard light** emphasizes the dramatic, illuminating everything, texture and imperfections included, with clearly defined, sharp-edged shadows. Almost no fill means the eyes go dark; that's a deliberate choice and it's most of why a hard-lit character reads the way they do. **Soft light** softens everything it touches, and it's why actresses in the 1940s were routinely shot in soft, diffused light: it evens out skin tone and hides imperfections. The choice between hard and soft is partly a choice about how honest an image is willing to be about the face in it.
 
-**This is the slide where cinematography becomes storyboarding.** The quality of light decided on determines how a shadow gets drawn: hard light means sharp-edged shadow shapes, soft light means soft gradients. Drawing the hard edge takes confidence; drawing the soft one takes restraint. What matters is that one was picked on purpose.
+**Where cinematography becomes storyboarding.** The quality of light decided on determines how a shadow gets drawn: hard light means sharp-edged shadow shapes, soft light means soft gradients. Drawing the hard edge takes confidence; drawing the soft one takes restraint. What matters is that one was picked on purpose.
 
 ## Direction changes the mood
 

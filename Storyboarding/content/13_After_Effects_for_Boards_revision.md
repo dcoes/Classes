@@ -16,7 +16,7 @@ A board holds blocking, camera, and action. It cannot hold duration: no panel sa
 
 ## The five operations
 
-**1. Import with the layers intact.** File, Import, File, and pick the source PSD. The import dialog offers a choice that matters more than it looks. "Footage" collapses every layer into one flat image, nothing separable. "Composition" keeps layers but resizes them to fill the comp, putting every anchor point in a useless place. "Composition, Retain Layer Sizes" keeps layers at their own dimensions with anchor points that are actually usable, this is the one to pick. Get it wrong and nothing else below is possible, and there's no error message. It just quietly doesn't work.
+**1. Import with the layers intact.** File, Import, File, and pick the source PSD. The import dialog offers a choice that matters more than it looks. "Footage" collapses every layer into one flat image, nothing separable. "Composition" keeps layers but resizes them to fill the comp, putting every anchor point in a useless place. "Composition, Retain Layer Sizes" keeps layers at their own dimensions with anchor points in a useful place, this is the one to pick. Get it wrong and nothing else below is possible, and there's no error message. It just quietly doesn't work.
 
 **2. The anchor point is the joint.** Press Y for the Pan Behind tool, drag a layer's anchor point to where its joint actually is (the shoulder, for an arm), then press V to return to the selection tool. Rotate the layer now, and it pivots from the shoulder. Skip this step, and the same rotation spins the layer around its own middle like a propeller. Every rotation in the program happens around the anchor point, and so does every scale; when a layer scales in an unexpected direction, the anchor is why. It's not technical trivia, it's the joint, and once it's understood that way, a whole category of problems stops being mysterious.
 
@@ -44,7 +44,7 @@ This isn't a broken file. Boards, matte paintings, and reference art all arrive 
 
 **Export**: File, Export, Add to Adobe Media Encoder, then H.264, Match Source, High Bitrate, producing an mp4 that plays anywhere. Do not accept the render queue's default of AVI Lossless, which produces a multi-gigabyte file nobody can play and that Canvas will refuse. That default is the single most common way to lose an evening on this assignment.
 
-## The question this class is actually about
+## The question this class is about
 
 Everything awkward in this process traces back to a decision made, or not made, while drawing. A doorway drawn as its own layer turns the masking step into thirty seconds instead of ten minutes. An arm drawn clear of the torso makes the anchor point obvious. A background drawn wider than the frame lets a character enter from off-frame instead of appearing at the edge. A pan needs artwork past the frame edge; a push needs artwork bigger than the frame. Detail that was never drawn can't be invented later.
 

@@ -2,7 +2,7 @@
 
 **CA 140 Storyboarding · Class 11 notes**
 
-> A storyboard tells you what's in a shot. It cannot tell you how long that shot stays on screen. That's the entire reason animatics exist.
+> A storyboard tells you what's in a shot. It cannot tell you how long that shot stays on screen. That's why animatics exist.
 
 ---
 
@@ -48,7 +48,7 @@ Bringing panels into After Effects works two ways: import as a PNG sequence, tre
 
 ## Sound changes everything
 
-An animatic without audio is a slideshow. An animatic with audio is a film. Play the same twenty seconds silent, then with a temp music track under it, and it's not the same piece of work, even though nothing about the drawings changed. This is the highest return on effort available on this project, and it's often skipped simply because it doesn't feel like it's on the list of graded things.
+An animatic without audio is a slideshow. An animatic with audio is a film. Play the same twenty seconds silent, then with a temp music track under it, and it's not the same piece of work, even though nothing about the drawings changed. This is about the cheapest improvement available on this project, and it's often skipped simply because it doesn't feel like it's on the list of graded things.
 
 What goes under it: temp music to establish tone and drive pacing, ambience so the world feels inhabited, a few key sound effects only where they carry a beat, and scratch dialogue, recorded on a phone, badly, by the artist themselves. That's standard professional practice at this stage, not a shortcut: timing needs something to time against, and a silent animatic with dialogue means guessing at every line's length, and guessing wrong.
 

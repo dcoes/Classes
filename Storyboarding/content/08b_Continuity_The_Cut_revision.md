@@ -20,7 +20,7 @@ A **cut-in** is the opposite move: rather than cutting away from the main action
 
 **Cross-cutting** (parallel editing) intercuts two actions happening at the same time in different places, manipulating both time and space at once, and it's the standard way to build suspense: the bomb ticking, the hero driving, the bomb, the hero. It also makes an argument: putting two things next to each other says they're connected, whether or not anyone in the film says so.
 
-The clearest example is *The Godfather*'s baptism sequence: Michael Corleone stands as godfather at his nephew's christening while, intercut with it, his men murder the heads of the five families. He renounces Satan at the altar while the murders he ordered are carried out. Six minutes, and it moves fast. Neither sequence works alone: a baptism isn't dramatic, and five murders are just violence. The meaning is manufactured entirely by the intercutting, and not one shot had to be redrawn to make it happen. That's the argument for storyboarding a sequence rather than a shot: the meaning lives in the order.
+The clearest example is *The Godfather*'s baptism sequence: Michael Corleone stands as godfather at his nephew's christening while, intercut with it, his men murder the heads of the five families. He renounces Satan at the altar while the murders he ordered are carried out. Six minutes or so, and it moves fast. Neither sequence works alone: a baptism isn't dramatic, and five murders are just violence. The meaning is manufactured entirely by the intercutting, and not one shot had to be redrawn to make it happen. That's the argument for storyboarding a sequence rather than a shot: the meaning lives in the order.
 
 ## Transitions are narrative devices
 

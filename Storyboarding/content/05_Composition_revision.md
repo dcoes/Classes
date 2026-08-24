@@ -52,7 +52,7 @@ There's a rough priority order to where the eye goes: strongest value contrast f
 
 ## Placement and balance
 
-**Rule of thirds**: put the subject on an intersection, not dead center. Genuinely useful and genuinely overrated, treat it as the answer when you don't have a better one, not a rule you must obey. Sometimes centering is exactly right: symmetry reads formal and controlled, which is why it shows up for thrones, altars, and villains, and it also reads instantly at speed, which is why fast action sequences sometimes center nearly every shot on purpose.
+**Rule of thirds**: put the subject on an intersection, not dead center. Useful, and a little overrated, treat it as the answer when you don't have a better one, not a rule you must obey. Sometimes centering is exactly right: symmetry reads formal and controlled, which is why it shows up for thrones, altars, and villains, and it also reads instantly at speed, which is why fast action sequences sometimes center nearly every shot on purpose.
 
 **Symmetrical balance** (equal weight on both sides of an axis) reads stable, deliberate, often institutional, and tells an audience that nothing is about to happen, which makes it a good setup for something happening. **Asymmetrical balance** (one dominant form offset by several smaller ones) carries more visual tension and is what most shots use most of the time, because it feels observed rather than arranged.
 

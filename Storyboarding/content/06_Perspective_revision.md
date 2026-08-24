@@ -2,7 +2,7 @@
 
 **CA 140 Storyboarding · Class 6 notes**
 
-> This is not a draughtsmanship test. Five of the six ways to build depth work no matter how well you draw. This lesson teaches those five first, on purpose.
+> This is not a draftsmanship test. Five of the six ways to build depth work no matter how well you draw. This lesson teaches those five first, on purpose.
 
 ---
 
@@ -14,7 +14,7 @@ Perspective also isn't purely a drawing topic. Linear perspective is a property 
 
 ## Five free depth cues
 
-**Overlap.** Put one object in front of another. The nearer object is complete; the farther one is interrupted, and the brain reads depth instantly, with no construction and no accuracy required. It's the single cheapest depth cue in existence, and it survives bad drawing completely intact: a crude shape in front of another crude shape still reads as depth. If a panel reads flat, the first question isn't "is my perspective wrong," it's "is anything in front of anything."
+**Overlap.** Put one object in front of another. The nearer object is complete; the farther one is interrupted, and the brain reads depth instantly, with no construction and no accuracy required. It's probably the cheapest depth cue there is, and it survives bad drawing completely intact: a crude shape in front of another crude shape still reads as depth. If a panel reads flat, the first question isn't "is my perspective wrong," it's "is anything in front of anything."
 
 **Size and scale.** Closer is bigger, farther is smaller, and relative size does two jobs at once. It gives distance: the same figure drawn smaller reads as farther away. And a known-size object next to an unknown-size one tells the audience how big the unknown thing is, which is why an establishing shot needs a person in it. Without a human-scaled reference, a mountain and a rock look identical.
 
@@ -42,7 +42,7 @@ Perspective also isn't purely a drawing topic. Linear perspective is a property 
 
 **Circles in perspective are ellipses.** Never draw the ellipse freehand: draw the square that contains it, in perspective, then inscribe the ellipse touching the middle of each side. The farther an ellipse sits from the horizon line, the more open it gets; on the horizon, it collapses to a straight line. That single rule fixes most wheel drawings, and it's worth the twenty minutes it takes to learn, since vehicles, cups, and doorways are everywhere and a wrong ellipse is instantly visible.
 
-**Foreshortening** applies perspective within a single form: easy on a pipe or a box, genuinely hard on an arm or a leg. The near end enlarges and the length compresses, usually more than feels right. There's a legitimate professional workaround: if a foreshortened pose is fighting you, change the camera angle so it isn't foreshortened anymore. That's a real decision, not a cop-out, though it's worth noticing whether you're choosing the angle or avoiding the drawing.
+**Foreshortening** applies perspective within a single form: easy on a pipe or a box, hard on an arm or a leg. The near end enlarges and the length compresses, usually more than feels right. There's a legitimate professional workaround: if a foreshortened pose is fighting you, change the camera angle so it isn't foreshortened anymore. That's a real decision, not a cop-out, though it's worth noticing whether you're choosing the angle or avoiding the drawing.
 
 ## What the camera and lens add
 
@@ -58,4 +58,4 @@ Given three film stills, the goal is to name the specific cue at work: "overlap 
 
 ## In conclusion
 
-Six ways to build depth: overlap, size, atmosphere, value, texture, and linear perspective. Five of them cost nothing but the decision to use them. The horizon line is your camera height, move it and you've moved the camera. If perspective has been intimidating before, notice what actually happened in this lesson: five of six tools never required construction. The sixth is worth learning, and it's not the price of entry.
+Six ways to build depth: overlap, size, atmosphere, value, texture, and linear perspective. Five of them cost nothing but the decision to use them. The horizon line is your camera height, move it and you've moved the camera. If perspective has been intimidating before, notice what happened in this lesson: five of six tools never required construction. The sixth is worth learning, and it's not the price of entry.
