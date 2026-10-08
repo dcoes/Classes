@@ -78,10 +78,21 @@ def notes(slide, text):
     paras = [p.strip() for p in text.strip().split("\n\n")]
     first = True
     for para in paras:
-        p = tf.paragraphs[0] if first else tf.add_paragraph()
-        first = False
-        _add_runs(p, " ".join(line.strip() for line in para.splitlines()))
-        p.space_after = Pt(8)
+        lines = [l.strip() for l in para.splitlines() if l.strip()]
+        if any(l.startswith("- ") for l in lines):
+            chunks = []
+            for l in lines:
+                if l.startswith("- ") or not chunks:
+                    chunks.append(l)
+                else:
+                    chunks[-1] += " " + l
+        else:
+            chunks = [" ".join(lines)]
+        for chunk in chunks:
+            p = tf.paragraphs[0] if first else tf.add_paragraph()
+            first = False
+            _add_runs(p, chunk)
+            p.space_after = Pt(8)
     return slide
 
 

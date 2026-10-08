@@ -14,8 +14,8 @@ OUT = os.path.join(ROOT, "PREP_AND_IMAGE_LIST.md")
 
 groups = [
     ("AI Digital Imaging lectures", sorted(glob.glob(os.path.join(ROOT, "lectures", "*.pptx")))),
-    ("Bridge lectures for Digital Imaging and Painting",
-     sorted(glob.glob(os.path.join(ROOT, "bridge_for_Digital_Imaging_and_Painting", "*.pptx")))),
+    ("Bridge lecture: Making Images with AI",
+     sorted(glob.glob(os.path.join(ROOT, "bridge_lecture", "*.pptx")))),
 ]
 
 lines = [
@@ -38,10 +38,18 @@ for heading, files in groups:
         title = prs.slides[0].shapes.title.text
         lines += [f"### {title}", "", f"`{os.path.basename(f)}`, {len(prs.slides)} slides", ""]
         note = prs.slides[0].notes_slide.notes_text_frame.text
+        keep = False
         for para in note.split("\n"):
             para = para.strip()
             if para.startswith(("Prep", "Check before", "What this is", "Boundary")):
+                keep = True
                 lines += [para, ""]
+            elif keep and para.startswith("- "):
+                lines += [para]
+            else:
+                if keep and lines and lines[-1].startswith("- "):
+                    lines += [""]
+                keep = False
         slots = []
         for i, s in enumerate(prs.slides, 1):
             for sh in s.shapes:

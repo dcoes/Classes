@@ -7,9 +7,9 @@ Built October 2026 from the block course outline (16 sessions) and the Canvas ru
 | Folder or file | What it is |
 |---|---|
 | `lectures/` | Sixteen lectures, one per session, `01` to `16`. About 50 minutes each on teaching days; sessions 7, 12, 14 and 16 are critique days with a shorter opening (about 30 minutes, or 15 plus 15 on the last day). |
-| `bridge_for_Digital_Imaging_and_Painting/` | Three stand-alone lectures that bring the thinking behind AI workflows into the painting course as it stands. Students generate nothing. `B2` is written as that course's session 12 lecture (the paint-over), with the outline's own options; `B1` and `B3` can run as extra meetings or in place of a lighter lecture. |
+| `bridge_lecture/` | One self-contained lecture, "Making Images with AI", with two hands-on activities. It drops into any Photoshop course on any day and needs only the instructor's account on the projector. Covers history (Jacquard, the Luddites, photography, Lovelace), how diffusion works, models, prompting, structure input including ID maps, consistency (context, references, LoRAs), upscaling, and the human in the loop. |
 | `PREP_AND_IMAGE_LIST.md` | What to make or check before each class, and every image slot by slide number. Regenerate it after any change. |
-| `images/` | Diagrams and demo images made for these lectures, from scratch or from scikit-image's bundled sample photos. Nothing copyrighted. |
+| `images/` | Diagrams and demo images made for these lectures, from scratch or from scikit-image's bundled sample photos. Nothing copyrighted. The two upscale images are real Real-ESRGAN output (`build_decks/upscale_demo.py`). |
 | `build_decks/` | The build scripts, one per lecture, plus `aikit.py` (helpers) and `gen_images.py`. |
 
 ## How every lecture is laid out
@@ -24,7 +24,7 @@ From the repo root:
 
 ```
 python3 "AI Digital Imaging/build_decks/gen_images.py"
-for f in "AI Digital Imaging/build_decks/"[sb][0-9]*.py; do python3 "$f"; done
+for f in "AI Digital Imaging/build_decks/"s[0-9]*.py "AI Digital Imaging/build_decks/bridge_"*.py; do python3 "$f"; done
 python3 "AI Digital Imaging/build_decks/make_prep_sheet.py"
 ```
 
@@ -34,4 +34,5 @@ The theme comes from `Storyboarding/NewLectures/07_Storytelling_through_Lighting
 
 - Session 9's copyright and court-case slides (current as of October 2026).
 - Which generative features and models are on the lab's Adobe license, and their menu names (sessions 1, 3, 6, 8, 11, 15).
-- The GDC survey figures in session 1 and bridge lecture 1 (2026 report).
+- The GDC survey figures in session 1 (2026 report).
+- The model names and tools on the bridge lecture's models and consistency slides, which change every few months.

@@ -64,7 +64,7 @@ def diffusion_strip():
         a = np.sqrt(s) * img + np.sqrt(1 - s) * (0.5 + 0.35 * noise)
         panels.append(to_img(a))
         labels.append(["pure noise", "step 10", "step 20", "step 30", "step 40", "step 50"][i])
-    save(caption_strip(panels, labels), "diffusion_strip.png")
+    save(caption_strip(panels, labels, size=40, lab_h=70), "diffusion_strip.png")
 
 
 # ------------------------------------------------------------ 2. lit spheres
@@ -119,7 +119,7 @@ def light_spheres():
     for lab, L, key, amb, top, bot, soft, rim in cases:
         panels.append(shade_sphere(S, L, key, amb, top, bot, soft=soft, rim=rim))
         labels.append(lab)
-    save(caption_strip(panels, labels, size=24), "light_spheres.png")
+    save(caption_strip(panels, labels, size=28), "light_spheres.png")
 
 
 # ------------------------------------------------------------ 3. lens compare
@@ -416,7 +416,7 @@ def control_inputs():
     gray = transform.resize(gray, (S, S), anti_aliasing=True)
     ed = feature.canny(gray, sigma=2.0)
     em = to_img(np.stack([ed.astype(float)] * 3, -1))
-    save(caption_strip([sk, ps, dp, em], ["a sketch", "a pose", "a depth map", "an edge map"], size=24),
+    save(caption_strip([sk, ps, dp, em], ["a sketch", "a pose", "a depth map", "an edge map"], size=30),
          "control_inputs.png")
 
 
@@ -576,6 +576,48 @@ def presentation_sheet():
     save(im, "presentation_sheet.png")
 
 
+# ------------------------------------------------------------ 15. render and its color ID map
+def id_map_pair():
+    W, H = 560, 360
+    yy, xx = np.mgrid[0:H, 0:W]
+    # shapes: sky, far hills, a tower, a figure, ground, a tree
+    ground = yy > 250 - 0.08 * (xx - 280)
+    hills = (yy > 190 + 30 * np.sin(xx / 70.0)) & ~ground
+    tower = (np.abs(xx - 410) < 34) & (yy > 70) & ~ground
+    tower_cap = ((xx - 410) ** 2 / 40 ** 2 + (yy - 70) ** 2 / 26 ** 2 <= 1) & (yy <= 70)
+    tower = tower | tower_cap
+    figure = (((xx - 170) / 13) ** 2 + ((yy - 228) / 13) ** 2 <= 1) | ((np.abs(xx - 170) < 14) & (yy > 238) & (yy < 300))
+    tree = ((xx - 80) ** 2 / 46 ** 2 + (yy - 160) ** 2 / 64 ** 2 <= 1) | ((np.abs(xx - 80) < 7) & (yy > 200) & (yy < 280))
+    sky = ~(ground | hills | tower | figure | tree)
+    # "render": soft painted look
+    r = np.zeros((H, W, 3))
+    t = (yy / H)[..., None]
+    r[:] = np.array([0.98, 0.78, 0.52]) * (1 - t) + np.array([0.55, 0.45, 0.6]) * t
+    r[hills] = np.array([0.45, 0.42, 0.55])
+    shade = np.clip((xx - 376) / 68, 0, 1)[..., None]
+    tw = np.array([0.82, 0.66, 0.5]) * (1 - shade) + np.array([0.42, 0.33, 0.35]) * shade
+    r[tower] = tw[tower]
+    gnd = np.array([0.5, 0.45, 0.3]) * (0.7 + 0.3 * np.sin(xx / 9.0 + yy / 5.0))[..., None] * 0.6 + np.array([0.35, 0.3, 0.22]) * 0.4
+    r[ground] = gnd[ground]
+    r[tree] = (np.array([0.22, 0.3, 0.2]) * (0.8 + 0.2 * np.sin(xx / 4.0) * np.cos(yy / 3.0))[..., None])[tree]
+    r[figure] = np.array([0.6, 0.18, 0.15])
+    render = to_img(r).filter(ImageFilter.GaussianBlur(1.2))
+    # ID map: flat colors, one per material or object
+    ids = {"sky": (90, 160, 230), "hills": (140, 100, 200), "tower": (240, 200, 40),
+           "ground": (120, 80, 40), "tree": (40, 170, 70), "figure": (230, 40, 60)}
+    m = np.zeros((H, W, 3), np.uint8)
+    for name, mask in (("sky", sky), ("hills", hills), ("tower", tower), ("ground", ground),
+                       ("tree", tree), ("figure", figure)):
+        m[mask] = ids[name]
+    idm = Image.fromarray(m)
+    d = ImageDraw.Draw(idm)
+    for name, (x, y) in {"sky": (250, 30), "hills": (250, 196), "tower": (382, 150), "ground": (300, 310),
+                         "tree": (56, 150), "figure": (146, 300)}.items():
+        d.text((x, y), name, fill=(255, 255, 255), font=font(22, SANS_B), stroke_width=2, stroke_fill=(0, 0, 0))
+    save(caption_strip([render, idm], ["a painted block-in", "its color ID map"], size=30),
+         "id_map_pair.png")
+
+
 if __name__ == "__main__":
     diffusion_strip()
     light_spheres()
@@ -595,3 +637,4 @@ if __name__ == "__main__":
     type_hierarchy()
     type_on_busy()
     presentation_sheet()
+    id_map_pair()

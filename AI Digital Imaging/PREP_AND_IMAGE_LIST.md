@@ -216,50 +216,27 @@ Image slots:
 
 Prep before class. Collect finals with everything on the checklist. Set up the projector so each presenter can open their sheet quickly; a shared folder in presentation order saves a lot of time. Note cards for written notes. A timer that the room can see.
 
-## Bridge lectures for Digital Imaging and Painting
+## Bridge lecture: Making Images with AI
 
-### What the Machine Is Doing
+### Making Images with AI
 
-`B1_What_the_Machine_Is_Doing.pptx`, 26 slides
+`Making_Images_with_AI.pptx`, 56 slides
 
-What this is. A stand-alone lecture, about 50 minutes, that introduces generative imaging to the painting course without changing its shape. Students don't generate anything. It assumes they've had the value and form-and-light sessions, so it fits best anywhere after session 3; the strongest spot is shortly before the paint-over in session 12, either as an extra meeting or in place of a lecture on a lighter day, keeping that day's own options.
+What this is. A self-contained lecture with two hands-on activities, written to drop into any Photoshop course on any day. It doesn't depend on anything taught before it, and nothing after it depends on it.
 
-Prep. Two or three of your own generated images with typical errors, for the Spot it exercise and for Option A. Slot images: a daguerreotype (public domain), a darkroom print in a tray.
+Prep.
 
-Boundary. This course owns painting fundamentals; the AI course owns generative workflows. This lecture names how the tools work and why a painter can see their mistakes. It doesn't teach prompting or Generative Fill.
-
-Image slots:
-
-- Slide 4: a daguerreotype, e.g. Daguerre's Boulevard du Temple (public domain)
-- Slide 9: a photographic print developing in a darkroom tray
-- Slide 23: one of your generated images with a light or value problem and a hand problem
-
-### The Paint-Over
-
-`B2_The_Paint_Over.pptx`, 25 slides
-
-What this is. The lecture for session 12, the paint-over, which is the one generative exercise in this course. It fits the course as it stands: same session, same options. Milestone 2 (the value block-in for the frame extension) is collected at the start, as scheduled.
-
-Prep. The instructor-generated image set with typical errors (hands, light direction, perspective, mush), one per student plus spares, on Canvas, plus the second image for Option A. One image of your own, already called out and fixed, for the worked example, and one unfixed for the cold reversal. Slot images: a generated hand with errors, a generated image with even, everywhere detail, and the Pope puffer jacket image (2023 or so), shown in class.
+- Your Photoshop (or Firefly) account signed in on the projector machine, with generative features working. Test it that morning.
+- Three target images for the prompt relay: simple, readable pictures (a photo you took, or something you generated earlier). Print them or put them on Canvas so each team can see theirs.
+- One film still, hidden, for describe and sketch.
+- Two upscale examples of your own if you have them, one faithful and one creative.
+- The images for the slots, listed in the prep sheet.
 
 Image slots:
 
-- Slide 2: one of the instructor-generated images from today's set
-- Slide 11: a generated image with even, everywhere detail and uniform edges
-- Slide 13: a generated hand with errors (from today's set)
-- Slide 20: a second generated image from your set, unfixed
-- Slide 21: the generated image of the Pope in a white puffer jacket, 2023 or so
-
-### Directing, Not Operating
-
-`B3_Directing_Not_Operating.pptx`, 21 slides
-
-What this is. A stand-alone lecture, about 50 minutes, on how people who use generators well actually work: a brief, references, a drawing as input, and integration by hand. It suits the week the frame extension thumbnails are due (session 10), because the thumbnail is the hero of the argument. Run it as an extra meeting, or in place of a lighter lecture day, keeping that day's own options if you prefer them to the ones here.
-
-Prep, at home. Take one rough three-value thumbnail (yours, or an anonymous one from a past class, with permission) and run it through a structure-guided workflow, so you have the thumbnail and four or five outputs side by side. Make a set of six generated images for one short brief, for Option A. One film still, hidden, for the describe-and-sketch exercise.
-
-Boundary. This names how direction works so painters can see where their skills fit. It doesn't teach prompting or Generative Fill; that's the AI Digital Imaging course.
-
-Image slots:
-
-- Slide 12: a three-value thumbnail beside four or five outputs generated from it as structure input
+- Slide 3: a Jacquard loom, or a stack of its punched cards (public domain engravings and photos are easy to find)
+- Slide 4: an engraving of the Luddites or 'General Ludd' from around 1812 (public domain)
+- Slide 5: an early daguerreotype, e.g. Daguerre's Boulevard du Temple, 1838 (public domain)
+- Slide 11: a photographic print coming up in a darkroom developer tray
+- Slide 34: your rough block-in beside two generated passes over it, one at low and one at middle strength
+- Slide 48: the generated image of the Pope in a white puffer jacket, 2023 or so
